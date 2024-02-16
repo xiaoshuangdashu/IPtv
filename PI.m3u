@@ -208,268 +208,271 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="jbty" tvg-name="劲爆体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jbty.png" group-title="数字",劲爆体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,周星星
+#小双电影联播/
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 group-title="小双电影联播",周星星
 http://mmitv.top/pltv/huya.php?id=11342412
-#EXTINF:-1,林正英
+#EXTINF:-1 group-title="小双电影联播",林正英
 http://mmitv.top/pltv/huya.php?id=11342421
-#EXTINF:-1,沈腾
+#EXTINF:-1 group-title="小双电影联播",沈腾
 http://mmitv.top/pltv/huya.php?id=11601968
-#EXTINF:-1,猫和老鼠
+#EXTINF:-1 group-title="小双电影联播",猫和老鼠
 http://mmitv.top/pltv/huya.php?id=11352879
-#EXTINF:-1,成龙
+#EXTINF:-1 group-title="小双电影联播",成龙
 http://mmitv.top/pltv/huya.php?id=11342386
-#EXTINF:-1,李连杰
+#EXTINF:-1 group-title="小双电影联播",李连杰
 http://mmitv.top/pltv/huya.php?id=11342390
-#EXTINF:-1,刘德华
+#EXTINF:-1 group-title="小双电影联播",刘德华
 http://mmitv.top/pltv/huya.php?id=11342424
-#EXTINF:-1,王晶
+#EXTINF:-1 group-title="小双电影联播",王晶
 http://mmitv.top/pltv/huya.php?id=11602058
-#EXTINF:-1,中华小当家
+#EXTINF:-1 group-title="小双电影联播",中华小当家
 http://mmitv.top/pltv/huya.php?id=11342413
-#EXTINF:-1,杰森·斯坦森
+#EXTINF:-1 group-title="小双电影联播",杰森·斯坦森
 http://mmitv.top/pltv/huya.php?id=21059588
-#EXTINF:-1,喜剧专场
+#EXTINF:-1 group-title="小双电影联播",喜剧专场
 http://mmitv.top/pltv/huya.php?id=11602044
-#EXTINF:-1,甄子丹
+#EXTINF:-1 group-title="小双电影联播",甄子丹
 http://mmitv.top/pltv/huya.php?id=11352935
-#EXTINF:-1,巨石强森
+#EXTINF:-1 group-title="小双电影联播",巨石强森
 http://mmitv.top/pltv/huya.php?id=21059581
-#EXTINF:-1,洪金宝
+#EXTINF:-1 group-title="小双电影联播",洪金宝
 http://mmitv.top/pltv/huya.php?id=11279251
-#EXTINF:-1,詹姆斯邦德
+#EXTINF:-1 group-title="小双电影联播",詹姆斯邦德
 http://mmitv.top/pltv/huya.php?id=21059585
-#EXTINF:-1,徐克
+#EXTINF:-1 group-title="小双电影联播",徐克
 http://mmitv.top/pltv/huya.php?id=11352909
-#EXTINF:-1,周润发
+#EXTINF:-1 group-title="小双电影联播",周润发
 http://mmitv.top/pltv/huya.php?id=11342387
-#EXTINF:-1,徐峥
+#EXTINF:-1 group-title="小双电影联播",徐峥
 http://mmitv.top/pltv/huya.php?id=11602043
-#EXTINF:-1,许氏三杰
+#EXTINF:-1 group-title="小双电影联播",许氏三杰
 http://mmitv.top/pltv/huya.php?id=11602033
-#EXTINF:-1,黄渤
+#EXTINF:-1 group-title="小双电影联播",黄渤
 http://mmitv.top/pltv/huya.php?id=11352876
-#EXTINF:-1,张卫健
+#EXTINF:-1 group-title="小双电影联播",张卫健
 http://mmitv.top/pltv/huya.php?id=11342423
-#EXTINF:-1,冯小刚
+#EXTINF:-1 group-title="小双电影联播",冯小刚
 http://mmitv.top/pltv/huya.php?id=11352906
-#EXTINF:-1,百鸟朝凤
+#EXTINF:-1 group-title="小双电影联播",百鸟朝凤
 http://mmitv.top/pltv/huya.php?id=15894162
-#EXTINF:-1,陈翔六点半
+#EXTINF:-1 group-title="小双电影联播",陈翔六点半
 http://mmitv.top/pltv/huya.php?id=11274154
-#EXTINF:-1,电锯惊魂系列
+#EXTINF:-1 group-title="小双电影联播",电锯惊魂系列
 http://mmitv.top/pltv/huya.php?id=11352903
-#EXTINF:-1,电影
+#EXTINF:-1 group-title="小双电影联播",电影
 http://mmitv.top/pltv/huya.php?id=618917
-#EXTINF:-1,港台电影
+#EXTINF:-1 group-title="小双电影联播",港台电影
 http://mmitv.top/pltv/huya.php?id=880261
-#EXTINF:-1,高分电影
+#EXTINF:-1 group-title="小双电影联播",高分电影
 http://mmitv.top/pltv/huya.php?id=16615910
-#EXTINF:-1,搞笑僵尸片
+#EXTINF:-1 group-title="小双电影联播",搞笑僵尸片
 http://mmitv.top/pltv/huya.php?id=11352963
-#EXTINF:-1,国产青春
+#EXTINF:-1 group-title="小双电影联播",国产青春
 http://mmitv.top/pltv/huya.php?id=11602075
-#EXTINF:-1,好莱坞
+#EXTINF:-1 group-title="小双电影联播",好莱坞
 http://mmitv.top/pltv/huya.php?id=21059587
-#EXTINF:-1,黑帮斗争
+#EXTINF:-1 group-title="小双电影联播",黑帮斗争
 http://mmitv.top/pltv/huya.php?id=11342419
-#EXTINF:-1,红海行动
+#EXTINF:-1 group-title="小双电影联播",红海行动
 http://mmitv.top/pltv/huya.php?id=11601986
-#EXTINF:-1,金庸的武侠世界
+#EXTINF:-1 group-title="小双电影联播",金庸的武侠世界
 http://mmitv.top/pltv/huya.php?id=11342435
-#EXTINF:-1,金庸电影
+#EXTINF:-1 group-title="小双电影联播",金庸电影
 http://mmitv.top/pltv/huya.php?id=11352897
-#EXTINF:-1,经典高智商
+#EXTINF:-1 group-title="小双电影联播",经典高智商
 http://mmitv.top/pltv/huya.php?id=11352962
-#EXTINF:-1,经典好片
+#EXTINF:-1 group-title="小双电影联播",经典好片
 http://mmitv.top/pltv/huya.php?id=11342427
-#EXTINF:-1,经典喜剧片
+#EXTINF:-1 group-title="小双电影联播",经典喜剧片
 http://mmitv.top/pltv/huya.php?id=11352894
-#EXTINF:-1,精彩不断
+#EXTINF:-1 group-title="小双电影联播",精彩不断
 http://mmitv.top/pltv/huya.php?id=24396428
-#EXTINF:-1,精忠岳飞南征北战
+#EXTINF:-1 group-title="小双电影联播",精忠岳飞南征北战
 http://mmitv.top/pltv/huya.php?id=11336578
-#EXTINF:-1,警匪
+#EXTINF:-1 group-title="小双电影联播",警匪
 http://mmitv.top/pltv/huya.php?id=11352886
-#EXTINF:-1,看救援电影
+#EXTINF:-1 group-title="小双电影联播",看救援电影
 http://mmitv.top/pltv/huya.php?id=21059586
-#EXTINF:-1,科幻电影
+#EXTINF:-1 group-title="小双电影联播",科幻电影
 http://mmitv.top/pltv/huya.php?id=11602034
-#EXTINF:-1,路飞
+#EXTINF:-1 group-title="小双电影联播",路飞
 http://mmitv.top/pltv/huya.php?id=16913382
-#EXTINF:-1,麻雀
+#EXTINF:-1 group-title="小双电影联播",麻雀
 http://mmitv.top/pltv/huya.php?id=11352881
-#EXTINF:-1,命案十三宗
+#EXTINF:-1 group-title="小双电影联播",命案十三宗
 http://mmitv.top/pltv/huya.php?id=11601981
-#EXTINF:-1,魔法世界
+#EXTINF:-1 group-title="小双电影联播",魔法世界
 http://mmitv.top/pltv/huya.php?id=21059580
-#EXTINF:-1,欧美电影
+#EXTINF:-1 group-title="小双电影联播",欧美电影
 http://mmitv.top/pltv/huya.php?id=11352880
-#EXTINF:-1,欧美电影
+#EXTINF:-1 group-title="小双电影联播",欧美电影
 http://mmitv.top/pltv/huya.php?id=21059581
-#EXTINF:-1,欧美娱乐
+#EXTINF:-1 group-title="小双电影联播",欧美娱乐
 http://mmitv.top/pltv/huya.php?id=21059574
-#EXTINF:-1,倩女幽魂
+#EXTINF:-1 group-title="小双电影联播",倩女幽魂
 http://mmitv.top/pltv/huya.php?id=11601970
-#EXTINF:-1,女神影院
+#EXTINF:-1 group-title="小双电影联播",女神影院
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1,港台电影
+#EXTINF:-1 group-title="小双电影联播",港台电影
 http://mmitv.top/pltv/huya.php?id=880261
-#EXTINF:-1,黑帮斗争
+#EXTINF:-1 group-title="小双电影联播",黑帮斗争
 http://mmitv.top/pltv/huya.php?id=11342419
-#EXTINF:-1,未知
+#EXTINF:-1 group-title="小双电影联播",未知
 http://mmitv.top/pltv/huya.php?id=11601986
-#EXTINF:-1,金庸电影
+#EXTINF:-1 group-title="小双电影联播",金庸电影
 http://mmitv.top/pltv/huya.php?id=11352897
-#EXTINF:-1,经典电影
+#EXTINF:-1 group-title="小双电影联播",经典电影
 http://mmitv.top/pltv/huya.php?id=11352962
-#EXTINF:-1,经典好片
+#EXTINF:-1 group-title="小双电影联播",经典好片
 http://mmitv.top/pltv/huya.php?id=11342427
-#EXTINF:-1,经典喜剧片
+#EXTINF:-1 group-title="小双电影联播",经典喜剧片
 http://mmitv.top/pltv/huya.php?id=11352894
-#EXTINF:-1,警匪
+#EXTINF:-1 group-title="小双电影联播",警匪
 http://mmitv.top/pltv/huya.php?id=11352886
-#EXTINF:-1,救援电影
+#EXTINF:-1 group-title="小双电影联播",救援电影
 http://mmitv.top/pltv/huya.php?id=21059586
-#EXTINF:-1,科幻电影
+#EXTINF:-1 group-title="小双电影联播",科幻电影
 http://mmitv.top/pltv/huya.php?id=11602034
-#EXTINF:-1,电影22
+#EXTINF:-1 group-title="小双电影联播",电影22
 http://mmitv.top/pltv/huya.php?id=11601981
-#EXTINF:-1,欧美电影
+#EXTINF:-1 group-title="小双电影联播",欧美电影
 http://mmitv.top/pltv/huya.php?id=11352880
-#EXTINF:-1,欧美电影
+#EXTINF:-1 group-title="小双电影联播",欧美电影
 http://mmitv.top/pltv/huya.php?id=21059581
-#EXTINF:-1,电影23
+#EXTINF:-1 group-title="小双电影联播",电影23
 http://mmitv.top/pltv/huya.php?id=11601970
-#EXTINF:-1,史诗级战争电影
+#EXTINF:-1 group-title="小双电影联播",史诗级战争电影
 http://mmitv.top/pltv/huya.php?id=21059556
-#EXTINF:-1,电影24
+#EXTINF:-1 group-title="小双电影联播",电影24
 http://mmitv.top/pltv/huya.php?id=21059579
-#EXTINF:-1,电影55
+#EXTINF:-1 group-title="小双电影联播",电影55
 http://mmitv.top/pltv/huya.php?id=23652317
-#EXTINF:-1,喜剧专场
+#EXTINF:-1 group-title="小双电影联播",喜剧专场
 http://mmitv.top/pltv/huya.php?id=11602044
-#EXTINF:-1,电影26
+#EXTINF:-1 group-title="小双电影联播",电影26
 http://mmitv.top/pltv/huya.php?id=21059577
-#EXTINF:-1,电影77
+#EXTINF:-1 group-title="小双电影联播",电影77
 http://mmitv.top/pltv/huya.php?id=11601971
-#EXTINF:-1,电影78
+#EXTINF:-1 group-title="小双电影联播",电影78
 http://mmitv.top/pltv/huya.php?id=11342414
-#EXTINF:-1,神话
+#EXTINF:-1 group-title="小双电影联播",神话
 http://mmitv.top/pltv/huya.php?id=11352913
-#EXTINF:-1,生活大爆炸
+#EXTINF:-1 group-title="小双电影联播",生活大爆炸
 http://mmitv.top/pltv/huya.php?id=11342417
-#EXTINF:-1,史诗级战争电影
+#EXTINF:-1 group-title="小双电影联播",史诗级战争电影
 http://mmitv.top/pltv/huya.php?id=21059556
-#EXTINF:-1,孙悟空
+#EXTINF:-1 group-title="小双电影联播",孙悟空
 http://mmitv.top/pltv/huya.php?id=11342395
-#EXTINF:-1,太空混战
+#EXTINF:-1 group-title="小双电影联播",太空混战
 http://mmitv.top/pltv/huya.php?id=21059579
-#EXTINF:-1,天雷滚滚
+#EXTINF:-1 group-title="小双电影联播",天雷滚滚
 http://mmitv.top/pltv/huya.php?id=11352945
-#EXTINF:-1,天龙八部
+#EXTINF:-1 group-title="小双电影联播",天龙八部
 http://mmitv.top/pltv/huya.php?id=11602041
-#EXTINF:-1,歪果仁动作
+#EXTINF:-1 group-title="小双电影联播",歪果仁动作
 http://mmitv.top/pltv/huya.php?id=21059552
-#EXTINF:-1,文成公主
+#EXTINF:-1 group-title="小双电影联播",文成公主
 http://mmitv.top/pltv/huya.php?id=11352974
-#EXTINF:-1,我是大哥大
+#EXTINF:-1 group-title="小双电影联播",我是大哥大
 http://mmitv.top/pltv/huya.php?id=23652317
-#EXTINF:-1,喜剧合家欢
+#EXTINF:-1 group-title="小双电影联播",喜剧合家欢
 http://mmitv.top/pltv/huya.php?id=11352877
-#EXTINF:-1,喜剧专场
+#EXTINF:-1 group-title="小双电影联播",喜剧专场
 http://mmitv.top/pltv/huya.php?id=11602044
-#EXTINF:-1,小鲤鱼
+#EXTINF:-1 group-title="小双电影联播",小鲤鱼
 http://mmitv.top/pltv/huya.php?id=11601961
-#EXTINF:-1,悬疑推理
+#EXTINF:-1 group-title="小双电影联播",悬疑推理
 http://mmitv.top/pltv/huya.php?id=17445539
-#EXTINF:-1,杨门女将
+#EXTINF:-1 group-title="小双电影联播",杨门女将
 http://mmitv.top/pltv/huya.php?id=11336590
-#EXTINF:-1,医馆笑传
+#EXTINF:-1 group-title="小双电影联播",医馆笑传
 http://mmitv.top/pltv/huya.php?id=11352891
-#EXTINF:-1,异形世界
+#EXTINF:-1 group-title="小双电影联播",异形世界
 http://mmitv.top/pltv/huya.php?id=21059577
-#EXTINF:-1,甄嬛传
+#EXTINF:-1 group-title="小双电影联播",甄嬛传
 http://mmitv.top/pltv/huya.php?id=11601971
-#EXTINF:-1,止戈电影
+#EXTINF:-1 group-title="小双电影联播",止戈电影
 http://mmitv.top/pltv/huya.php?id=19863777
-#EXTINF:-1,中国功夫
+#EXTINF:-1 group-title="小双电影联播",中国功夫
 http://mmitv.top/pltv/huya.php?id=11352941
-#EXTINF:-1,朱雀青龙
+#EXTINF:-1 group-title="小双电影联播",朱雀青龙
 http://mmitv.top/pltv/huya.php?id=11352905
-#EXTINF:-1,捉妖记
+#EXTINF:-1 group-title="小双电影联播",捉妖记
 http://mmitv.top/pltv/huya.php?id=11342414
-#EXTINF:-1,英叔全集电影
+#EXTINF:-1 group-title="小双电影联播",英叔全集电影
 http://mmitv.top/pltv/yy.php?id=1353685311
-#EXTINF:-1,好片看不停
+#EXTINF:-1 group-title="小双电影联播",好片看不停
 http://mmitv.top/pltv/yy.php?id=28205255
-#EXTINF:-1,狄仁杰1-4部
+#EXTINF:-1 group-title="小双电影联播",狄仁杰1-4部
 http://mmitv.top/pltv/yy.php?id=1351755386
-#EXTINF:-1,周星驰
+#EXTINF:-1 group-title="小双电影联播",周星驰
 http://mmitv.top/pltv/yy.php?id=38670875
-#EXTINF:-1,香港搞笑鬼片
+#EXTINF:-1 group-title="小双电影联播",香港搞笑鬼片
 http://mmitv.top/pltv/yy.php?id=1352227227
-#EXTINF:-1,林正英搞笑僵尸
+#EXTINF:-1 group-title="小双电影联播",林正英搞笑僵尸
 http://mmitv.top/pltv/yy.php?id=1351505899
-#EXTINF:-1,动画片莽荒纪
+#EXTINF:-1 group-title="小双电影联播",动画片莽荒纪
 http://mmitv.top/pltv/yy.php?id=1354930977
-#EXTINF:-1,电影 超好看
+#EXTINF:-1 group-title="小双电影联播",电影 超好看
 http://mmitv.top/pltv/yy.php?id=29460894
-#EXTINF:-1,欧美科幻
+#EXTINF:-1 group-title="小双电影联播",欧美科幻
 http://mmitv.top/pltv/yy.php?id=37988782
-#EXTINF:-1,成龙
+#EXTINF:-1 group-title="小双电影联播",成龙
 http://mmitv.top/pltv/yy.php?id=34460526
-#EXTINF:-1,神探狄仁杰
+#EXTINF:-1 group-title="小双电影联播",神探狄仁杰
 http://mmitv.top/pltv/yy.php?id=38338029
-#EXTINF:-1,鬼吹灯全集
+#EXTINF:-1 group-title="小双电影联播",鬼吹灯全集
 http://mmitv.top/pltv/yy.php?id=1331686180
-#EXTINF:-1,林正英
+#EXTINF:-1 group-title="小双电影联播",林正英
 http://mmitv.top/pltv/yy.php?id=30668277
-#EXTINF:-1,林正英
+#EXTINF:-1 group-title="小双电影联播",林正英
 http://mmitv.top/pltv/yy.php?id=34229877
-#EXTINF:-1,蓝光亮剑
+#EXTINF:-1 group-title="小双电影联播",蓝光亮剑
 http://mmitv.top/pltv/yy.php?id=1353392400
-#EXTINF:-1,天龙八部
+#EXTINF:-1 group-title="小双电影联播",天龙八部
 http://mmitv.top/pltv/yy.php?id=1351814644
-#EXTINF:-1,24小时蓝光大片 
+#EXTINF:-1 group-title="小双电影联播",24小时蓝光大片
 http://mmitv.top/pltv/yy.php?id=24066336
-#EXTINF:-1,顶级欧美电影
+#EXTINF:-1 group-title="小双电影联播",顶级欧美电影
 http://mmitv.top/pltv/yy.php?id=24923327
-#EXTINF:-1,欧美电影
+#EXTINF:-1 group-title="小双电影联播",欧美电影
 http://mmitv.top/pltv/yy.php?id=29170933
-#EXTINF:-1,电视剧
+#EXTINF:-1 group-title="小双电影联播",电视剧
 http://mmitv.top/pltv/yy.php?id=1453059740
-#EXTINF:-1,陪你看电影
+#EXTINF:-1 group-title="小双电影联播",陪你看电影
 http://mmitv.top/pltv/yy.php?id=24407222
-#EXTINF:-1,鹿鼎记经典
+#EXTINF:-1 group-title="小双电影联播",鹿鼎记经典
 http://mmitv.top/pltv/yy.php?id=28265277
-#EXTINF:-1,一起来看电影
+#EXTINF:-1 group-title="小双电影联播",一起来看电影
 http://mmitv.top/pltv/yy.php?id=1354210357
-#EXTINF:-1,斗罗斗破
+#EXTINF:-1 group-title="小双电影联播",斗罗斗破
 http://mmitv.top/pltv/yy.php?id=28796627
-#EXTINF:-1,封神榜
+#EXTINF:-1 group-title="小双电影联播",封神榜
 http://mmitv.top/pltv/yy.php?id=1353426319
-#EXTINF:-1,天下第一
+#EXTINF:-1 group-title="小双电影联播",天下第一
 http://mmitv.top/pltv/yy.php?id=1354780649
-#EXTINF:-1,神雕侠侣倚天屠龙
+#EXTINF:-1 group-title="小双电影联播",神雕侠侣倚天屠龙
 http://mmitv.top/pltv/yy.php?id=1351762426
-#EXTINF:-1,电视剧
+#EXTINF:-1 group-title="小双电影联播",电视剧
 http://mmitv.top/pltv/yy.php?id=29216766
-#EXTINF:-1,国产玄幻
+#EXTINF:-1 group-title="小双电影联播",国产玄幻
 http://mmitv.top/pltv/yy.php?id=1351417866
-#EXTINF:-1,武侠玄幻
+#EXTINF:-1 group-title="小双电影联播",武侠玄幻
 http://mmitv.top/pltv/yy.php?id=28099939
-#EXTINF:-1,康熙微服私访记
+#EXTINF:-1 group-title="小双电影联播",康熙微服私访记
 http://mmitv.top/pltv/yy.php?id=1352811698
-#EXTINF:-1,港剧悬疑破案
+#EXTINF:-1 group-title="小双电影联播",港剧悬疑破案
 http://mmitv.top/pltv/yy.php?id=10425097
-#EXTINF:-1,全职高手
+#EXTINF:-1 group-title="小双电影联播",全职高手
 http://mmitv.top/pltv/yy.php?id=26870427
-#EXTINF:-1,隋唐英雄
+#EXTINF:-1 group-title="小双电影联播",隋唐英雄
 http://mmitv.top/pltv/yy.php?id=1352475619
-#EXTINF:-1,燕双鹰专场
+#EXTINF:-1 group-title="小双电影联播",燕双鹰专场
 http://mmitv.top/pltv/yy.php?id=1352227153
-#EXTINF:-1,和绅
+#EXTINF:-1 group-title="小双电影联播",和绅
 http://mmitv.top/pltv/yy.php?id=1354143978
+
 
 #国际频道/18个频道
 #EXTINF:-1 tvg-id="D01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际",凤凰中文

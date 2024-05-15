@@ -5,7 +5,7 @@
    
      {
       "key": "豆豆",
-      "name": "快手号济宁裁缝大叔",
+      "name": "豆瓣小白龙",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -711,7 +711,9 @@
     },
     
     { "key": "横版影院", "name": "❤短剧一
-    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, 
+
+"categories": [ "短剧" ] }, 
  {
       "key": "种子短剧",
       "name": "短剧二",
@@ -726,13 +728,17 @@
                               "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
                                     "ext": {
                                               "数组": "class=\"stui-vodlist__box&&</li",
-                                                      "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                                                      "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/
+
+{catePg}/year/{year}.html",
                                                               "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
                                     }
 
     },
    
-{ "key": "csp_AppYsV2_Mxone", "name": "💚┃短剧2┃短剧", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/", "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
+{ "key": "csp_AppYsV2_Mxone", "name": "💚┃短剧2┃短剧", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": 
+
+"https://www.kuin.one/api.php/app/", "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
 
     {
       "key": "csp_Bili短剧",
@@ -1092,7 +1098,9 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-"lives":[{"name":"live","type":0,"url":"http://124.71.189.194/zb.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
+"lives":[{"name":"live","type":0,"url":"https://www.gitlink.org.cn/api/yangshuang/shuang/raw/fan.txt?ref=master","playerType":1,"ua": 
+
+"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 
 
 }

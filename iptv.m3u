@@ -8,7 +8,8 @@
 凤凰中文,http://171.88.37.49:4022/udp/239.93.1.9:2192
 凤凰资讯,http://171.88.37.49:4022/udp/239.93.0.118:2191
 凤凰资讯,http://171.88.37.49:4022/udp/239.93.1.4:2191
-
+星影,http://123.117.36.218:88/rtp/239.3.1.94:4120
+北京IPTV淘电影,http://123.117.36.218:88/rtp/239.3.1.250:8001
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.160:8164
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.1:8008
 
@@ -21,7 +22,7 @@
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.37:8002
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.210:8068
 
-北京IPTV淘电影	,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.161:8160
+北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.161:8160
 
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001/udp/225.1.8.21:8002
 
@@ -400,7 +401,48 @@ CCTV14,http://123.117.36.218:88/rtp/239.3.1.65:8132
 CCTV15,http://123.117.36.218:88/rtp/239.3.1.153:8136
 CCTV16,http://123.117.36.218:88/rtp/239.3.1.184:8001
 CCTV17,http://123.117.36.218:88/rtp/239.3.1.151:8144
-
+综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
+综合频道2,http://zby.xjqxz.top/zh02/live.m3u8
+综合频道3,http://zby.xjqxz.top/zh03/live.m3u8
+综合频道4,http://zby.xjqxz.top/zh04/live.m3u8
+综合频道5,http://zby.xjqxz.top/zh05/live.m3u8
+综合频道6,http://zby.xjqxz.top/zh06/live.m3u8
+综合频道7,http://zby.xjqxz.top/zh07/live.m3u8
+综合频道8,http://zby.xjqxz.top/zh08/live.m3u8
+综合频道9,http://zby.xjqxz.top/zh09/live.m3u8
+综合频道10,http://zby.xjqxz.top/zh10/live.m3u8
+综合频道11,http://zby.xjqxz.top/zh11/live.m3u8
+综合频道12,http://zby.xjqxz.top/zh12/live.m3u8
+综合频道13,http://zby.xjqxz.top/zh13/live.m3u8
+综合频道14,http://zby.xjqxz.top/zh14/live.m3u8
+综合频道15,http://zby.xjqxz.top/zh15/live.m3u8
+港片1轮播,http://zby.xjqxz.top/hkdy1/live.m3u8
+港片2轮播,http://zby.xjqxz.top/hkdy2/live.m3u8
+国产院线1,http://zby.xjqxz.top/live18/live.m3u8
+国产院线2,http://zby.xjqxz.top/gcwx2/live.m3u8
+国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
+国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
+国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
+周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
+李连杰专辑轮播,http://zby.xjqxz.top/lljdy/live.m3u8
+成龙专辑轮播,http://zby.xjqxz.top/cldy/live.m3u8
+好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
+中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
+抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
+谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
+谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
+谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
+谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
+谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
+古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
+古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
+古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
+古装电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8
+古装电视剧4,http://zby.xjqxz.top/gzdsj4/live.m3u8
+古装电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
+都市电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+都市电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
 北京IPTV淘电影,http://123.117.36.218:88/rtp/239.3.1.250:8001
 星影,http://123.117.36.218:88/rtp/239.3.1.94:4120
 华数电影1,http://123.117.36.218:88/rtp/239.3.1.92:4120
@@ -5204,6 +5246,8 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
 隋唐英雄,http://zby.xjqxz.top/styx/live.m3u8
 台湾频道,#genre#
+HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 緯來體育,https://s2.pub/cctv-13
 中天新闻,https://s2.pub/cctv-17

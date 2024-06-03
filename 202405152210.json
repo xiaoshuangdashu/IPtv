@@ -217,7 +217,7 @@
             "key": "快云资源",
             "name": "1080P站-X",
             "type": 1,
-            "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,

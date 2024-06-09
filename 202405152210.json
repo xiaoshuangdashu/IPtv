@@ -55,18 +55,13 @@
         "海外动漫"
       ]
     },
-        {
-            "key": "南瓜",
-            "name": "南瓜┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "http://dt.xn--yety82d.love/js/南瓜.js",
-            "jar": "./lib/app.jar"
-        },
+        {"key": "dr_nangua","name": "🎃南瓜┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js"},
+    {"key": "dr_低端","name": "🔥低端┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/骚火.js"},
+    {"key": "dr_荐片","name": "⏳荐片┃Js","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dt.xn--yety82d.love/js/爱看.js"},
+    {"key": "骑骑影院","name": "🚵TVB云播┃济宁裁缝大叔","type": 3,"playerType": 2,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/stanlyshi/roas/raw/master/js/TVB%E4%BA%91%E6%92%AD.js"},
+    {"key": "XYQH_JOJO","name": "🍁┃久久┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "https://gitee.com/stanlyshi/roas/raw/master/js/69%E7%BE%8E%E5%89%A7.js"},
+    {"key": "XBPQ_黑狐","name": "🦝┃黑狐┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","playerType": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "https://gitee.com/stanlyshi/roas/raw/master/js/4k%E5%89%A7%E9%99%A2.js"},
+    {"key": "js_mogu","name": "🍄┃蘑菇┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "http://dt.xn--yety82d.love/js/ddys.js"},
 
   {
             "key": "天天",

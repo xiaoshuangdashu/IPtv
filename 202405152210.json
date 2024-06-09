@@ -62,86 +62,39 @@
     {"key": "XBPQ_黑狐","name": "🦝┃黑狐┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","playerType": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "https://gitee.com/stanlyshi/roas/raw/master/js/4k%E5%89%A7%E9%99%A2.js"},
     {"key": "js_mogu","name": "🍄┃蘑菇┃济宁裁缝大叔","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext": "http://dt.xn--yety82d.love/js/ddys.js"},
 
-  {
-            "key": "天天",
-            "name": "天天┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 2,
-            "ext": "http://dt.xn--yety82d.love/js/骚火.js",
-            "jar": "./lib/app.jar"
-        },
-        {
-            "key": "热播",
-            "name": "热播┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 2,
-            "ext": "http://dt.xn--yety82d.love/js/爱看.js",
-            "jar": "./lib/app.jar"
-        },
-        {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 2,
-            "ext": "http://dt.xn--yety82d.love/js/FreeOK.js",
-            "jar": "./lib/app.jar"
-        },
-        {
-            "key": "发电",
-            "name": "发电┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 2,
-            "ext": "http://dt.xn--yety82d.love/js/ddys.js",
-            "jar": "./lib/app.jar"
-        },
-        {
-            "key": "柠檬",
-            "name": "柠檬┃App",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "playerType": 2,
-            "ext": "http://dt.xn--yety82d.love/js/ddys.js",
-            "jar": "./lib/app.jar"
-        },
-     {
-            "key": "Bdys_spider",
-            "name": "哔滴┃直连",
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://dt.xn--yety82d.love/js/南瓜.js" ,
-            "jar": "./lib/app.jar"
-        },
-           {
-            "key": "快看",
-            "name": "快看┃直连",
-            "type": 3,
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dt.xn--yety82d.love/js/骚火.js",
-            "jar": "./lib/app.jar"
-        },
-       {
-            "key": "ZXZJ",
-            "name": "在线┃直连",
-            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://dt.xn--yety82d.love/js/ddys.js",
-            "jar": "./lib/app.jar"
-        },
+ 
 
+        },
+          
+  { "key": "nangua", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js", "ext": "http://dt.xn--yety82d.love/js/南瓜.js" }, { "key": "新视觉", "name": "🐦┃视觉┃影视", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.80yy3.com/" },  { "key": "csp_LiteApple", "name": "🍎┃苹果┃影视", "type": 3, "playerType": "2", "api": "csp_LiteApple", "searchable": 1, "quickSearch": 1, "filterable": 1 },  { "key": "csp_Auete", "name": "🦝┃Aue┃影视", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "filterable": 1 },  { "key": "FreeOK", "name": "️️👌┃Fre┃影视", "type": 3, "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js", "ext": "http://dt.xn--yety82d.love/js/FreeOK.js" },
+{"key":"drpy_js_腾云驾雾", "name":"☁️腾云┃┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"http://o.nxog.top/m/js/tt.js" },
+
+       {"key":"drpy_js_云雾", "name":"☁️奇珍┃驾雾┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"http://o.nxog.top/m/js/aa.js" },
+      {"key":"drpy_js_驾雾", "name":"☁️🌱酷酷┃的腾┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js" },
+
+      {"key":"drpy_js_", "name":"🍑百忙┃无果┃直采", "type":3, "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js" },
+   {"key": "商店","name": "裁缝商店hao1980.taobao.com","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://o.nxog.top/m/js/103.js"},
+    {
+      "key": "drpy_js_低端",
+      "name": "快手号济宁裁缝大叔| 低端[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ddys_d.js"
+    },
+{
+      "key": "drpy_蜻蜓FM",
+      "name": "快手号济宁裁缝大叔|蜻蜓FM",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E8%9C%BB%E8%9C%93FM.js"
+    },
+    {
+      "key": "drpy_看球",
+      "name": "快手号济宁裁缝大叔|影视工场",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%9C%BA.js"
+    },
   {
       "key": "Lib",
       "name": "快手号济宁裁缝大叔站-C",

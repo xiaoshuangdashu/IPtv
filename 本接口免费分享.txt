@@ -3,27 +3,13 @@
 
 {"wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-
 
-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", "lives":[{"name":"直
-
-播","type":0,"url":"https://codeberg.org/dongguandashu/yang/raw/branch/main/OP/%E6%B5%99%E6%B1%9F
-
-%E8%81%94%E9%80%9A.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.112114.free.hr/","logo":"https://epg.112114.xyz/logo/
-
-{name}.png"}],
-
+jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 "spider":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
 "warningText":"🔥快手号济宁裁缝大叔提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖
 📢智能AI已过滤广告",
-"lives":[
-{"name":"🔥快手号济宁裁缝大叔🔥","type":0,"url":"https://8240.kstore.space/xiaoshuang.txt","playerType":1,"ua": "okhttp/3.12.13","logo": 
 
-"https://live.fanmingming.com/tv/{name}.png"},
-{"name":"IPV4V6","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/xiaoshuangdashu/IPtv/refs/heads/main/12345.txt","playerType":1,"ua": 
-
-"okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
-],
 "sites": [
 {"key":"豆瓣2","name":"📢🔥快手号济宁裁缝大叔🔥榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢🔥快手号济宁裁缝大叔🔥公告❤更新:10/20❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--

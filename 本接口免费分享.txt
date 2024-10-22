@@ -4,7 +4,7 @@
 {"wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-
 
 jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
-"spider":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
+"spider":"https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
 "warningText":"🔥快手号济宁裁缝大叔提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖

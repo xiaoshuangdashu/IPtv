@@ -12,10 +12,7 @@
 📢接口软件永远免费 
 📢长期维护切勿贩卖
 📢智能AI已过滤广告",
-"lives":[
-{"name":"🔥快手号济宁裁缝大叔🔥","type":0,"url":"https://8240.kstore.space/xiaoshuang.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"IPV4V6","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/xiaoshuangdashu/IPtv/refs/heads/main/12345.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
-],
+
 "sites": [
 {"key":"豆瓣2","name":"📢🔥快手号济宁裁缝大叔🔥榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢🔥快手号济宁裁缝大叔🔥公告❤更新:10/20❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=xx&ou=公众号快手号济宁裁缝大叔app;md5;	41c87635d7592069884a5dafa12acabe","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥快手号济宁裁缝大叔🔥"},

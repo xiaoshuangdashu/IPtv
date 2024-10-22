@@ -170,19 +170,19 @@
 
 "parses":
 	[{"name":"-聚合-","type":3,"url":"Demo"},
-{"name":"解析1","type":1,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"XG蓝光","url":"https://jx.yparse.com/index.php?url=","flag":["BBA"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-{"name":"XM蓝光","url":"https://yparse.ik9.cc/index.php?url=","flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-{"name":"MX蓝光","url":"www.8090g.cn/?url=","flag":["MXTV"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-{"name":"TX蓝光","url":"http://jiexi44.qmbo.cn/jiexi/?url=","flag":["TX"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"解析1","type":1,"url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"XG蓝光","url":"http://43.248.100.147:6068/bba/bbajson.php?url=","flag":["BBA"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"XM蓝光","url":"http://121.62.61.51:6888/api/?key=OGTam1Ld9HXVPAcHxD&url=","flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"MX蓝光","url":"http://api.532tvx.cc/api/?key=4abcb43bbec59039e1559e94122c9747&url=","flag":["MXTV"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"TX蓝光","url":"http://43.248.100.147:9527/jx.php?url=","flag":["TX"],"header":{"User-Agent":"Dalvik/2.1.0"}},
 {"name":"MY蓝光","url":"http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=","flag":["mytv","nmys","yhdm"],"header":{"User-Agent":"Dalvik/2.1.0"}},
-{"name":"BN蓝光","url":"https://www.yemu.xyz/?url=","flag":["BNNB"],"header":{"User-Agent":"Dalvik/2.1.0"}},
+{"name":"BN蓝光","url":"http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=","flag":["BNNB"],"header":{"User-Agent":"Dalvik/2.1.0"}},
 {"name":"DJ专线","url":"http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=","flag":["duanju"],"header":{"User-Agent":"Dalvik/2.1.0"}},
 {"name":"XGJ官解","url":"http://43.248.100.147:6068/KEY/XGJ/root/key/60.php?url=","flag":["youku","qq","qiyi","bilibili","mgtv","sohu","letv","xigua"],"header":{"User-Agent":"Dalvik/2.1.0"}},
 {"name":"XGJ聚合","url":"http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=","flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","TX","MXTV","mytv","nmys","yhdm","BNNB","duanju"],"header":{"User-Agent":"Dalvik/2.1.0"}},{"name":"-关注-","type":0,"url":"https://cdn.zyc888.top/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
-{"name":"-快手号济宁裁缝大叔-","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+{"name":"-欧歌-","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"-公众号-","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-{"name":"-快手号济宁裁缝大叔APP-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"-欧歌APP-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"-谢谢-","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}}
 ],
 
@@ -253,6 +253,6 @@
 
 //**
 //本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
-//接口大全 https://xn--dkw0c.v.nxog.top  
-//http://xn--dkw0c.v.nxog.top
+//接口大全 https://xn--tkh-mf3g9f.v.nxog.top  
+
 }

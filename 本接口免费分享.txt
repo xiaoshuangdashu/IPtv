@@ -7,7 +7,7 @@
 
 {name}.png"}],
 
-"spider":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
+"spider":"https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
 "warningText":"🔥快手号济宁裁缝大叔提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖
@@ -204,59 +204,59 @@
  {"name":"快看","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
  {"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
  {"name":"磁力广告","hosts":["magnet"],"regex":["更多","请访问","example","社區","xuu","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{“名称”：“代理”，“主机”：[“raw.githubusercontent.com”，“googlevideo.com”，“cdn.v82u1l.com”，“cdn.iz8qkg.com”，“cdn.kin6c1.com” ","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","access.mypikpak.com","api-drive.mypikpak.com", “user.mypikpak.com”、“youtube.com”、“uhibo.com”、“thze.cc”、“.*boku.*”、“.*nivod.*”、“*.t4tv.hz.cz ",".*ulivetv.*"]},
+{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","access.mypikpak.com","api-drive.mypikpak.com","user.mypikpak.com","youtube.com","uhibo.com","thze.cc",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
 {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
 {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
 {"host":"v.douyin.com","rule":["playwm/?video_id="]},
 {"host": "dyxs20.com","rule": [".m3u8"]},
 {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
-{"主机":"*","规则":["default.365yg.com"]},
+{"host":"*","rule":["default.365yg.com"]},
 {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
 {"host":"*","rule":["douyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
-{"主机":"*","规则":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a )\\?.*"]},
-{"主机":"*","规则":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a) “]}，
-{"name":"欧：智能AI已过滤广告欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online ","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29 :4433/缓存","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
-{"name":"欧：智能AI已过滤广告欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","TVOD"],"rules":[ {"regexp":"AI2"}],"toLog":0},
+{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}, 
+{"name":"欧：智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
+{"name":"欧：智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","TVOD"],"rules":[{"regexp":"AI2"}],"toLog":0},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}
-],
-“伊克”：
+ ],
+"ijk":
 	[{"group":"软解码","options":
-		[{"类别":4,"名称":"opensles","值":"0"},
-		{"类别":4,"名称":"超高格式","值":"842225234"},
-		{"类别":4,"名称":"framedrop","值":"1"},
-		{"类别":4,"名称":"soundtouch","值":"1"},
-		{"category":4,"name":"开始准备","value":"1"},
-		{"类别":1,"名称":"http-检测范围-支持","值":"0"},
+		[{"category":4,"name":"opensles","value":"0"},
+		{"category":4,"name":"overlay-format","value":"842225234"},
+		{"category":4,"name":"framedrop","value":"1"},
+		{"category":4,"name":"soundtouch","value":"1"},
+		{"category":4,"name":"start-on-prepared","value":"1"},
+		{"category":1,"name":"http-detect-range-support","value":"0"},
 		{"category":1,"name":"fflags","value":"fastseek"},
-		{"类别":2,"名称":"skip_loop_filter","值":"48"},
-		{"category":4,"name":"重新连接","value":"1"},
-		{"类别":4,"名称":"最大孔径大小","值":"5242880"},
+		{"category":2,"name":"skip_loop_filter","value":"48"},
+		{"category":4,"name":"reconnect","value":"1"},
+		{"category":4,"name":"max-buffer-size","value":"5242880"},
 		{"category":4,"name":"enable-accurate-seek","value":"0"},
-		{"类别":4,"名称":"mediacodec","值":"0"},
-		{"类别":4,"名称":"mediacodec-自动旋转","值":"0"},
+		{"category":4,"name":"mediacodec","value":"0"},
+		{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
 		{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-		{"类别":4,"名称":"mediacodec-hevc","值":"0"},
-		{“类别”：1，“名称”：“dns_cache_timeout”，“值”：“600000000”}]}，
+		{"category":4,"name":"mediacodec-hevc","value":"0"},
+		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
 	{"group":"硬解码","options":
-		[{"类别":4,"名称":"opensles","值":"0"},
-		{"类别":4,"名称":"超高高清","值":"842225234"},
-		{"类别":4,"名称":"framedrop","值":"1"},
-		{"类别":4,"名称":"soundtouch","值":"1"},
-		{"category":4,"name":"开始准备","value":"1"},
-		{"类别":1,"名称":"http-检测范围-支持","值":"0"},
+		[{"category":4,"name":"opensles","value":"0"},
+		{"category":4,"name":"overlay-format","value":"842225234"},
+		{"category":4,"name":"framedrop","value":"1"},
+		{"category":4,"name":"soundtouch","value":"1"},
+		{"category":4,"name":"start-on-prepared","value":"1"},
+		{"category":1,"name":"http-detect-range-support","value":"0"},
 		{"category":1,"name":"fflags","value":"fastseek"},
-		{"类别":2,"名称":"skip_loop_filter","值":"48"},
-		{"category":4,"name":"重新连接","value":"1"},
-		{"类别":4,"名称":"最大孔径大小","值":"5242880"},
+		{"category":2,"name":"skip_loop_filter","value":"48"},
+		{"category":4,"name":"reconnect","value":"1"},
+		{"category":4,"name":"max-buffer-size","value":"5242880"},
 		{"category":4,"name":"enable-accurate-seek","value":"0"},
-		{"类别":4,"名称":"mediacodec","值":"1"},
-		{"类别":4,"名称":"mediacodec-自动旋转","值":"1"},
+		{"category":4,"name":"mediacodec","value":"1"},
+		{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
 		{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-		{"类别":4,"名称":"mediacodec-hevc","值":"1"},
-		{“类别”：1，“名称”：“dns_cache_timeout”，“值”：“600000000”}]}]，
-"ads":["mimg.0c1q0l.cn"、"www.googletagmanager.com"、"www.google-analytics.com"、"mc.usihnbcq.cn"、"mg.g1mm3d.cn"、"mscs. svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz. com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com" ,"xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com"," um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk. Jiangjunmh.top", "img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.com" cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com" ,"z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com"," vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs 。hnfenxun.com","cms.qdwght.com"]
+		{"category":4,"name":"mediacodec-hevc","value":"1"},
+		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 
 //**
 //本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>

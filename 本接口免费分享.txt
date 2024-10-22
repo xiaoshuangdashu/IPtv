@@ -483,9 +483,7 @@ dkw0c.v.nxog.top/m/jar.php?id=bili&ou=公众号快手号济宁裁缝大叔app;md
 
 %B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣4","name":"📢智能AI已过滤广告","type":3,"api":"csp_Douban","searchable":0}
-
-],
+{"key":"豆瓣4","name":"📢智能AI已过滤广告","type":3,"api":"csp_Douban","searchable":0}],
 
 "parses":
 	[{"name":"-聚合-","type":3,"url":"Demo"},

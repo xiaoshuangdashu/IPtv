@@ -1,11 +1,7 @@
 
 
 
-{"wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", "lives":[{"name":"直播","type":0,"url":"https://codeberg.org/dongguandashu/yang/raw/branch/main/OP/%E6%B5%99%E6%B1%9F
-
-%E8%81%94%E9%80%9A.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.112114.free.hr/","logo":"https://epg.112114.xyz/logo/
-
-{name}.png"}],
+{"wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 
 "spider":"https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
 "warningText":"🔥快手号济宁裁缝大叔提示:

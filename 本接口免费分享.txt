@@ -1,4 +1,4 @@
-{"wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
+
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729584638879/PandaQ241022.txt;md5;875884ef6ede996f17fbcb90b69a3ecd",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",

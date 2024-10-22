@@ -4,13 +4,8 @@
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "https://like.xn--z7x900a.com/panda/0262.png",
   "sites": [{"key":"豆瓣2","name":"📢🔥快手号济宁裁缝大叔🔥榜单u.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢🔥快手号济宁裁缝大叔🔥公告❤更新:10/20❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=xx&ou=公众号快手号济宁裁缝大叔app;md5;	41c87635d7592069884a5dafa12acabe","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=🔥快手号济宁裁缝大叔🔥"},
 
 
-
-{"key":"csp_woog","name":"🐲快手号济宁裁缝大叔┃4K","type":3,"api":"csp_woog","changeable":0,"filterable":1,"jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=og&ou=公众号快手号济宁裁缝大叔app;md5;511b71a61034fa01053d20582f62c402","ext":{"site_urls":["https://xn--jIN-mf3g9f.wog.nxog.top"],"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"}},
-{"key":"快手号济宁裁缝大叔js","name":"🐲快手号济宁裁缝大叔┃非会员3G可播","type":3,"api":"https://xn--dkw0c.v.nxog.top/m/js/4k.min.js","ext":"https://xn--dkw0c.v.nxog.top/m/js/og4K.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_快手号济宁裁缝大叔G","name":"🐲快手号济宁裁缝大叔4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=config&ou=公众号快手号济宁裁缝大叔app;md5;2d68907e16b4a9809ca25071c739245c"},
 
 {"key":"配置中心","name":"❤通用┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},

@@ -1,5 +1,5 @@
 {
-  "spider": "https://git.acwing.com/shuang/my/-/raw/main/%E6%98%9F%E8%BE%B0.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
+  "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
   "lives": [
     {
       "name": "live",
@@ -9,10 +9,257 @@
     }
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+   {"key": "直播转点播","name": "📺电视┃直播","type": 3,"api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tv.nxog.top/m//json/live.php?ou=公众号欧歌
+
+APP"},  
+   {"key": "直播转点播2",
+   "name": "📺电视┃直播2",
+   "type": 3,
+   "api": "https://raw.gitmirror.com/mt123456888/test/main/js/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js","searchable": 0,"quickSearch": 1,"filterable": 0,
+   "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
+
+
+
+{
+      "key": "木叶",
+      "name": "木叶┃App",
+      "jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "saHR0cDovLzE1Ni4yMjUuMzAuNjU6Nzc4OHw2dmF4am40dmJrcmhzenA4fDZ2YXhqbjR2YmtyaHN6cDh8MTAw"
+    },
+
+ {"key":"drpy_js_网",
+  "name":"电影┃7网[js]",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":"https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/7w.json"},
+  
+  {"key":"drpy_js_好趣网",
+  "name":"电视┃好趣网[js]",
+  "type":3,
+  "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
+  {"key":"iysdq","name":"影院┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+  
+  {"key":"xiaogbao18","name":"风暴┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"https://www.cqbfw.com/yingku/{cateId}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$2#综艺$4"}},
+   {
+      "key": "如意",
+      "name": "如意采集",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "体育赛事",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ]
+    },
+   {
+      "key": "风暴",
+      "name": "风暴采集",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "体育赛事",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ]
+    },
+  
+   {"key":"xiaogbao","name":"影视大全┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"http://www.shuoyuchems.com/{cateId}/",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$2#综艺$4"}},
   
   
+   {"key":"iyq139","name":"139┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"https://www.139ys.com/vodtype/{cateId}-{catePg}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+  
+  
+  {"key":"iyq","name":"HDmoli┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"https://www.hdmoli.pro/mlist/index{cateId}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+  {"key":"yingmi","name":"影院┃影迷","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"简介": "剧情介绍:+style=\"og:description;\"&&</div>",
+  "分类url":"https://jumi.tv/type/{cateId}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+      {"key":"yunbo","name":"云播┃影视","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"简介": "剧情介绍:+style=\"og:description;\"&&</div>",
+  "分类url":"http://www.tvyun04.com/vod/type/id/{cateId}/page/{catePg}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+  
+  {"key":"五五影视","name":"┃蓝光┃无广","type":3,"api":"csp_XBPQ","jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=55"},
+  
+  {
+      "key": "黑狐",
+      "name": "黑狐┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "黑狐影院",
+        "主页url": "http://fagmn.com",
+        "数组": "class=\"stui-vodlist__box\"&&</a",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/hls/#php",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+        "线路标题": ">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+        "状态": "地区：&&</p>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "简介：&&</div>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+      }
+    },
+  
+ 
   {"key": "快看",
- "name": "🚁好车快看",
+ "name": "🚁白嫖者联盟",
  "type": 3,
  "api": "csp_XBPQ",
   "ext": { "简介": "剧情介绍:+style=\"description;\"&&</div>",
@@ -49,15 +296,62 @@
  "filterable": 1,
  "ext":"https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/json/%E5%A4%A9%E9%BE%99%E9%AB%98%E6%B8%85.json"},
  
- {
-      "key": "南瓜影视",
-      "name": "南瓜┃影视",
+ {"key": "厂长",
+"name": "📔厂长无广",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
+"type": 3,
+"api": "csp_NewCz",
+"playerType": 2,
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1,
+"ext": "https://www.czzy77.com/"
+},
+{"key": "csp_LiteApple",
+"name": "🍎苹果秒播",
+"jar":"https://d.kstore.dev/download/8240/小苹果.jar",
+"type": 3,
+"searchable": 1,
+"quickSearch":1,
+"changeable": 1,
+"api": "csp_LiteApple",
+"playerType": 1,
+"filterable": 1,
+"ext": ""},
+{"key": "糯米",
+"name": "🥬菠菜秒播",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fan.txt",
       "type": 3,
-      "api": "csp_Nangua",
+      "api": "csp_Nmyswv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
+{"key":"南瓜",
+"name":"🎃南瓜秒播",
+"jar":"http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+"type": 3,
+"searchable": 1,
+"quickSearch":1,
+"changeable": 1,
+"api": "csp_NanGua",
+"playerType": 1,
+"filterable": 1,
+"ext": ""
+ },
+ {
+"key": "木星",
+"name": "🌞木星影视",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fan.txt",
+"type": 3,
+"api": "csp_AppSx",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 1,
+"playerType": 1,
+"filterable": 1,
+"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+ },
  
   {
       "key": "快手号济宁裁缝大叔",
@@ -77,7 +371,34 @@
  "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#纪录片$40" } 
  },
-  {
+     { "key": "花姐1",
+      "name": "🎦┃花姐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+         "简介": "剧情介绍: +style=\"fed-part-esan;\"&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      "分类url": "http://iyiwang.com/search.php?searchtype=5&tid={cateId}",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+   {
+      "key": "哈1",
+      "name": "🎦┃平民影视2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+         "线路标题": "快手号济宁裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+ 
+      "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+      "分类url": "https://www.whfgjx.com/type/{cateId}.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+   {
       "key": "哈利",
       "name": "🎦┃平民影视快手号济宁裁缝大叔",
       "type": 3,
@@ -87,12 +408,49 @@
          "副标题":"裁缝在线+module-item-note&&</div>",
  
       "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-      "分类url": "https://www.sxjnkj.cn/vodtype/{cateId}.html",
+      "分类url": "https://www.xqe889.com/class/{cateId}.html",
  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
       }
     },
-   
-    
+      {
+      "key": "飞速",
+      "name": "飞速采集",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "体育赛事",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ]
+    },
    {
       "key": "小茶杯狐TV",
       "name": "🎦┃小茶杯狐TV",
@@ -110,6 +468,8 @@
 
       }
     },
+ {"key":"wnys","name":"🐌蜗牛┃多线","type":0,"api":"https://dy.5209426.xyz/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+ 
  
  
       {
@@ -159,7 +519,7 @@
     },
 {
       "key": "统一",
-      "name": "🎦┃统一",
+      "name": "🎦┃mtyy",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {    "线路标题": "快手号济宁裁缝大叔专线",
@@ -187,8 +547,8 @@
  
         "简介": "快手号济宁裁缝大叔: +style=\"description;\"&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-      "分类url": "https://wuwu4ap.wiki/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
+      "分类url": "https://gxyj.org/gxvodtype/{cateId}.html",
+        "分类": "首页$1#电影$1#电视剧$2#综艺$3#动漫$4#豆瓣电影Top250$6"
       }
     },
    {
@@ -201,49 +561,16 @@
       "changeable": 0,
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
     },
-  {
-      "key": "黑狐",
-      "name": "🐺┃黑狐┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "黑狐影院",
-        "主页url": "http://fagmn.com",
-        "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-        "线路标题": ">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "状态": "地区：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-      }
-    },
+  {"key":"xbpq_鲨鱼","name":"鲨鱼┃影视","type":3,
+  "api":"csp_XBPQ",
+  "ext":{
+          "线路标题": "快手号济宁裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+
+ 
+        "简介": "快手号济宁裁缝大叔: +style=\"description;\"&&</div>",
+        "分类url":"https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+  "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna","类型":"动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}},
   {"key":"糖豆广场舞T4","name":"💃糖豆广场舞{T4}","type":4,"api":"https://catbox.n13.club/t4/tangdou.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
 
    
@@ -605,22 +932,22 @@
  
        "简介": "万能(快手号|济宁裁缝大叔)剧情介绍: +style=description\">&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-      "分类url": "http://www.tvyun02.com/vod/type/id/{cateId}.html",
+      "分类url": "http://www.tvyun03.com/vod/type/id/{cateId}.html",
  "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
       {
       "key": "dyxs",
-      "name": "🎦┃电影先生",
+      "name": "🎦麒麟电影网",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {"线路标题": "快手号济宁裁缝大叔专线",
          "副标题":"裁缝在线+module-item-note&&</div>",
-        "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+        
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+        "分类url": "http://occfsc.org/show/{cateId}--------{catePg}---.html",
 
-   "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+   "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
       }
     },    
         
@@ -1061,22 +1388,7 @@
 
     },
 
-  {
-      "key": "18热播",
-      "name": "🎦5432┃热播┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-         "简介": "剧情介绍:+style=\"hl-text-muted;\"&&</div>",
-        "线路标题": "快手号济宁裁缝大叔专线",
-         "副标题":"裁缝在线+module-item-note&&</div>",
-        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://wwxzj.wiki/vodshow/{cateId}--------{catePg}---.html",
-   
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"
-      }
-
-    },
+ 
       {
       "key": "5连续剧",
       "name": "35影院",
@@ -1106,20 +1418,7 @@
       
       },
       
-     {
-      "key": "87连续剧",
-      "name": "518济宁裁缝大叔",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-          "简介": "剧情介绍:+style=\"hl-text-muted;\"&&</div>",
-        "线路标题": "快手号济宁裁缝大叔专线",
-         "副标题":"裁缝在线+module-item-note&&</div>",
-        
-        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://wuwtm.wiki/vodshow/{cateId}--------{catePg}---.html",
-       "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$6"  }
-      },
+     
      
         
                    {
@@ -1153,13 +1452,11 @@
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
         "分类url": "http://www.huiwubao.net/hui/{cateId}-{catePg}.html",
 
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#恐怖片$5#剧情$6战争$1#家庭$2#奇幻$4#魔幻$3#冒险$5#歌舞$6院线$1#悬疑$2#惊悚$4#犯罪$3#警匪$1#枪战$2#爱情$4#科幻$3#恐怖片$5"
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
         
-        
-        
-        
+    
         
           {
       "key": "片人",
@@ -2022,14 +2319,14 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         "分类url": "https://www.ksksl.com/show/{cateId}/area/{area}/by/{by}/page/{catePg}.html",
         "分类": "育华学堂电影&电视剧&综艺&动漫&记录",
         "分类值": "dy&tv&zy&dm&jl",
-        "公众号：育华学堂": ""
+        "量子：育华学堂": ""
       }
     },
     {
       "key": "csp_xml_ikun",
       "name": "🆖┃ikun┃影视",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "playUrl": "https://www.ikdmjx.com/?url=",
       "quickSearch": 1,
@@ -2337,16 +2634,13 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
       }
     },
-    {
-      "key": "csp_Yj1211",
-      "name": "📽️┃在线┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 0,
-      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
-      "filterable": 1
-    },
+   {"key":"926看球","name":"⚽926┃看球┃直播","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"88js","name":"⚽88┃看球┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Jrsjs","name":"⚽Jrs┃球迷┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"企鹅xp","name":"🐧鹅鹅┃体育┃直播","type":3,"api":"csp_XPath","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
     {
       "key": "drpy_js_哔哩直播",
       "name": "直播 | 哔哩[js]",
@@ -2439,42 +2733,67 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         "欧美综艺"
       ]
     },
-    {
-      "key": "忆梦官采",
-      "name": "忆梦官采/解析",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "阿里官采",
-      "name": "阿里官采/解析",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "青蛙官采",
-      "name": "青蛙官采/解析",
-      "type": 1,
-      "api": "http://player.znjson.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "忆梦官采",
-      "name": "忆梦官采/解析",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
+    
+{"key":"索尼采集",
+"name":"🥤索尼秒播",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
+"type":1,
+"api":"https://suoniapi.com/api.php/provide/vod/?ac=list",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"categories":["科幻片",
+"动作片",
+"恐怖片",
+"纪录片",
+"爱情片",
+"战争片",
+"剧情片",
+"喜剧片",
+"大陆剧",
+"港澳剧",
+"台湾剧",
+"欧美剧",
+"动漫电影",
+"韩剧",
+"日剧",
+"泰剧"]},
+{"key":"暴风采集",
+"name":"🌪️暴风秒播",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
+"type":1,
+"api":"https://app.bfzyapi.com/api.php/provide/vod/",
+"playUrl":"",
+"categories":[
+"科幻片",
+"战争片",
+"动作片",
+"剧情片",
+"喜剧片",
+"爱情片",
+"恐怖片",
+"国产剧",
+"香港剧",
+"台湾剧",
+"日本剧",
+"欧美剧",
+"泰国剧",
+"国产动漫",
+"日本动漫",
+"纪录片"]},
+
+{"key":"贱0贱",
+"name":"🧲荐片0影视",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/cc.jar",
+"type":3,
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"playerType":"1",
+"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
+{"key": "csp_xml_百度","name": "快车资源||济宁裁缝大叔","type": 1,"api": "http://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.xymp4.cc/?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]}
   ],
    "parses": [
     {
@@ -2490,7 +2809,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     {
       "name": "-777-",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://www.yemu.xyz/?url="
     },
     {
       "name": "-8090g-",
@@ -2505,7 +2824,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     {
       "name": "-杰森-",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
       "name": "-阳途-",
@@ -2874,79 +3193,79 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         "douyin.com"
       ],
       "regex": [
-        “is_play_url =”
+        "is_play_url="
       ]
     },
     {
       "name": "农民嗅探",
-      “主机”：[
-        “头条网”
+      "hosts": [
+        "toutiaovod.com"
       ],
-      “正则表达式”：[
-        “视频/tos/cn”
+      "regex": [
+        "video/tos/cn"
       ]
     },
     {
       "name": "七新嗅探",
-      “主机”：[
-        “api.52wyb.com”
+      "hosts": [
+        "api.52wyb.com"
       ],
-      “正则表达式”：[
-        “m3u8?pt=m3u8”
+      "regex": [
+        "m3u8?pt=m3u8"
       ]
     },
     {
       "name": "夜市",
-      “主机”：[
-        “yeslivetv.com”
+      "hosts": [
+        "yeslivetv.com"
       ],
-      《剧本》： [
-        “document.getElementsByClassName('vjs-big-play-button')[0].click()”
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
     },
     {
       "name": "毛驴",
-      “主机”：[
-        “www.maolvys.com”
+      "hosts": [
+        "www.maolvys.com"
       ],
-      《得分》： [
+      "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
     },
     {
-      “姓名”：“czzy”，
-      “主机”：[
-        “10086.cn”
+      "name": "czzy",
+      "hosts": [
+        "10086.cn"
       ],
-      “正则表达式”：[
-        “/storageWeb/servlet/downloadServlet”
+      "regex": [
+        "/storageWeb/servlet/downloadServlet"
       ]
     },
     {
-      “名称”：“bdys”，
-      “主机”：[
-        “bytetos.com”，
-        “byteimg.com”，
-        “bytednsdoc.com”，
-        “pstatp.com”
+      "name": "bdys",
+      "hosts": [
+        "bytetos.com",
+        "byteimg.com",
+        "bytednsdoc.com",
+        "pstatp.com"
       ],
-      “正则表达式”：[
-        “/tos-cn”
+      "regex": [
+        "/tos-cn"
       ],
-      “排除”：[
-        “.m3u8”
+      "exclude": [
+        ".m3u8"
       ]
     },
     {
-      “名称”：“bdys10”，
-      “主机”：[
-        “bdys10.com”
+      "name": "bdys10",
+      "hosts": [
+        "bdys10.com"
       ],
-      “正则表达式”：[
-        “/obj/”
+      "regex": [
+        "/obj/"
       ],
-      “排除”：[
-        “.m3u8”
+      "exclude": [
+        ".m3u8"
       ]
     }
   ]

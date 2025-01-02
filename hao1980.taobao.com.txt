@@ -41,6 +41,18 @@ APP"},
   "type":3,
   "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
+   {"key":"iysdq","name":"555影院┃秒播","type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
   {"key":"iysdq","name":"影院┃秒播","type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -53,19 +65,73 @@ APP"},
         
         "线路标题": "快手号济宁裁缝大叔专线",
   "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
-  
-  {"key":"xiaogbao18","name":"风暴┃秒播","type":3,
+  {"key":"yinghe","name":"硬核┃秒播",
+  "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":{"分类url":"https://www.cqbfw.com/yingku/{cateId}.html",
-  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+  "ext":{
+  "分类url":"http://www.jyketjx.com/type/{cateId}-{catePg}.html",
+  "副标题":"快手号济宁裁缝大叔+module-item-note&&</div>",
          "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
         
         
         "线路标题": "快手号济宁裁缝大叔专线",
-  "分类":"电影$1#电视剧$2#动漫$2#综艺$4"}},
+  "分类":"电影$1#电视剧$2#综艺$2#动漫$2"}},
+  {"key":"iysd1q","name":"叮叮┃秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+  "分类url":"https://gaze.run/filter#",
+  "副标题":"快手号济宁裁缝大叔+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#综艺$2#动漫$2"}},
+  {
+      "key": "360",
+      "name": "360采集无广",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod ",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "体育赛事",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ]
+    },
    {
       "key": "如意",
       "name": "如意采集",
@@ -2662,25 +2728,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/虎牙直播.js"
     },
-    {
-      "key": "drpy_哔哩",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "playerType": 1,
-      "ext": "http://dt.xn--yety82d.love/js/B站.js"
-    },
-    {
-      "key": "NoSearch_csp_BBB",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.qiaoji8.com/tvbox/bili.json",
-      "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
-    },
+    
     {
       "key": "Bili",
       "name": "🅱┃哔哔┃合集",
@@ -2691,47 +2739,71 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "ext": "http://www.lyyytv.cn/yt/bili/bili.json",
       "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
     },
-    {"key":"T4-bili1","name":"B站-幼儿(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=少儿教育"},
-{"key":"T4-bili2","name":"B站-小学(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=小学课堂"},
-{"key":"T4-bili3","name":"B站-初中(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=初中课堂"},
-{"key":"T4-bili4","name":"B站-高中(T4)","type":4,"api":"https://catbox.n13.club/t4/bili.php?id=高中课堂"},
+ 
+   
+    
+   {
+      "key": "少儿课堂",
+      "name": "📚少儿┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+    },
+   
     {
-      "key": "csp_xml_优质",
-      "name": "💓┃优质┃影视",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动画片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "jar":"https://d.kstore.dev/download/8240/spider+%284%29.jar",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "jar":"https://gitee.com/uncle-jining-tailor/ip/raw/master/jar/fan.txt",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+     
+      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
     
 {"key":"索尼采集",

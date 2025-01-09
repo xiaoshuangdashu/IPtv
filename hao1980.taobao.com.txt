@@ -35,7 +35,19 @@ APP"},
 			"searchable": 1,
 			"quickSearch": 1
     },
-
+{ "key": "花姐9",
+      "name": "🎦┃85K追剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+         
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      "分类url": "aHR0cHM6Ly84NWsubHRkL2luZGV4LnBocC92b2Qvc2hvdy9pZC97Y2F0ZUlkfS8=",
+ "分类": "电影$1#电视剧$2#动漫$3#综艺$4#最新更新$5#排行榜$6"
+      }
+    },
 {
       "key": "木叶",
       "name": "木叶┃App",

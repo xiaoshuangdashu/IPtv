@@ -44,7 +44,7 @@ APP"},
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
          "线路标题": "裁缝大叔专线",
          "副标题":"裁缝在线+module-item-note&&</div>",
-      "分类url": "aHR0cHM6Ly84NWsubHRkL2luZGV4LnBocC92b2Qvc2hvdy9pZC97Y2F0ZUlkfS8=",
+      "分类url": "https://85k.ltd/index.php/vod/show/id/{cateId}/",
  "分类": "电影$1#电视剧$2#动漫$3#综艺$4#最新更新$5#排行榜$6"
       }
     },

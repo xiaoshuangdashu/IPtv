@@ -17,7 +17,26 @@ APP"},
    "type": 3,
    "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
    "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/live.json"},
-
+     {"key":"世纪","name":"世纪","type":3,
+   "jar":"http://cdn.qiaoji8.com/fix250111.jar",
+ "api":"csp_Drama",
+  "playerType":2,
+  "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
+   
+   
+{ "key": "花姐9",
+      "name": "🎦┃85K追剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+         
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      "分类url": "https://85k.ltd/index.php/vod/show/id/{cateId}/",
+ "分类": "电影$1#电视剧$2#动漫$3#综艺$4#最新更新$5#排行榜$6"
+      }
+    },
  { "key": "push_agent",
       "name": "济宁裁缝大叔警示不要相信广告",
       "type": 1,
@@ -35,19 +54,7 @@ APP"},
 			"searchable": 1,
 			"quickSearch": 1
     },
-{ "key": "花姐9",
-      "name": "🎦┃85K追剧网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": { 
-         
-        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-         "线路标题": "裁缝大叔专线",
-         "副标题":"裁缝在线+module-item-note&&</div>",
-      "分类url": "https://85k.ltd/index.php/vod/show/id/{cateId}/",
- "分类": "电影$1#电视剧$2#动漫$3#综艺$4#最新更新$5#排行榜$6"
-      }
-    },
+
 {
       "key": "木叶",
       "name": "木叶┃App",
@@ -67,7 +74,7 @@ APP"},
   {"key":"drpy_js_好趣网",
   "name":"电视┃好趣网[js]",
   "type":3,
-  "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
   "ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
    {"key":"iysd1q","name":"美易达影院","type":3,
   "api":"csp_XBPQ",
@@ -252,8 +259,9 @@ APP"},
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
          "线路标题": "裁缝大叔专线",
          "副标题":"裁缝在线+module-item-note&&</div>",
-      "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html;;akm0",
-  "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
+   "分类url":"https://m.ytshengde.com/sanyitp/{cateId}-{catePg}.html",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
 
       }
     },
@@ -1862,7 +1870,19 @@ APP"},
     "排序": "综合$1#时间$2#人气$3#评分$4"
 }
     },
-    
+      {
+      "key": "321影视",
+      "name": "🎦┃蚂蚁┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+        "简介": "剧情介绍: +video-info-content vod_content\">&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.huolitu.com/QGKp0hZ/{cateId}--------{catePg}---.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4# 纪录片$5#爽剧$6#今日更新$7"
+      }
+    },
     
     {
       "key": "7味网",
@@ -1916,24 +1936,14 @@ APP"},
       "name": "蓝莓影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
-        
+      "ext": {"线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
         "分类url": "https://www.lanmeidy.com/m/list.html",
         "分类": "电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"
       }
     },
-         {
-      "key": "321影视",
-      "name": "🎦┃蚂蚁┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "剧情介绍: +video-info-content vod_content\">&&</div>",
-        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.huolitu.com/QGKp0hZ/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#剧集$2#动漫$3#综艺$4# 纪录片$5#爽剧$6#今日更新$7"
-      }
-    },
+       
     {
       "key": "微云TV",
       "name": "🎦┃微云TV",
@@ -3183,7 +3193,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       }
     },
     {
-      "name": "live-3",
+      "name": "电影联播",
       "type": 0,
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
       "playerType": 1,
@@ -3198,10 +3208,10 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       }
     },
     {
-      "name": "smart",
+      "name": "加密",
       "type": 3,
       "api": "csp_Smart",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722499582430/smart.txt"
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
     },
     {
       "name": "fanmingming",
@@ -3211,9 +3221,9 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "timeout": 10
     },
     {
-      "name": "gat",
+      "name": "山东联通",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:14:39/1720581279163/48264602/gat.txt",
+      "url": "https://d.kstore.dev/download/8240/xiaoshuang.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",

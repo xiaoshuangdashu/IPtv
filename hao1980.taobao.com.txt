@@ -22,7 +22,172 @@ APP"},
  "api":"csp_Drama",
   "playerType":2,
   "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
+   {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播3","type":3,"api":"https://gh.llkk.cc/https://github.com/sintrs/tvbox/blob/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+ {"key":"drpy_js_好趣网",
+  "name":"🇨🇳┃电视┃好趣网[js]",
+  "type":3,
+  "api":"https://gitee.com/uncle-jining-tailor/ip/raw/master/js/drpy2.min.js",
+  "ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"},
+  {
+      "key": "cspgequzhuan",
+      "name": "🇨🇳歌曲点播 ",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "http://120.53.102.254/dsp",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 
    
+    {
+            "key": "1905",
+            "name": "🇨🇳┃1905经典影视",
+            "type": 3,
+             "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.php",
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+   
+  {
+            "key": " 菜狗.js",
+            "name": " 🇨🇳┃菜狗js",
+            "type": 3,
+            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+            
+            "ext": "https://gitee.com/dentist_chen/tvbox/raw/panroda/Js/%E8%8F%9C%E7%8B%97.js"},
+     
+   { "key": "西瓜视频",
+ "name": "🇨🇳┃西瓜短视频app",
+ "type": 3,
+ "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.php",
+ "api": "csp_AmuXiguaV2",
+ "searchable": 1,
+ "quickSearch": 0,
+ "filterable": 0,
+ "changeable": 0,
+ "style": {
+     "type": "rect",
+     "ratio": 1.597
+ }
+        },
+        
+        
+{"key": "全网影视",
+ "name": "🇨🇳┃神荼蓝光影视",
+ "type": 3,
+ "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.php",
+ "api": "csp_Quanwk",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "https://www.91qkw.com"
+        },
+   {
+ "key": "華為8","name": "🇨🇳┃hw蓝光秒播",
+"type": 3,
+"api": "csp_XBPQ",
+"playUrl": "https://player.dphw8.com/player?url=",
+"ext": "https://d.kstore.dev/download/8240/huawei8.json"
+        },
+
+  {
+            "key": "南瓜弹幕",
+            "name": "🇨🇳南瓜┃蓝光秒播",
+            "jar": "http://cdn.qiaoji8.com/fix250108.jar",
+            "type": 3,
+           "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""   },
+     
+   
+ {"key":"体育_2hmhd",
+"name":"🇨🇳体育点播2┃",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+
+
+"分类url": "https://www.a6club.com/index.php/vod/show/id/52/page/{catePg}.html",
+"分类":"体育&体育1&体育2&体育3","类型": "A$6#B$7#C$8#D$9#G$10#F$11#J$12#H$20#I$26#J$22#L$23#M$24#N$45#O$46#Q$47#R$48||F$13#港台$14#日$15#韩$33#欧美$16#泰$34#新马$35#其他$25||内地$27#港台$28#日本$29#韩国$36#欧美$30#新马泰$37#其他$38||国产$31#日本$32#韩国$39#港台$40#新马泰$41#欧美$42#其他$43"}},
+    
+    {"key":"体育_hmhd",
+"name":"🇨🇳体育点播┃济宁裁缝大叔",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+
+
+"分类url": "https://www.syyidong.com/show/44--------{catePg}---.html",
+"分类":"体育&体育1&体育2&体育3","类型": "A$6#B$7#C$8#D$9#G$10#F$11#J$12#H$20#I$26#J$22#L$23#M$24#N$45#O$46#Q$47#R$48||F$13#港台$14#日$15#韩$33#欧美$16#泰$34#新马$35#其他$25||内地$27#港台$28#日本$29#韩国$36#欧美$30#新马泰$37#其他$38||国产$31#日本$32#韩国$39#港台$40#新马泰$41#欧美$42#其他$43"}},
+    {
+ "key":"移动云盘",
+ "name":"🇨🇳移动｜影视",
+ "type":3,
+ "jar":"https://700sjro44343.vicp.fun/vip/jar/ouge.php",
+ "api":"csp_YDjisu",
+ "searchable":1,
+ "changeable":1
+ },
+   {
+      "key": "浪酷",
+      "name": "🇨🇳┃浪酷┃蓝光",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },
+    {
+      "key": "蝴蝶",
+      "name": "🇨🇳┃蝴蝶┃蓝光",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    
+  {"key":"csp_hmhd",
+"name":"🎃河马┃济宁裁缝大叔",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+
+
+"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+"分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
+
+
+{"key":"csp_ipianba",
+"name":"🎃片吧┃济宁裁缝大叔",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+
+"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+         "分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
    
 { "key": "花姐9",
       "name": "🎦┃85K追剧网",

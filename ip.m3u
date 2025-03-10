@@ -17,13 +17,87 @@
 "lives": [ { "name": "live", "type": 0, "playerType": 1, "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/yangshuang/shuang/raw/fan.txt?ref=master", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" } ],
 //直播
 "lives": [
-{"name":"范明ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"摸鱼儿","type":0,"url":"http://我不是.摸鱼儿.top/live.php","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"饭太硬","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
-{"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"野火","type":0,"url":"https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"wwb521","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-],
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/8240/1107.txt",
+      "playerType": 2
+    },
+    {
+      "name": "live-1",
+      "type": 0,
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "live-2",
+      "type": 0,
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+     {
+      "name": "电影联播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "加密",
+      "type": 3,
+      "api": "csp_Smart",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+    },
+   
+    {
+      "name": "fanmingming",
+      "type": 0,
+      "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt",
+      "playerType": 1,
+      "timeout": 10
+    },
+    {
+      "name": "山东联通",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://github.com/xiaoshuangdashu/yang/blob/main/20241019.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    }
+  ],
 
 //源
 "sites":[

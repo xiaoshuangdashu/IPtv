@@ -151,8 +151,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-"lives": [ { "name": "live", "type": 0, "playerType": 1, "url": "https://ghp.ci/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt", "epg": "https://epg.112114.eu.org/?ch={name}&date={date}", "logo": "https://epg.112114.eu.org/logo/{name}.png" } ],
-//安全DNS
+
 "doh": [
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
@@ -194,7 +193,10 @@
 {"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驴","hosts": ["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]},
 {"name":"磁力","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
-],"lives": [
+],
+
+"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
+"lives": [
     {
       "name": "电视直播",
       "type": 0,
@@ -275,7 +277,5 @@
         "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
       }
     }
-  ],
-
-"ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+  ]
 }

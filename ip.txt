@@ -16,6 +16,7 @@
 "wallpaper":"https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png",
 
 //直播
+
  "lives": [
     {
       "name": "live",

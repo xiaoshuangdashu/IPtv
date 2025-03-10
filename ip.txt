@@ -14,7 +14,7 @@
 
 //壁纸
 "wallpaper":"https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png",
-"lives": [ { "name": "live", "type": 0, "playerType": 1, "url": "https://gh.llkk.cc/https://github.com/xiaoshuangdashu/yang/blob/main/20241019.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png" } ],
+
 //直播
  "lives": [
     {

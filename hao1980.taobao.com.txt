@@ -14,7 +14,7 @@
 			"key": "TV",
 			"name": "电视TV(快手号|济宁裁缝大叔)",
 			"type": 1,
-			"api": "https://yys.gangko.cn/api.php/provide/vod/from/youku/?ac=list",
+			"api": "http://zy.xiaomaomi.cc/api.php/provide/vod",
 			"playUrl": "http://www.quanminjiexi.com/jx/?url=",
 			"searchable": 1,
 			"quickSearch": 1

@@ -23,7 +23,7 @@
       "name": "🎦┃BT天堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/XBPQ/%E5%9C%A3%E5%9F%8E1080.json"},
+      "ext":"https://gitee.com/yanglongxiang/xs/raw/master/coco.json"},
 
 {"key":"火腾讯采集","name":"🌀腾讯采集","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qq/?ac=list"},
 {"key":"奇异采集","name":"🌀奇异采集影视","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qiyi/?ac=list"},

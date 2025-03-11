@@ -20,7 +20,11 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-
+{ "key": "T天堂9",
+      "name": " 🇧🇲┃B天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext":"https://d.kstore.dev/download/8240/%E5%8F%AF%E5%8F%AF.json"},
 {"key":"火腾讯采集","name":"🌀腾讯采集","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qq/?ac=list"},
 {"key":"奇异采集","name":"🌀奇异采集影视","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qiyi/?ac=list"},
 {"key":"优酷采集","name":"🌀优酷采集影视","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://yys.gangko.cn/api.php/provide/vod/from/youku/?ac=list"},

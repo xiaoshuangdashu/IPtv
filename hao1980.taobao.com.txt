@@ -15,7 +15,7 @@
 			"name": "电视TV(快手号|济宁裁缝大叔)",
 			"type": 1,
 			"api": "https://yys.gangko.cn/api.php/provide/vod/from/youku/?ac=list",
-			"playUrl": "https://jx.xmflv.com/?url=",
+			"playUrl": "https://jx.77flv.cc/?url=",
 			"searchable": 1,
 			"quickSearch": 1
 		},

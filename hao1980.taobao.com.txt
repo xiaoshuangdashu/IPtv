@@ -9,6 +9,17 @@
     }
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+
+{
+			"key": "TV",
+			"name": "电视TV(快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "https://yys.gangko.cn/api.php/provide/vod/from/youku/?ac=list",
+			"playUrl": "https://jx.xmflv.com/?url=",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+
 {"key":"火腾讯采集","name":"🌀腾讯采集","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qq/?ac=list"},
 {"key":"奇异采集","name":"🌀奇异采集影视","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://yys.gangko.cn/api.php/provide/vod/from/qiyi/?ac=list"},
 {"key":"优酷采集","name":"🌀优酷采集影视","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://yys.gangko.cn/api.php/provide/vod/from/youku/?ac=list"},

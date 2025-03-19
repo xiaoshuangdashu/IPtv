@@ -2807,8 +2807,8 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     },
     { "key": 妲己影院i",
       "name": "🇨🇳┃妲己影院",
-      "type": 3,
-      "api": "csp_XBPQ",
+    "type":3,
+"api":"csp_XBPQ",
       "ext": { 
          
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",

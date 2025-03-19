@@ -10,6 +10,18 @@
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
 
+{
+      "key": "js_菜狗",
+      "name": "🐕️┃搜狗┃官网",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/zxj/zxj/-/raw/main/js/搜狗.js"
+    },
+
+
   {"key":"csp_ik",
 "name":"🎃小小┃济宁裁缝大叔",
 "type":3,

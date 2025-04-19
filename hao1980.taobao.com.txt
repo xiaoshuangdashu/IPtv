@@ -20,7 +20,20 @@
       "filterable": 1,
       "ext": "https://jihulab.com/zxj/zxj/-/raw/main/js/搜狗.js"
     },
-
+ {"key":"iysd1q",
+   "name":"美易达影院",
+   "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"分类url":"http://www.zhwyd.com/type/{cateId}.html",
+  "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#综艺$4#动漫$4"}},
 
   {"key":"csp_ik",
 "name":"🎃小小┃济宁裁缝大叔",

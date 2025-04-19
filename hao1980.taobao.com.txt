@@ -27,7 +27,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":{"分类url":"https://www.bestpipe.cn/vodtype/{cateId}.html",
+  "ext":{"分类url":"https://mengdm.vip/vodtype/{cateId}.html",
   "副标题":"快手号济宁裁缝大叔❄️+module-item-note&&</div>",
          "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
         

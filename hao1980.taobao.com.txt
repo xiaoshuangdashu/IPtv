@@ -20,8 +20,8 @@
       "filterable": 1,
       "ext": "https://jihulab.com/zxj/zxj/-/raw/main/js/搜狗.js"
     },
-{"key":"iysd1q",
-   "name":"共青春影院",
+{"key":"ke楠影",
+   "name":"ke楠影院",
    "type":3,
   "api":"csp_XBPQ",
   "searchable":1,

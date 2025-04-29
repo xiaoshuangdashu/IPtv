@@ -45,7 +45,11 @@
       "分类url": "https://www.jiaxin223.com/vtp-{cateId}/",
  "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       } },
-       
+       {"key":"天天","name":"天天","type":3,
+  "jar": "https://gh-proxy.com/github.com/xyq254245/xyqonlinerule/blob/main/qiaoji/fix250304.jar",
+"api":"csp_TTian",
+"playerType":1,
+"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
         {"key":"555热映电影",
 "name":"🔴555电影有伦理注意",
 "type":3,
@@ -60,7 +64,17 @@
          "副标题":"裁缝在线+module-item-note&&</div>",
 "分类url":"https://www.cqhxzb.com/555/class-{cateId}--hits------{catePg}---.html",
 "分类": "电影$1#剧集$2#综艺$4#动漫$3"}},
-
+{"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/"},
+{
+      "key": "金牌_菜狗",
+      "name": "🐕️┃金牌┃官网",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/007%E5%BD%B1%E8%A7%86.js"
+    },
 {
       "key": "js_菜狗",
       "name": "🐕️┃搜狗┃官网",

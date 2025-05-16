@@ -3166,7 +3166,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "key": "csp_xml_ikun",
       "name": "💎┃爱坤┃影视",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://cjhwba.com/api.php/provide/vod/",
       "searchable": 1,
       "playUrl": "https://www.ikdmjx.com/?url=",
       "quickSearch": 1,

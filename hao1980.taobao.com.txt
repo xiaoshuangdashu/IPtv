@@ -3447,7 +3447,9 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 "changeable":1,
 "playerType":"1",
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
+"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},{"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"暴風","name":"影视 | 暴風[直连]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
+
 {"key":"hua华为",
 "name":"huawei华为采集",
 "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",

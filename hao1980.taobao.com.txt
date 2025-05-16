@@ -3295,7 +3295,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 "api":"csp_XPath",
    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt",
 "style":{"type":"list"},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://git.acwing.com/shuang/my/-/raw/main/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json"},
   
     {
       "key": "drpy_js_斗鱼直播",

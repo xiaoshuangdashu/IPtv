@@ -3293,7 +3293,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 
 {"key":"企鹅xp","name":"🐧鹅鹅┃体育┃直播","type":3,
 "api":"csp_XPath",
-   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt",
 "style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
   
@@ -3418,7 +3418,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 "name":"🌪️暴风秒播",
 "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
 "type":1,
-"api":"https://app.bfzyapi.com/api.php/provide/vod/",
+"api":"http://cj.ffzyapi.com//api.php/provide/vod",
 "playUrl":"",
 "categories":[
 "科幻片",
@@ -3440,13 +3440,13 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 
 {"key":"贱0贱",
 "name":"🧲荐片0影视",
-"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/cc.jar",
+
 "type":3,
 "searchable":1,
 "quickSearch":1,
 "changeable":1,
 "playerType":"1",
-"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+"api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 {"key": "csp_xml_百度","name": "快车资源||济宁裁缝大叔","type": 1,"api": "https://www.ikunzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.xymp4.cc/?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]}
   ],

@@ -3288,7 +3288,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     },
    
   
-{"key":"88js","name":"⚽88┃看球┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
+{"key":"88js","name":"⚽88┃看球┃直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
 
 {"key":"企鹅xp","name":"🐧鹅鹅┃体育┃直播","type":3,
@@ -3393,7 +3393,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 "name":"🥤索尼秒播",
 "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/fm.jar",
 "type":1,
-"api":"https://suoniapi.com/api.php/provide/vod/?ac=list",
+"api":"https://json02.heimuer.xyz/api.php/provide/vod",
 "playUrl":"",
 "searchable":1,
 "quickSearch":1,
@@ -3448,7 +3448,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
 "playerType":"1",
 "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
-{"key": "csp_xml_百度","name": "快车资源||济宁裁缝大叔","type": 1,"api": "http://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.xymp4.cc/?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]}
+{"key": "csp_xml_百度","name": "快车资源||济宁裁缝大叔","type": 1,"api": "https://www.ikunzy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.xymp4.cc/?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]}
   ],
    "parses": [
     {

@@ -470,6 +470,50 @@
     }
       }
     },
+{ "key": "www.jjdfby.com",
+      "name": "🇨🇳┃5点影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": { 
+         
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      "分类url": "https://www.5.movie/vodtype/{cateId}.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+
+
+{
+      "key": "金牌_1905",
+      "name": "🇨🇳┃1905┃官网",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E4%BC%98%E9%85%B7.js"
+    },
+    {
+      "key": "348电影网",
+      "name": "🇨🇳┃348电影网┃官网",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"  },
+  
+    {
+      "key": "奇优影院",
+      "name": "🇨🇳┃奇优影院┃官网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/night-drinking-eagle/tvbox/raw/master/%E5%A4%A9%E5%BE%AEVIP/lib/348.json"},
 { "key": "www.jiaxin223.com",
       "name": "🇨🇳┃223影视",
       "type": 3,
@@ -3760,7 +3804,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
  
    
     
-   {
+    {
       "key": "少儿课堂",
       "name": "📚少儿┃课堂",
       "type": 3,
@@ -3773,7 +3817,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "quickSearch": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
-      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
     },
    
     {
@@ -3789,7 +3833,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "quickSearch": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
-      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
     },
     {
       "key": "初中课堂",
@@ -3805,12 +3849,12 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "quickSearch": 0,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
-      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
     {
       "key": "高中教育",
       "name": "📚高中┃课堂",
-      "jar":"https://gitee.com/uncle-jining-tailor/ip/raw/master/jar/fan.txt",
+      "jar":"https://d.kstore.dev/download/8240/spider+%284%29.jar",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -3820,8 +3864,8 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-     
-      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
     
 {"key":"索尼采集",

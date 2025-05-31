@@ -67,7 +67,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.55l6a9j5r9.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+    "分类url":"www.gylu1pm.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺纪录$3#动漫$4",
     
@@ -3053,7 +3053,7 @@
       "key": "js_菜狗",
       "name": "🐕️┃搜狗┃官网",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3433,14 +3433,14 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "key": "drpy_js_6V新版[磁]",
       "name": "🍇┃6V磁┃[js]",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/6V新版[磁].js"
     },
     {
       "key": "meowtv_nmys",
       "name": "🌾┃农民┃影视",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3450,35 +3450,35 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "key": "drpy_js_555电影",
       "name": "5️⃣┃360┃[js]",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/360%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_碟调影视",
       "name": "⚡️┃碟调┃[js]",
       "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/jp.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/碟调影视.js"
     },
     {
       "key": "drpy_js_私人影院",
       "name": "🎪┃私人┃[js]",
       "type": 3,
-      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/私人影院.js"
     },
     {
       "key": "drpy_js_人人影视",
       "name": "👫┃人人┃[js]",
       "type": 3,
-      "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "http://ztha.top/catjs/JS/js/人人影视.js"
     },
     {
       "key": "js_changmeng",
       "name": "💤┃畅梦┃影视",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,

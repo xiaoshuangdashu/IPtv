@@ -3,7 +3,7 @@
     "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png", "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F
 
 %94.gif", 
-    "warningText": "【l毒盒资源】提示：📢长期维护切勿贩卖",
+    "warningText": "【快手号济宁裁缝大叔】提示：📢长期维护切勿贩卖",
 "lives":[
         {
             "name": "live",
@@ -4016,7 +4016,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
         {
             "name": "钓鱼",
             "type": "1",
-            "url": "http://8.129.30.117:8117/diaoyu.php?url=",
+            "url": "https://www.yemu.xyz/?url=",
             "ext": {
                 "flag": [
                     "qq",

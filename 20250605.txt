@@ -8,7 +8,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://tv.youdu.fan:666/live/live.txt",
+            "url": "https://d.kstore.dev/download/8240/1107.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         },
     {
@@ -99,6 +99,16 @@
         }
 ],
     "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+{
+      "key": "YGP",
+      "name": "🚀┃叨观┃新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
+    },
      {"key": "直播转点播2",
    "name": "📺电视┃直播2",
    "type": 3,

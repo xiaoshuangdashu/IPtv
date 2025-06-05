@@ -1,8 +1,8 @@
  {
-    "spider": "https://tv.youdu.fan:666/duhe/svip.jar",
-    "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png", "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F
+    "spider": "https://d.kstore.dev/download/8240/spider.jar",
+    "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png", "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
 
-%94.gif", 
+
     "warningText": "【快手号济宁裁缝大叔】提示：📢长期维护切勿贩卖",
 "lives":[
         {

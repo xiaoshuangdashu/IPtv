@@ -172,7 +172,7 @@
  {"key": "csp_XBPQ_农民影视","name":"🧑🏻‍农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./农民影视.json"},
     
         {"key": "csp_XBPQ_剧圈圈","name":"🌟剧圈圈(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./剧圈圈.json","click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
+"ext":"./剧圈圈.json"},
          {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 "ext":"./虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 1},
         {"key": "csp_XBPQ_虎牙直播","name": "🐯虎牙直播(XYQH)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./虎牙直播.json"},

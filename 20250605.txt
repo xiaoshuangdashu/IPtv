@@ -314,26 +314,7 @@
             "playerType": 2
         },
 
-        {"key": "csp_XYQHiker_农民影视","name":"🧑🏻‍农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./农民影视.json"},
-     
-        {"key": "csp_XYQHiker_剧圈圈","name":"🌟剧圈圈(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./剧圈圈.json","click":"document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"},
-         {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"./虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-        {"key": "csp_XYQHiker_虎牙直播","name": "🐯虎牙直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./虎牙直播.json"},
-        {"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./斗鱼直播.json"}
-        {"key": "csp_XYQHiker_电影盒子","name":"📦电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./电影盒子.json"},
-        {"key": "csp_XYQHiker_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./星辰影院.json"},
-        {"key": "csp_XYQHiker_可可影视","name":"☕️可可影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./可可影视.json"},
-        {"key": "csp_XYQHiker_爱看影视","name":"👀爱看影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./爱看影视.json"},
-        {"key": "csp_XYQHiker_看一看影视","name":"🔍看一看影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./看一看影视.json"},
-        //{"key": "csp_XYQHiker_九八剧","name":"🍷九八剧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./九八剧.json"},
-        {"key": "csp_XYQHiker_瓜子影院","name":"瓜子影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./瓜子影视.json"},
-        {"key": "csp_XYQHiker_八号影视","name":"8️⃣八号影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./八号影视.json"},
-        {"key": "csp_XYQHiker_来看点播","name":"⛅️来看点播(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./来看点播.json"},
-{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
-        {"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.seedhub.cc"},
-       
+      
 
          { "key": "8zhenlang.cc", "name": "🎍影视大全", 
  

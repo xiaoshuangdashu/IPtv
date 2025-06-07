@@ -170,15 +170,15 @@
       ]
     },
 
-        {"key": "csp_XBPQ_电影盒子","name":"📦电影盒子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./电影盒子.json"},
+        {"key": "csp_XBPQ_电影盒子","name":"📦电影盒子","type":3,"api":"csp_XBPQ","ext":"./电影盒子.json"},
       
-        {"key": "csp_XBPQ_可可影视","name":"☕️可可影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./可可影视.json"},
-        {"key": "csp_XBPQ_爱看影视","name":"👀爱看影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./爱看影视.json"},
-        {"key": "csp_XBPQ_看一看影视","name":"🔍看一看影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./看一看影视.json"},
+        {"key": "csp_XBPQ_可可影视","name":"☕️可可影视(XYQH)","type":3,"api":"csp_XBPQ","ext":"./可可影视.json"},
+        {"key": "csp_XBPQ_爱看影视","name":"👀爱看影视(XYQH)","type":3,"api":"csp_XBPQ","ext":"./爱看影视.json"},
+        {"key": "csp_XBPQ_看一看影视","name":"🔍看一看影视(XYQH)","type":3,"api":"csp_XBPQ","ext":"./看一看影视.json"},
       
-        {"key": "csp_XBPQ_瓜子影院","name":"瓜子影院(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./瓜子影视.json"},
-        {"key": "csp_XBPQ_八号影视","name":"8️⃣八号影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./八号影视.json"},
-        {"key": "csp_XBPQ_来看点播","name":"⛅️来看点播(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./来看点播.json"},
+        {"key": "csp_XBPQ_瓜子影院","name":"瓜子影院(XYQH)","type":3,"api":"csp_XBPQ","ext":"./瓜子影视.json"},
+        {"key": "csp_XBPQ_八号影视","name":"8️⃣八号影视(XYQH)","type":3,"api":"csp_XBPQ","ext":"./八号影视.json"},
+        {"key": "csp_XBPQ_来看点播","name":"⛅️来看点播(XYQH)","type":3,"api":"csp_XBPQ","ext":"./来看点播.json"},
 
        
   {"key":"小猫咪 独立采集","name":"🌀小猫咪 独立采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/from/qq/?ac=list"},

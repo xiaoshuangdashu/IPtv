@@ -171,8 +171,7 @@
     },
  {"key": "csp_XBPQ_农民影视","name":"🧑🏻‍农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./农民影视.json"},
     
-        {"key": "csp_XBPQ_剧圈圈","name":"🌟剧圈圈(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./剧圈圈.json"},
+    
          {"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
 "ext":"./虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 1},
         {"key": "csp_XBPQ_虎牙直播","name": "🐯虎牙直播(XYQH)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./虎牙直播.json"},
@@ -186,10 +185,7 @@
         {"key": "csp_XBPQ_瓜子影院","name":"瓜子影院(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./瓜子影视.json"},
         {"key": "csp_XBPQ_八号影视","name":"8️⃣八号影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./八号影视.json"},
         {"key": "csp_XBPQ_来看点播","name":"⛅️来看点播(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./来看点播.json"},
-{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
-        {"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.seedhub.cc"},
+
        
   {"key":"小猫咪 独立采集","name":"🌀小猫咪 独立采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/from/qq/?ac=list"},
  

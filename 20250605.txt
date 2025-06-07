@@ -178,7 +178,7 @@
         {"key": "csp_XBPQ_虎牙直播","name": "🐯虎牙直播(XYQH)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./虎牙直播.json"},
         {"key": "csp_XBPQ_斗鱼直播","name": "🐠斗鱼直播(XYQH)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./斗鱼直播.json"}
         {"key": "csp_XBPQ_电影盒子","name":"📦电影盒子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./电影盒子.json"},
-        {"key": "csp_XBPQ_星辰影院","name":"⭐️星辰影院(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./星辰影院.json"},
+      
         {"key": "csp_XBPQ_可可影视","name":"☕️可可影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./可可影视.json"},
         {"key": "csp_XBPQ_爱看影视","name":"👀爱看影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./爱看影视.json"},
         {"key": "csp_XBPQ_看一看影视","name":"🔍看一看影视(XYQH)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./看一看影视.json"},

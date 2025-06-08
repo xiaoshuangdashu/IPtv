@@ -18,7 +18,7 @@
             "key": "天天",
             "name": "天天✨蓝光影视",
             "type": 3,
-             "jar": "https://git.acwing.com/shhentu/lzxw/-/raw/main/lzxw.jar",
+             "jar": "https://d.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.jar",
             "api": "csp_AppGZ",
            "api": "csp_AppGZ",
             "searchable": 1,

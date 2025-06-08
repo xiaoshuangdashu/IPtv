@@ -9,6 +9,16 @@
     }
   ],
   "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+ {
+      "key": "YGP",
+      "name": "🚀┃叨观┃新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
+    },
 {"key":"222","name":"南瓜",
 "type":3,
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
@@ -24,7 +34,116 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        },{
+      "key": "drpy_js_TV云播",
+      "name": "🇰🇵影视 | TV云播[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/TV%E4%BA%91%E6%92%AD.js"
+    },
+    {
+      "key": "drpy_js_追剧迷",
+      "name": "🇰🇵影视 | 追剧迷[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E8%BF%BD%E5%89%A7%E8%BF%B7.js"
+    },
+    {
+      "key": "drpy_js_凌云影视",
+      "name": "🇰🇵影视 | 凌云影视[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "drpy_js_哔哩影视",
+      "name": "🇰🇵影视 | 哔哩影视[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"
+    },
+    
+    {
+      "key": "drpy_js_555影视[V2]",
+      "name": "🇰🇵影视 | 555影视[V2][js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/555%E5%BD%B1%E8%A7%86%5BV2%5D.js"
+    },
+    {
+      "key": "drpy_js_骚火电影",
+      "name": "🇰🇵影视 | 骚火电影[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.js"
+    },
+    {
+      "key": "drpy_js_四个圈儿",
+      "name": "🇰🇵影视 | 四个圈儿[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E5%9B%9B%E4%B8%AA%E5%9C%88%E5%BD%B1%E8%A7%86.js"
+    },
+   {
+      "key": "drpy_js_DJ音乐",
+      "name": "🇰🇵音频 | DJ音乐[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/DJ%E9%9F%B3%E4%B9%90.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "🇰🇵听书 | 博看听书[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_中华听书网",
+      "name": "🇰🇵听书 | 中华听书网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E4%B8%AD%E5%8D%8E%E5%90%AC%E4%B9%A6%E7%BD%91.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_爱上你听书网",
+      "name": "🇰🇵听书 | 爱上你听书网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E7%88%B1%E4%B8%8A%E4%BD%A0%E5%90%AC%E4%B9%A6%E7%BD%91.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_酷6网",
+      "name": "🇰🇵聚合 | 酷6网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E9%85%B76%E7%BD%91.js"
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "🇰🇵聚合 | 网易公版影像[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "🇰🇵MV | 酷狗[js]",
+      "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E9%85%B7%E7%8B%97MV.js"
+    },
+    {
+      "key": "drpy_js_JRKAN直播",
+      "name": "🇰🇵体育 | JRKAN直播[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/JRKAN%E7%9B%B4%E6%92%AD.js"
+    },
     
 { "key": "www.jjdfby.com",
       "name": "🇨🇳┃5点影视",

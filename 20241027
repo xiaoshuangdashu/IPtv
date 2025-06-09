@@ -2,7 +2,25 @@
   "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 "wallpaper":"https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
   "sites": [ {"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
-  
+ {
+      "key": "YGP",
+      "name": "🚀┃叨观┃新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
+    },
+
+   {
+      "key": "天天",
+      "name": "🦢天天┃1080P",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/8240/03033.jar",
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
     {"key":"222","name":"南瓜",
 "type":3,
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",

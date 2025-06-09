@@ -1,11 +1,199 @@
 {"spider": "https://github.moeyy.xyz/https://github.com/zyzyzy523/api/blob/main/jar/5-17.jar", 
   "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 "wallpaper":"https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
-  "sites": [ {  "key": "drpy_js_豆瓣",
-  "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
-  "type": 3,
-      "api": "https://gitee.com/uncle-jining-tailor/ip/raw/master/drpy2.min.js",
-      "ext": "https://gitee.com/uncle-jining-tailor/ip/raw/master/js/douban.js"},
+  "sites": [ {"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+  
+    {"key":"222","name":"南瓜",
+"type":3,
+"api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+"searchable":1,"changeable":1,"ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"},
+
+{
+      "key": "drpy_js_TV云播",
+      "name": "🇰🇵影视 | TV云播[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/TV%E4%BA%91%E6%92%AD.js"
+    },
+    {
+      "key": "drpy_js_追剧迷",
+      "name": "🇰🇵影视 | 追剧迷[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E8%BF%BD%E5%89%A7%E8%BF%B7.js"
+    },
+    {
+      "key": "drpy_js_凌云影视",
+      "name": "🇰🇵影视 | 凌云影视[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "drpy_js_哔哩影视",
+      "name": "🇰🇵影视 | 哔哩影视[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"
+    },
+    
+    {
+      "key": "drpy_js_555影视[V2]",
+      "name": "🇰🇵影视 | 555影视[V2][js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/555%E5%BD%B1%E8%A7%86%5BV2%5D.js"
+    },
+    {
+      "key": "drpy_js_骚火电影",
+      "name": "🇰🇵影视 | 骚火电影[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.js"
+    },
+    {
+      "key": "drpy_js_四个圈儿",
+      "name": "🇰🇵影视 | 四个圈儿[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E5%9B%9B%E4%B8%AA%E5%9C%88%E5%BD%B1%E8%A7%86.js"
+    },
+   {
+      "key": "drpy_js_DJ音乐",
+      "name": "🇰🇵音频 | DJ音乐[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/DJ%E9%9F%B3%E4%B9%90.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "🇰🇵听书 | 博看听书[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_中华听书网",
+      "name": "🇰🇵听书 | 中华听书网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E4%B8%AD%E5%8D%8E%E5%90%AC%E4%B9%A6%E7%BD%91.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_爱上你听书网",
+      "name": "🇰🇵听书 | 爱上你听书网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E7%88%B1%E4%B8%8A%E4%BD%A0%E5%90%AC%E4%B9%A6%E7%BD%91.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_酷6网",
+      "name": "🇰🇵聚合 | 酷6网[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E9%85%B76%E7%BD%91.js"
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "🇰🇵聚合 | 网易公版影像[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "🇰🇵MV | 酷狗[js]",
+      "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E9%85%B7%E7%8B%97MV.js"
+    },
+    {
+      "key": "drpy_js_JRKAN直播",
+      "name": "🇰🇵体育 | JRKAN直播[js]",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/JRKAN%E7%9B%B4%E6%92%AD.js"
+    },
+
+ 
+   {"key": "直播转点播2",
+   "name": "📺电视┃直播2",
+   "type": 3,
+   "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js","searchable": 0,"quickSearch": 1,"filterable": 0,
+   "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/live.json"},
+   {"key":"lf_js_lf_live","name":"🇨🇳┃电视┃直播3","type":3,"api":"https://gitee.com/uncle-jining-tailor/study/raw/master/%E7%89%B9%E5%87%BA.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8240/m3u%E8%AE%A2%E9%98%85.txt"},
+   {"key":"T4-tangdou","name":"音乐-糖豆(T4)","type":4,"api":"https://catbox.n13.club/t9/tangdou.php"},
+  {
+      "key": "🐌陶片",
+      "name": "🌈┃🐌陶片┃影视",
+      "type": 1,
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod ",
+      "playUrl": "",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "战争片",
+        "恐怖片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "动作片",
+        "冒险片",
+        "剧情片",
+        "犯罪片",
+        "韩国剧",
+        "短剧",
+        "泰国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "记录片",
+        "反转爽剧",
+        "女频恋爱",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "电影解说",
+        "动画片",
+        "科幻片",
+        "其他片"
+      ]
+    },
+ 
+   {"key":"小猫咪 独立采集","name":"🌀小猫咪 独立采集","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/from/qq/?ac=list"},
+   
+{"key":"csp_Qiyou","name":"🇨🇳┃奇优┃影视",
+"type":3,
+  "api": "csp_XBPQ",
+ 
+"ext":"https://gitee.com/uncle-jining-tailor/study/raw/master/348.json"},
+{
+      "key": "金牌_菜狗",
+      "name": "🇨🇳┃金牌┃官网",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/007%E5%BD%B1%E8%A7%86.js"
+    },
     {
       "key": "csp_Kuaikan",
       "name": "快看影视",

@@ -436,65 +436,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://9xi4o.tk/sub/biubiu/139影视.json"
-    },
-{"key":"火狐济宁裁缝大叔","name":"🌀火狐济宁裁缝大叔","type":1,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list"},
-{"key":"爱酷济宁裁缝大叔","name":"🌀爱酷济宁裁缝大叔","type":1,"searchable":1,"quickSearch":1,"filterable":0,"api":"https://cj.yayazy.net/api.php/provide/vod/},
-{"key":"淘片济宁裁缝大叔","name":"🌀淘片济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://taopianapi.com/cjapi/mc10/vod/at/xml"},
-{"key":"暴风济宁裁缝大叔","name":"🌀暴风济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml"},
-
-{"key":"快看济宁裁缝大叔","name":"🌀快看济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jszyapi.com/api.php/provide/vod"},
-{"key":"快帆济宁裁缝大叔","name":"🌀快帆济宁裁缝大叔","type":0,"playerType":2,"searchable":0,"quickSearch":1,"filterable":1,"api":"https://suoniapi.com/api.php/provide/vod/at/xml"},
-
-{"key":"光速济宁裁缝大叔","name":"🌀光速济宁裁缝大叔","type":0,"playerType":2,"searchable":0,"quickSearch":1,"filterable":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/at/xml"},
-{"key":"极速济宁裁缝大叔","name":"🌀极速济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jszyapi.com/api.php/provide/vod/at/xml"},
-{"key":"速播济宁裁缝大叔","name":"🌀速播济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://subocaiji.com/api.php/provide/vod/at/xml"},
-{"key":"闪电济宁裁缝大叔","name":"🌀闪电济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://sdzyapi.com/api.php/provide/vod/at/xml"},
-{"key":"天空济宁裁缝大叔","name":"🌀天空济宁裁缝大叔","type":0,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://subocaiji.com/api.php/provide/vod/"},
-{"key":"红牛济宁裁缝大叔","name":"🌀红牛济宁裁缝大叔","type":1,"searchable":1,"quickSearch":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/"},
-{"key":"非凡济宁裁缝大叔","name":"🌀非凡济宁裁缝大叔","type":0,"searchable":"1","changeable":"1","api":"http://ffzy1.tv/api.php/provide/vod/at/xml/","playUrl":"https://svip.ffzyplay.com/?url="},
-{"key":"量子济宁裁缝大叔","name":"🌀量子济宁裁缝大叔","type":1,"searchable":1,"quickSearch":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":""},
-
-{"key":"虎牙济宁裁缝大叔","name":"🌀虎牙济宁裁缝大叔","type":1,"searchable":0,"quickSearch":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"},
-
-
-{
-            "key": "蚂蚁",
-            "name": "🌞蚂蚁去广┃济宁裁缝大",
-            "type": 1,
-            "changeable": 0,
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
-            "categories": [
-                "爽文短剧",
-                "国产剧",
-                "国产动漫",
-                "动画电影",
-                "网络电影",
-                "动作片",
-                "喜剧片",
-                "灾难片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "惊悚片",
-                "犯罪片",
-                "冒险片",
-                "悬疑片",
-                "武侠片",
-                "奇幻片",
-                "国产综艺"
-            ]
-        },
-
-
-
-{"key": "csp_xml_新浪","name": "新浪┃济宁裁缝大叔","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.yemu.xyz/?url=","categories": ["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
- {"key": "高清资源网","name": "️高清┃2K济宁裁缝大叔","type": 1,"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://jx.xmflv.com/?url=","categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]}, 
+    }, 
     {
       "key": "csp_xml___红牛资源",
       "name": "红牛资源",

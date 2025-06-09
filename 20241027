@@ -210,7 +210,46 @@
      "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.dev/download/8240/%E7%9B%B4%E6%92%AD%E4%BB%93.json"
-    },
+    },{"key":"xinshijiue","name":"新视觉影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+  "副标题":"快手号济宁裁缝大叔+module-item-note&&</div>",
+  "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+  "线路标题": "快手号济宁裁缝大叔专线",
+  "分类url": "https://www.libvio.fun/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类":"电影$1#剧集$2#综艺$3#动漫$4#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#泰剧$24#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12"
+  }},
+  {"key":"348","name":"348影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+  "副标题":"快手号济宁裁缝大叔+module-item-note&&</div>",
+  "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+  "线路标题": "快手号济宁裁缝大叔专线",
+  "分类url":"https://www.348z.com/vodtype/{cateId}.html",
+  "分类":"电影$1#电视剧$2#动漫$2#综艺$2"}},
+  {"key":7ITV1","name":"🎦7ITV┃秒播",
+  
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+  "分类url":"https://www.7itv.com/vodshow/{cateId}--------{catePg}---.html",
+  "副标题":"快手号济宁裁缝大叔+module-item-note&&</div>",
+         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        
+        
+        "线路标题": "快手号济宁裁缝大叔专线",
+  "分类":"电影$1#电视剧$2#综艺$2#动漫$2"}},
     {
       "key": "csp_LiteApple",
       "name": "小苹果",
@@ -548,9 +587,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
-
-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+    
       "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
     },
    

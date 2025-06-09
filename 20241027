@@ -579,6 +579,7 @@
       "key": "少儿课堂",
       "name": "📚少儿┃课堂",
       "type": 3,
+  "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -595,6 +596,7 @@
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
+  "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -603,9 +605,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
-
-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      
       "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
     },
     {
@@ -621,9 +621,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
-
-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+       
       "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     },
     {
@@ -639,9 +637,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-
-
-41bf63ae4ea0/1713520700942/fan.txt;md5;95301864c68c473ff5ae1ba8cfbc61e2",
+      "jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/live.jar",
       "ext": "https://gitee.com/uncle-jining-tailor/study/raw/master/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     }
     

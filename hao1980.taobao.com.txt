@@ -18,11 +18,16 @@
       "quickSearch": 0,
       "changeable": 0,
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
-    },
+    },{"key":"天 天","name":"天天",
+"type":3,
+"jar": "https://github.moeyy.xyz/https://github.com/xiaoshuangdashu/IPtv/blob/main/fix250524.jar",
+"api":"csp_TTian",
+"playerType":1,
+"ext":"7lj763gg09397919456493i0h44j8681highi4"},
 {"key":"222","name":"南瓜",
 "type":3,
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-"searchable":1,"changeable":1,"ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"},
+"searchable":1,"changeable":1,"ext":"https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E5%9B%9B%E4%B8%AA%E5%9C%88%E5%BD%B1%E8%A7%86.js"},
 
 {
             "key": "天天",

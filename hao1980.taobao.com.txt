@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
+  "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
   "lives": [
     {
       "name": "live",

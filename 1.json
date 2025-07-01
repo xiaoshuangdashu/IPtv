@@ -1,9 +1,89 @@
-﻿{
-"spider":"",
+﻿{"spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+  "wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png",
+  "logo": "https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
+  "lives": [
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/8240/1107.txt",
+      "playerType": 2
+    },
+    {
+      "name": "live-1",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "live-2",
+      "type": 0,
+      "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "电影联播",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "加密",
+      "type": 3,
+      "api": "csp_Smart",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+    },
+    {
+      "name": "fanmingming",
+      "type": 0,
+      "url": "https://raw.gitmirror.com/zyzyzy523/api/main/tv.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "山东联通",
+      "type": 0,
+      "url": "https://hub.gitmirror.com/raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "playerType": 2,
+      "epg": "https://epg.zbds.top/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    }
+  ],
 
-
-
-{
+"sites": [
 
 {"key":"https://caiji.putaozyw.net","name":"葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 

@@ -20,7 +20,7 @@
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
     },{"key":"天 天","name":"天天",
 "type":3,
-"jar": "https://github.moeyy.xyz/https://github.com/xiaoshuangdashu/IPtv/blob/main/fix250524.jar",
+"jar": "https://gh-proxy.com/https://github.com/xiaoshuangdashu/IPtv/blob/main/fix250524.jar",
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg09397919456493i0h44j8681highi4"},

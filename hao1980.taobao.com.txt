@@ -24,7 +24,7 @@
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg09397919456493i0h44j8681highi4"},
-{"key":"22tx.js2","name":"tx.js",
+{"key":"22tx.js2","name":"圈.js",
 "type":3,
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
  "searchable": 1,

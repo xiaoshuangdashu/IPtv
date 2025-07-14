@@ -58,6 +58,27 @@
       "type": 3,
       "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E8%BF%BD%E5%89%A7%E8%BF%B7.js"
+    },{
+      "key": " WWW.https://gh.qninq.cn",
+      "name": "🏴󠁧󠁢󠁷󠁬󠁳󠁿新版555APP🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/555%E5%BD%B1%E8%A7%8620250715.js"
+    },
+     {
+      "key": " https://gh.qninq.cn",
+      "name": "🎀新版555APP🎀",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/555%E5%BD%B1%E8%A7%86%5BV2%5D%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
     },
     {
       "key": "drpy_js_凌云影视",

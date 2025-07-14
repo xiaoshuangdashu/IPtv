@@ -27,8 +27,11 @@
 {"key":"22tx.js2","name":"tx.js",
 "type":3,
 "api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-
-"ext":"https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E8%85%BE%E8%AE%AF%E8%A7%A3%E6%9E%90.js"},
+ "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"},
 
 {"key":"222","name":"南瓜",
 "type":3,
@@ -84,7 +87,7 @@
       "key": "drpy_js_凌云影视",
       "name": "🇰🇵影视 | 凌云影视[js]",
       "type": 3,
-      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+        "api": "csp_XBPQ",
       "ext": "https://gh-proxy.com/github.com/xiaoshuangdashu/yang/blob/main/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
     },
     {

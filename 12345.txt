@@ -1999,19 +1999,147 @@ CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
 综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
 综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
 游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000
-央卫咪咕,#genre# 
-CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
-CCTV-02咪咕,http://go.bkpcp.top/mg/cctv2
-CCTV-03咪咕,http://go.bkpcp.top/mg/cctv3
-CCTV-04咪咕,http://go.bkpcp.top/mg/cctv4 
-CCTV-05咪咕,http://go.bkpcp.top/mg/cctv5 
-CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p
-CCTV-06咪咕,http://go.bkpcp.top/mg/cctv6
-CCTV-07咪咕,http://go.bkpcp.top/mg/cctv7 
-CCTV-08咪咕,http://go.bkpcp.top/mg/cctv8 
-CCTV-09咪咕,http://go.bkpcp.top/mg/cctv9 
-CCTV-10咪咕,http://go.bkpcp.top/mg/cctv10 
-CCTV-11咪咕,http://go.bkpcp.top/mg/cctv11 CCTV-12咪咕,http://go.bkpcp.top/mg/cctv12 CCTV-13咪咕,http://go.bkpcp.top/mg/cctv13 CCTV-14咪咕,http://go.bkpcp.top/mg/cctv14 CCTV-15咪咕,http://go.bkpcp.top/mg/cctv15 CCTV-16咪咕,http://go.bkpcp.top/mg/cctv16 CCTV-17咪咕,http://go.bkpcp.top/mg/cctv17 cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o cct4美洲咪咕,http://go.bkpcp.top/mg/cctv4m CGTN-西咪咕,http://go.bkpcp.top/mg/cgtne CGTN-阿咪咕,http://go.bkpcp.top/mg/cgtna CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf 北京卫视咪咕,http://go.bkpcp.top/mg/bjws 东方卫视咪咕,http://go.bkpcp.top/mg/dfws 浙江卫视咪咕,http://go.bkpcp.top/mg/zjws 江苏卫视咪咕,http://go.bkpcp.top/mg/jsws 湖南卫视咪咕,http://go.bkpcp.top/mg/hunws 广东卫视咪咕,http://go.bkpcp.top/mg/gdws 深圳卫视咪4k,http://go.bkpcp.top/mg/szws 山东卫视咪咕,http://go.bkpcp.top/mg/sdws 河南卫视咪咕,http://go.bkpcp.top/mg/hnws 江西卫视咪咕,http://go.bkpcp.top/mg/jxws 湖北卫视咪咕,http://go.bkpcp.top/mg/hubws 海南卫视咪咕,http://go.bkpcp.top/mg/hinws 陕西卫视咪咕,http://go.bkpcp.top/mg/sxws 兵团卫视咪咕,http://go.bkpcp.top/mg/btws 黑龙江视咪咕,http://go.bkpcp.top/mg/hljws CCTV-01咪咕,http://124.235.225.122:2284/mgtv/608807420.m3u8 CCTV-02咪咕,http://124.235.225.122:2284/mgtv/631780532.m3u8 CCTV-03咪咕,http://124.235.225.122:2284/mgtv/624878271.m3u8 CCTV-04咪咕,http://124.235.225.122:2284/mgtv/631780421.m3u8 CCTV-05咪咕,http://124.235.225.122:2284/mgtv/641886683.m3u8 CCTV-5+咪咕,http://124.235.225.122:2284/mgtv/641886773.m3u8 CCTV-06咪咕,http://124.235.225.122:2284/mgtv/624878396.m3u8 CCTV-07咪咕,http://124.235.225.122:2284/mgtv/673168121.m3u8 CCTV-08咪咕,http://124.235.225.122:2284/mgtv/624878356.m3u8 CCTV-09咪咕,http://124.235.225.122:2284/mgtv/673168140.m3u8 CCTV-10咪咕,http://124.235.225.122:2284/mgtv/624878405.m3u8 CCTV-11咪咕,http://124.235.225.122:2284/mgtv/667987558.m3u8 CCTV-12咪咕,http://124.235.225.122:2284/mgtv/673168185.m3u8 CCTV-13咪咕,http://124.235.225.122:2284/mgtv/608807423.m3u8 CCTV-14咪咕,http://124.235.225.122:2284/mgtv/624878440.m3u8 CCTV-15咪咕,http://124.235.225.122:2284/mgtv/673168223.m3u8 CCTV-16咪咕,http://124.235.225.122:2284/nptv/cctv16.m3u8 CCTV-17咪咕,http://124.235.225.122:2284/mgtv/673168256.m3u8 CCTV-4k咪咕,http://124.235.225.122:2284/nptv/cctv4k.m3u8 CCTV-8k咪咕,http://124.235.225.122:2284/nptv/cctv8k.m3u8 cct4欧洲咪咕,http://124.235.225.122:2284/mgtv/608807419.m3u8 cct4美洲咪咕,http://124.235.225.122:2284/mgtv/608807416.m3u8 CETV-01咪咕,http://124.235.225.122:2284/mgtv/923287154.m3u8 CETV-02咪咕,http://124.235.225.122:2284/mgtv/923287211.m3u8 CETV-04咪咕,http://124.235.225.122:2284/mgtv/923287339.m3u8 动作电影咪咕,http://124.235.225.122:2284/mgtv/644368714.m3u8 家庭影院咪咕,http://124.235.225.122:2284/mgtv/644368373.m3u8 影迷电影咪咕,http://124.235.225.122:2284/mgtv/952383261.m3u8 东方卫视咪咕,http://124.235.225.122:2284/mgtv/651632648.m3u8 江西卫视咪咕,http://124.235.225.122:2284/mgtv/783847495.m3u8 湖北卫视咪咕,http://124.235.225.122:2284/mgtv/947472496.m3u8 陕西卫视咪咕,http://124.235.225.122:2284/mgtv/738910838.m3u8 直播体育咪咕,http://124.235.225.122:2284/mgtv/654102378.m3u8 CCTV-01肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8 CCTV-01肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8 CCTV-02肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8 CCTV-03肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8 CCTV-04肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8 CCTV-05肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8 CCTV-5+肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8 CCTV-06肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8 CCTV-07肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8 CCTV-08肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8 CCTV-09肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8 CCTV-09肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8 CCTV-10肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8 CCTV-11肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8 CCTV-12肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8 CCTV-12肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8 CCTV-13肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8 CCTV-14肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8 CCTV-14肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8 CCTV-16肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8 CCTV-17肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8 CCTV-17肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8 北京卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8 东方卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8 浙江卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8 江苏卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8 湖南卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8 深圳卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8 天津卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8 安徽卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8 安徽卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8 山东卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8 辽宁卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8 河北卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8 河南卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8 江西卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8 江西卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8 四川卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8 重庆卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8 贵州卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8 湖北卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8 东南卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8 海南卫视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8 黑龙江视肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8 北京纪实肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8 北京纪实肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8 金鹰纪实肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8 哒啵电竞肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226891/1.m3u8 哒啵赛事肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226905/1.m3u8 纪实人文肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8 中国教育肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8 信源检测肥羊,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226955/1.m3u8
+央卫频特,#genre# 
+CCTV-01频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+ CCTV-02频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+ CCTV-03频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv3 
+CCTV-04频特,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4 
+CCTV-04频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv4 
+CCTV-05频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+ CCTV 5+频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+ CCTV-06频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv6 
+CCTV-07频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv7 
+CCTV-08频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd 
+CCTV-09频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd 
+CCTV-10频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd 
+CCTV-11频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv11 
+CCTV-12频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv12 
+CCTV-13频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv13 
+CCTV-14频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv14 
+CCTV-15频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv15 
+CGTN_英频特,https://smart.pendy.dpdns.org/Smart.php?id=CGTN 
+北京卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=beijing 
+深圳卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen 
+广西卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=guangxi 
+湖北卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=hubei 
+东南卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=fujian 
+广东珠江频特,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang 
+特区频特,#genre#
+ 凤凰卫视频特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd 
+凤凰资讯频特,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd 
+凤凰香港频特,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn 
+中天新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ctinews 
+有线新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn 
+无线新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn 
+无线翡翠频特,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn 
+
+无线翡翠频特,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue 
+无线华丽频特,https://smart.pendy.dpdns.org/Smart.php?id=Wlt 
+无线华丽频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade 
+无线明珠频特,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn 
+无线娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment 
+千禧经典频特,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic 
+VIUTV英频特,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+ RTHK-31频特,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn 
+RTHK-32频特,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn 
+美亚电影频特,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+ 天映频道闽特,https://smart.pendy.dpdns.org/Smart.php?id=Celestial 
+天映频道闽特,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn 
+龙华电影频特,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie 
+龙祥电影频特,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn 
+纬来电影频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie 
+Astr爱奇频特,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi 
+AstrQJ国频特,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia Astr
+欢喜频特,https://smart.pendy.dpdns.org/Smart.php?id=Huahee 
+闽南频特,#genre# 
+中天新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ctinews 
+东森新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews 
+寰宇新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn 
+tvbs新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n 
+年代新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn 
+民视新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+中视新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn 
+台视新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn 
+非凡新闻频特,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn 
+民视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
+ 中视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn 
+华视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn 
+台视闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan 
+tvbs闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbs tvbs
+欢乐频特,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn 
+民视第一频特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn 
+民视台湾频特,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn 
+中视经典频特,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn 
+公视台语频特,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn 
+台视综合频特,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe 
+中天娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=ctient 
+中天综合频特,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe 
+中天亚洲频特,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn 
+八大第一频特,https://smart.pendy.dpdns.org/Smart.php?id=badafirst 
+八大综合频特,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe 
+八大戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=badadrama 
+八大娱乐频特,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain 
+东森综合频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe 
+东森戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama 
+东森洋片频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern 
+东森电影频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie 
+东森幼幼频特,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn 
+东森超视频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper 
+东森财经频特,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn 
+寰宇财经频特,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn 
+华艺综合频特,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn 
+阿里郎综频特,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn 
+AXN电影频特,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn 
+CInemax频特,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn 
+HBo高清频特,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn 
+HBo家庭频特,https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn 
+好莱电影频特,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn 
+龙祥电影频特,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn 
+龙华经典频特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn 
+龙华戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn 
+龙华电影频特,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie 
+龙华偶像频特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn 
+龙华洋片频特,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn 
+纬来电影频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie 
+纬来日本频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan 
+纬来体育频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport 
+纬来综合频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+ 纬来育乐频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule 
+纬来精彩频特,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn 
+靖天国际频特,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn 
+靖天卡通频特,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn 
+大爱壹台频特,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn 
+大爱贰台频特,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn 
+好消息贰频特,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn 
+三立闽南频特,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan 
+三立戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+ 三立综合频特,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe 
+三立都会频特,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui 
+ELta影剧频特,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn 
+ELta综合频特,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn 
+ELTA体1频特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn 
+ELTA体2频特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn 
+ELTA体3频特,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn 
+Eleven一频特,https://smart.pendy.dpdns.org/Smart.php?id=golfchannel_twn 
+博斯无限频特,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn 
+博斯网球频特,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn 
+博斯运动壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn 
+博斯运动贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn 
+博斯高球壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf1_twn 
+博斯高球贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn 
+探索亚洲频特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn 
+国家地理频特,https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn 
+野生动物频特,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn 
+动物星球频特,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn 
+美食星球频特,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn 
+亚洲美食频特,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn 
+亚洲旅游频特,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+ 亚洲TLC频特,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn 
+EYE-旅游频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn 
+EYE-戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn 
+MTv高清频特,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn 
+Discover频特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn 
+
 地方频道,#genre#
 内蒙古娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 Panzihihua Culture Tourism & Life Channelh,https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828

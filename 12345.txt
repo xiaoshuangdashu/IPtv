@@ -4,6 +4,13 @@
 凤凰资讯,https://stream1.freetv.fun/13b7649cb1855ec67116e84e21b5ddb3acc3c6a90676d553c97069fee8ecc522.ctv
 鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 鳳凰香港,https://stream1.freetv.fun/a6e64c90fc24ccf34c0be8409108f8b9e4e4e91f51e8b3daa2bcfe108d2cfb20.ctv
+搜狐剧场,kttps://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
+纯享4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8
+茶频道,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
+都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
+
 无线新闻频道，,http://grandprix2023.asuscomm.com:8892/bysid/83
 CHC 动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC 家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=

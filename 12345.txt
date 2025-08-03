@@ -4,12 +4,40 @@
 凤凰资讯,https://stream1.freetv.fun/13b7649cb1855ec67116e84e21b5ddb3acc3c6a90676d553c97069fee8ecc522.ctv
 鳳凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 鳳凰香港,https://stream1.freetv.fun/a6e64c90fc24ccf34c0be8409108f8b9e4e4e91f51e8b3daa2bcfe108d2cfb20.ctv
-搜狐剧场,kttps://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 纯享4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8
 茶频道,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
+c电影频道,https://fr-us7.jdiptv.cc/live/popc.m3u8
+ c电影频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
+c电影频道,http://tl.061833.xyz/tl/popcNow
+爆谷频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/vhNli7a2uwqrSArlhBpDjs0wLosrFVLkMnb9OJ2Hzj14qlP0TO.flv
+ 中天新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+有线新闻频道,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+有线新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+无线新闻频道,https://edge.163189.xyz/163189/wxxw
+无线新闻频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+Now新闻频道,http://cdn.163189.xyz/163189/now
+凤凰中文频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰资讯频高,https://edge.163189.xyz/163189/fhzx
+凤凰资讯频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰香港频高,https://edge.163189.xyz/163189/fhhk
+凤凰香港频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+ 无线翡翠频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+无线翡翠频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+无线翡翠频道,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+无线明珠频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
+有线综合频道,https://edge.163189.xyz/163189/hoy
+广东珠江频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东体育频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+ 广东新闻频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+ 广东民生频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东影视频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+寰宇新闻频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+ 东森新闻频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
+ 民视新闻频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 
 无线新闻频道，,http://grandprix2023.asuscomm.com:8892/bysid/83
 CHC 动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
@@ -4920,6 +4948,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
  2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
  2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 

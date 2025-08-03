@@ -1889,6 +1889,8 @@ CCTV1,http://www.cjtt.love:9307/udp/239.253.250.77:8000
 CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
 CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
 CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
+CCTV4美洲,http://www.cjtt.love:9307/udp/239.253.250.187:8000
+CCTV4欧洲,http://www.cjtt.love:9307/udp/239.253.250.186:8000
 CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
 CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
 CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
@@ -4948,6 +4950,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
  2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
  2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 

@@ -30,7 +30,7 @@
       "name": "🎀快手号济宁裁缝大叔🎀live-1",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
@@ -45,7 +45,7 @@
       "name": "🎀快手号济宁裁缝大叔🎀live-2",
       "type": 0,
       "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
@@ -60,7 +60,7 @@
       "name": "🎀快手号济宁裁缝大叔🎀2025电影联播",
       "type": 0,
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
@@ -78,7 +78,7 @@
       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
        "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt",
-        "playerType": 2
+        "playerType": 1
     },
     {
       "name": "🎀快手号济宁裁缝大叔🎀2025自动更新2",
@@ -88,14 +88,14 @@
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       
       
-      "playerType": 2,
+      "playerType": 1,
       "timeout": 10
     },
     {
       "name": "🎀快手号济宁裁缝大叔🎀山东移动",
       "type": 0,
       "url": "https://hub.gitmirror.com/raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
-      "playerType": 2,
+      "playerType": 1,
        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
@@ -109,7 +109,7 @@
         {
       "name": "🎀快手号济宁裁缝大叔🎀台湾流🎀直播",
       "type": 0,
-      "playerType": 2,
+      "playerType": 1,
       "url": "https://aries.yuanwangokk.nyc.mn/7jnB",
       "ua": "",
       "epg": "",
@@ -130,7 +130,7 @@
       "url": "https://aries.yuanwangokk.nyc.mn/RDzR",
     "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
         "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 2
+      "playerType": 1
     }
     ],
     "hosts": [
@@ -4187,5 +4187,6 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     }
   ]
 }
+
 
 

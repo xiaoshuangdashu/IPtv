@@ -3725,20 +3725,39 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
   "ads": [
     "mozai.4gtv.tv"
   ],
-  "lives": [
-    {
-      "name": "电影",
+  "lives": [{
+      "name": "🎀快手号济宁裁缝大叔🎀电视直播",
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
+       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+        "epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType":1
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀电视组播",
+      "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "playerType": 2
+    },
+    
+    
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀电视直播🎀",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk/",
+       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
       "playerType": 2
     },
     {
-      "name": "live-1",
+      "name": "🎀快手号济宁裁缝大叔🎀live-1",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2,
+      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -3748,12 +3767,12 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
       }
     },
     {
-      "name": "live-2",
+      "name": "🎀快手号济宁裁缝大叔🎀live-2",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://github.com/Guovin/iptv-database/blob/master/result.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
+      "playerType": 2,
+      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -3763,12 +3782,12 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
       }
     },
     {
-      "name": "电影联播",
+      "name": "🎀快手号济宁裁缝大叔🎀2025电影联播",
       "type": 0,
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
-      "playerType": 1,
+      "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -3778,25 +3797,32 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
       }
     },
     {
-      "name": "加密",
-      "type": 3,
-      "api": "csp_Smart",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt"
+      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新",
+      "type": 0,
+   
+      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt",
+        "playerType": 2
     },
     {
-      "name": "fanmingming",
+      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新2",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+      
+      
+      "playerType": 2,
       "timeout": 10
     },
     {
-      "name": "山东联通",
+      "name": "🎀快手号济宁裁缝大叔🎀山东移动",
       "type": 0,
-      "url": "https://d.kstore.dev/download/8240/xiaoshuang.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "https://hub.gitmirror.com/raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+      "playerType": 2,
+       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -3804,8 +3830,50 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
         "regex": "/PLTV/",
         "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
       }
+    },
+        {
+      "name": "🎀快手号济宁裁缝大叔🎀台湾流🎀直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://aries.yuanwangokk.nyc.mn/7jnB",
+      "ua": "",
+      "epg": "",
+      "logo": "",
+      "core": {
+        "auth": "local://tvbus",
+        "name": "",
+        "pass": "",
+        "resp": "",
+        "pkg": "",
+        "sign": "",
+        "so": "https://aries.yuanwangokk.nyc.mn/BhRw"
+      }
+    },
+{
+      "name": "🎀台湾流🎀快手号济宁裁缝大叔直播🎀",
+      "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/RDzR",
+    "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "playerType": 2
     }
-  ],
+    ],
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"
+    ],
+    "rules": [
+        {
+            "name": "ofiii[台湾节点]",
+            "hosts": [
+                "www.ofiii.com"
+            ],
+            "script": [
+                "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!
+
+1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
+            ]
+        }
+    ],
   "ijk": [
     {
       "group": "软解码",

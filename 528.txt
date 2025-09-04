@@ -23,7 +23,7 @@ tailor/ip/raw/master/QQ%E5%9B%BE%E7%89%8720240926223520.png", "logo":"https://gi
     },
 {"key":"222","name":"南瓜",
 "type":3,
-"api":"https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
 "searchable":1,"changeable":1,"ext":"https://gitee.com/yanglongxiang/js/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"},
 {
             "key": "天天",

@@ -2,6 +2,29 @@
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+求索纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+1905电影国内,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+
+华数精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+河南梨园,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+河南武术世界,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+佛教传播,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+凤凰卫视资讯台,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰卫视资讯台,http://api.mg.itv888.cn:8080/streams/3mz319hboll/index.m3u8
+凤凰卫视资讯台,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰卫视资讯台,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰卫视中文台,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰卫视中文台,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰卫视中文台,http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8
+凤凰卫视中文台,http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8
+凤凰卫视中文台,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 求索纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 华数精彩影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
 河南梨园,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
@@ -4427,7 +4450,622 @@ EYE-旅游频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 EYE-戏剧频特,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn 
 MTv高清频特,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn 
 Discover频特,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn 
+黑龙江部分,#genre#
 
+
+
+鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
+
+
+
+鹤岗新闻综合,rtmp://rmplive.hljtv.com/live/hegang
+
+鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
+
+鹤岗新闻综合,rtmp://masterpull.hljtv.com/live/rApKWXbX
+哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
+
+哈尔滨新闻综合,rtmp://rmplive.hljtv.com/live/haerbin
+
+哈尔滨新闻综合, https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
+
+哈尔滨新闻综合,rtmp://masterpull.hljtv.com/live/sPvVy8Ju
+
+宾县综合,https://rmplive.hljtv.com/live/binxian.m3u8
+
+宾县综合, rtmp://rmplive.hljtv.com/live/binxian
+
+宾县综合, https://masterpull.hljtv.com/live/DlkgB2B7.m3u8
+
+宾县综合, rtmp://masterpull.hljtv.com/live/DlkgB2B7
+
+巴彦电视台,https://rmplive.hljtv.com/live/bayan.m3u8
+
+巴彦电视台, rtmp://masterpull.hljtv.com/live/vAtZi96R
+
+巴彦电视台,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+巴彦电视台, rtmp://masterpull.hljtv.com/live/vAtZi96R
+
+方正综合,https://rmplive.hljtv.com/live/fangzheng.m3u8
+
+方正综合, rtmp://rmplive.hljtv.com/live/fangzheng
+
+方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
+
+方正综合,rtmp://masterpull.hljtv.com/live/sSN2Uyb2
+
+呼兰综合,https://rmplive.hljtv.com/live/hulan.m3u8
+
+呼兰综合,rtmp://rmplive.hljtv.com/live/hulan
+
+呼兰综合,https://masterpull.hljtv.com/live/zja8TAIO.m3u8
+
+呼兰综合,rtmp://masterpull.hljtv.com/live/zja8TAIO
+
+尚志新闻综合,https://rmplive.hljtv.com/live/shangzhi.m3u8
+
+尚志新闻综合,rtmp://rmplive.hljtv.com/live/shangzhi
+尚志新闻综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+
+尚志新闻综合,rtmp://masterpull.hljtv.com/live/EQnKvoc9
+
+通河新闻,https://rmplive.hljtv.com/live/tonghe.m3u8
+
+
+通河新闻,rtmp://rmplive.hljtv.com/live/tonghe
+
+通河新闻, https://masterpull.hljtv.com/live/b71kCDir.m3u8
+
+通河新闻,rtmp://masterpull.hljtv.com/live/b71kCDir
+
+五常综合,https://rmplive.hljtv.com/live/wuchang.m3u8
+
+五常综合,rtmp://rmplive.hljtv.com/live/wuchang
+五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
+
+五常综合,rtmp://masterpull.hljtv.com/live/R9bOklLT
+
+依兰新闻综合,https://rmplive.hljtv.com/live/yilan.m3u8
+依兰新闻综合,rtmp://rmplive.hljtv.com/live/yilan
+
+依兰新闻综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
+依兰新闻综合,rtmp://masterpull.hljtv.com/live/4sTJDdbE
+
+延寿综合,https://rmplive.hljtv.com/live/yanshou.m3u8
+
+延寿综合,rtmp://rmplive.hljtv.com/live/yanshou
+
+齐齐哈尔新闻综合,https://rmplive.hljtv.com/live/qiqihaer.m3u8
+齐齐哈尔新闻综合, rtmp://rmplive.hljtv.com/live/qiqihaer
+
+齐齐哈尔新闻综合,https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+齐齐哈尔新闻综合,rtmp://masterpull.hljtv.com/live/dUi8b96l
+
+拜泉综合,https://rmplive.hljtv.com/live/baiquan.m3u8
+
+拜泉综合, rtmp://rmplive.hljtv.com/live/baiquan
+
+拜泉综合, https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
+拜泉综合,rtmp://masterpull.hljtv.com/live/zHtOXXUz
+
+富裕综合,https://rmplive.hljtv.com/live/fuyu.m3u8
+
+富裕综合,rtmp://rmplive.hljtv.com/live/fuyu
+
+富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
+
+富裕综合,rtmp://masterpull.hljtv.com/live/MKFLhcpa
+
+甘南县综合,https://rmplive.hljtv.com/live/gannan.m3u8
+
+甘南县综合,rtmp://rmplive.hljtv.com/live/gannan
+
+甘南县综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
+
+甘南县综合, rtmp://masterpull.hljtv.com/live/YbFyF4Jb
+
+克东综合,https://rmplive.hljtv.com/live/kedong.m3u8
+
+克东综合, rtmp://rmplive.hljtv.com/live/kedong
+
+克东综合, https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
+
+克东综合,rtmp://masterpull.hljtv.com/live/PO1DiGiN
+
+克山综合,https://rmplive.hljtv.com/live/keshan.m3u8
+
+克山综合, rtmp://rmplive.hljtv.com/live/keshan
+
+克山综合, https://masterpull.hljtv.com/live/58lOw0L5.m3u8
+克山综合,rtmp://masterpull.hljtv.com/live/58lOw0L5
+
+龙江综合,https://rmplive.hljtv.com/live/longjiang.m3u8
+龙江综合,rtmp://rmplive.hljtv.com/live/longjiang
+
+龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
+
+龙江综合,rtmp://masterpull.hljtv.com/live/vRSdDMSR
+
+讷河综合,https://rmplive.hljtv.com/live/nehe.m3u8
+
+讷河综合,rtmp://rmplive.hljtv.com/live/nehe
+讷河综合, https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+
+讷河综合,rtmp://masterpull.hljtv.com/live/PXWxDY1V
+
+泰来综合,https://rmplive.hljtv.com/live/tailai.m3u8
+泰来综合,rtmp://rmplive.hljtv.com/live/tailai
+泰来综合, https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
+泰来综合, rtmp://masterpull.hljtv.com/live/cfkAgOUK
+
+依安综合,https://rmplive.hljtv.com/live/yian.m3u8
+
+依安综合, rtmp://rmplive.hljtv.com/live/yian
+依安综合,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
+
+依安综合, rtmp://masterpull.hljtv.com/live/4hhgo1mX
+
+牡丹江新闻综合,https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
+
+牡丹江新闻综合, rtmp://masterpull.hljtv.com/live/newLqQS9Lcp
+
+东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
+东宁综合,rtmp://rmplive.hljtv.com/live/dongning
+
+东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+
+东宁综合,rtmp://masterpull.hljtv.com/live/UQdxnsw8
+
+海林综合,https://rmplive.hljtv.com/live/hailin.m3u8
+
+海林综合,rtmp://rmplive.hljtv.com/live/hailin
+
+海林综合, https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+
+海林综合,rtmp://masterpull.hljtv.com/live/lqo9Fcdy
+
+林口综合,https://rmplive.hljtv.com/live/linkou.m3u8
+
+林口综合, rtmp://rmplive.hljtv.com/live/linkou
+林口综合, https://masterpull.hljtv.com/live/pqheD07F.m3u8
+
+林口综合,rtmp://masterpull.hljtv.com/live/pqheD07F
+
+穆棱综合,https://rmplive.hljtv.com/live/muleng.m3u8
+
+穆棱综合, rtmp://rmplive.hljtv.com/live/muleng
+穆棱综合, https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
+穆棱综合, rtmp://masterpull.hljtv.com/live/5c9Mi3FV
+
+宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
+
+宁安综合,rtmp://rmplive.hljtv.com/live/ningan
+
+宁安综合, https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
+
+宁安综合,rtmp://masterpull.hljtv.com/live/BV2wr0vH
+
+绥芬河综合,https://rmplive.hljtv.com/live/suifenhe.m3u8
+
+绥芬河综合,rtmp://rmplive.hljtv.com/live/suifenhe
+
+绥芬河综合, https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
+绥芬河综合,rtmp://masterpull.hljtv.com/live/pXxFNIbi
+
+佳木斯市新闻综合,https://rmplive.hljtv.com/live/jiamusi.m3u8
+
+佳木斯市新闻综合,rtmp://rmplive.hljtv.com/live/jiamusi               
+
+佳木斯市新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
+
+佳木斯市新闻综合,rtmp://masterpull.hljtv.com/live/l9wQtsVs
+
+富锦电视台,https://rmplive.hljtv.com/live/fujin.m3u8
+
+富锦电视台,rtmp://rmplive.hljtv.com/live/fujin
+富锦电视台,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
+
+富锦电视台,rtmp://masterpull.hljtv.com/live/wOBN3GqO
+
+抚远电视台,https://rmplive.hljtv.com/live/fuyuan.m3u8
+
+抚远电视台,rtmp://rmplive.hljtv.com/live/fuyuan
+
+抚远电视台,https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
+
+抚远电视台, rtmp://masterpull.hljtv.com/live/tVnkOTOG
+
+桦川新闻综合,https://rmplive.hljtv.com/live/huachuan.m3u8
+
+桦川新闻综合,rtmp://rmplive.hljtv.com/live/huachuan
+
+桦川新闻综合,https://masterpull.hljtv.com/live/NYQcW0fS.m3u8
+
+桦川新闻综合,rtmp://masterpull.hljtv.com/live/NYQcW0fS
+
+桦南综合,https://rmplive.hljtv.com/live/huanan.m3u8
+
+桦南综合,rtmp://rmplive.hljtv.com/live/huanan
+桦南综合, https://masterpull.hljtv.com/live/76oCVZd3.m3u8
+
+桦南综合,rtmp://masterpull.hljtv.com/live/76oCVZd3
+
+同江电视台,https://rmplive.hljtv.com/live/tongjiang.m3u8
+
+同江电视台, rtmp://rmplive.hljtv.com/live/tongjiang
+同江电视台,  https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
+
+同江电视台, rtmp://masterpull.hljtv.com/live/oFc7fCUf
+
+汤原综合,https://rmplive.hljtv.com/live/tangyuan.m3u8
+汤原综合, rtmp://rmplive.hljtv.com/live/tangyuan
+
+汤原综合,https://masterpull.hljtv.com/live/lt2CmppY.m3u8
+
+汤原综合,rtmp://masterpull.hljtv.com/live/lt2CmppY
+
+大庆市新闻综合,https://rmplive.hljtv.com/live/daqing.m3u8
+
+大庆市新闻综合,rtmp://rmplive.hljtv.com/live/daqing
+
+大庆市新闻综合, https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+大庆市新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq
+
+杜尔伯特综合,https://rmplive.hljtv.com/live/duerbote.m3u8 x
+
+杜尔伯特综合, rtmp://rmplive.hljtv.com/live/duerbote x
+
+林甸综合,https://rmplive.hljtv.com/live/lindian.m3u8
+
+林甸综合,rtmp://rmplive.hljtv.com/live/lindian
+
+林甸综合, https://masterpull.hljtv.com/live/23PN6NW9.m3u8
+
+林甸综合,rtmp://masterpull.hljtv.com/live/23PN6NW9
+
+肇源综合,https://rmplive.hljtv.com/live/zhaoyuan.m3u8
+
+肇源综合, rtmp://rmplive.hljtv.com/live/zhaoyuan
+肇源综合,https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
+
+肇源综合,rtmp://masterpull.hljtv.com/live/XkQg7QSI
+
+肇州综合,https://rmplive.hljtv.com/live/zhaozhou.m3u8
+肇州综合, rtmp://rmplive.hljtv.com/live/zhaozhou
+
+肇州综合, rtmp://masterpull.hljtv.com/live/imOHYJ77.m3u8
+肇州综合, rtmp://masterpull.hljtv.com/live/imOHYJ77
+
+鸡西市新闻综合,https://rmplive.hljtv.com/live/jixi.m3u8
+
+鸡西市新闻综合, rtmp://rmplive.hljtv.com/live/jixi
+
+鸡西市新闻综合, https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
+
+鸡西市新闻综合,  rtmp://masterpull.hljtv.com/live/uqFwlQDH
+
+虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
+
+虎林综合rtmp://rmplive.hljtv.com/live/hulin
+
+虎林综合https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
+
+虎林综合rtmp://masterpull.hljtv.com/live/SJJAEqBS
+
+鸡东综合,https://rmplive.hljtv.com/live/jidong.m3u8
+鸡东综合, rtmp://rmplive.hljtv.com/live/jidong
+
+鸡东综合, https://masterpull.hljtv.com/live/o4NExHSz.m3u8
+
+鸡东综合, rtmp://masterpull.hljtv.com/live/o4NExHSz
+
+密山综合,https://rmplive.hljtv.com/live/mishan.m3u8
+
+密山综合, rtmp://rmplive.hljtv.com/live/mishan
+
+密山综合, https://masterpull.hljtv.com/live/iYi97JTN.m3u8
+
+密山综合, rtmp://masterpull.hljtv.com/live/iYi97JTN
+
+双鸭山新闻综合,https://masterpull.hljtv.com/live/BowdCSzZ.m3u8
+
+双鸭山新闻综合, rtmp://masterpull.hljtv.com/live/BowdCSzZ
+
+宝清综合,https://rmplive.hljtv.com/live/baoqing.m3u8
+
+宝清综合,rtmp://rmplive.hljtv.com/live/baoqing
+
+宝清综合,https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
+
+宝清综合,rtmp://masterpull.hljtv.com/live/HBp9MLoA
+
+集贤综合,https://rmplive.hljtv.com/live/jixian.m3u8
+
+集贤综合,rtmp://rmplive.hljtv.com/live/jixian
+
+饶河综合,https://rmplive.hljtv.com/live/raohe.m3u8
+
+饶河综合, rtmp://rmplive.hljtv.com/live/raohe
+
+饶河综合,https://masterpull.hljtv.com/live/DokNxER6.m3u8
+
+饶河综合,rtmp://masterpull.hljtv.com/live/DokNxER6
+
+友谊综合,https://rmplive.hljtv.com/live/youyi.m3u8
+
+友谊综合, rtmp://rmplive.hljtv.com/live/youyi
+友谊综合,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
+
+友谊综合, rtmp://masterpull.hljtv.com/live/LVpBWYXl
+
+伊春综合,https://rmplive.hljtv.com/live/yichun.m3u8
+
+伊春综合, rtmp://rmplive.hljtv.com/live/yichun
+
+伊春综合, https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+
+伊春综合,rtmp://masterpull.hljtv.com/live/vQtnS3vX
+
+嘉荫综合,https://rmplive.hljtv.com/live/jiayin.m3u8
+
+嘉荫综合, rtmp://rmplive.hljtv.com/live/jiayin
+
+铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
+
+铁力综合, rtmp://rmplive.hljtv.com/live/tieli
+
+铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
+
+铁力综合,rtmp://masterpull.hljtv.com/live/iUtbDFud
+
+七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
+
+七台河新闻综合,rtmp://rmplive.hljtv.com/live/qitaihe
+
+七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
+
+七台河新闻综合,rtmp://masterpull.hljtv.com/live/9FZ7k2XF
+
+勃利综合,https://rmplive.hljtv.com/live/boli.m3u8
+
+勃利综合,rtmp://rmplive.hljtv.com/live/boli
+
+勃利综合,https://masterpull.hljtv.com/live/6rx9bifO.m3u8
+
+勃利综合, rtmp://masterpull.hljtv.com/live/6rx9bifO
+
+鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
+鹤岗新闻综合,rtmp://rmplive.hljtv.com/live/hegang
+
+鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
+
+鹤岗新闻综合,rtmp://masterpull.hljtv.com/live/rApKWXbX
+
+萝北综合,https://rmplive.hljtv.com/live/luobei.m3u8
+
+萝北综合, rtmp://rmplive.hljtv.com/live/luobei
+
+绥滨综合,https://rmplive.hljtv.com/live/suibin.m3u8
+
+绥滨综合,rtmp://rmplive.hljtv.com/live/suibin
+
+绥滨综合, https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
+
+绥滨综合,rtmp://masterpull.hljtv.com/live/DQiqZPCj
+
+绥化新闻综合,https://rmplive.hljtv.com/live/suihua.m3u8
+
+绥化新闻综合,rtmp://rmplive.hljtv.com/live/suihua
+
+绥化新闻综合,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+绥化新闻综合,rtmp://masterpull.hljtv.com/live/v4o2g1hs
+
+安达综合,https://rmplive.hljtv.com/live/anda.m3u8
+
+安达综合, rtmp://rmplive.hljtv.com/live/anda
+安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
+
+安达综合, rtmp://masterpull.hljtv.com/live/FsGxlDZQ
+
+海伦综合,https://rmplive.hljtv.com/live/hailun.m3u8
+
+海伦综合,  rtmp://rmplive.hljtv.com/live/hailun
+海伦综合,  https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
+海伦综合,  rtmp://masterpull.hljtv.com/live/VFNlgeFO
+
+兰西综合,https://rmplive.hljtv.com/live/lanxi.m3u8
+
+兰西综合,    rtmp://rmplive.hljtv.com/live/lanxi
+
+兰西综合,   https://masterpull.hljtv.com/live/SYG06DEw.m3u8
+兰西综合,   rtmp://masterpull.hljtv.com/live/SYG06DEw
+
+明水综合,https://rmplive.hljtv.com/live/mingshui.m3u8
+
+明水综合, rtmp://rmplive.hljtv.com/live/mingshui
+
+明水综合, https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
+明水综合,rtmp://masterpull.hljtv.com/live/bOJ0OStw
+
+庆安综合,https://rmplive.hljtv.com/live/qingan.m3u8
+
+庆安综合,  rtmp://rmplive.hljtv.com/live/qingan
+
+庆安综合, httpsp://masterpull.hljtv.com/live/ayksl1Ur.m3u8
+
+庆安综合, rtmp://masterpull.hljtv.com/live/ayksl1Ur
+
+青冈综合,https://rmplive.hljtv.com/live/qinggang.m3u8
+
+青冈综合,rtmp://rmplive.hljtv.com/live/qinggang
+青冈综合, https://masterpull.hljtv.com/live/bJGIloJe.m3u8
+
+青冈综合, rtmp://masterpull.hljtv.com/live/bJGIloJe
+
+绥棱综合,https://rmplive.hljtv.com/live/suileng.m3u8
+
+绥棱综合,rtmp://rmplive.hljtv.com/live/suileng
+
+绥棱综合, https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
+
+绥棱综合, rtmp://masterpull.hljtv.com/live/p7WSvrJJ
+
+望奎综合,https://rmplive.hljtv.com/live/wangkui.m3u8
+
+望奎综合,rtmp://rmplive.hljtv.com/live/wangkui
+
+望奎综合, https://masterpull.hljtv.com/live/d3loVdqX.m3u8
+
+望奎综合, rtmp://masterpull.hljtv.com/live/d3loVdqX
+
+肇东综合,https://rmplive.hljtv.com/live/zhaodong.m3u8
+
+肇东综合,rtmp://rmplive.hljtv.com/live/zhaodong
+
+肇东综合, https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
+
+肇东综合, rtmp://masterpull.hljtv.com/live/G84ZsUTP
+
+黑河新闻综合,https://rmplive.hljtv.com/live/heihe.m3u8
+
+黑河新闻综合,rtmp://rmplive.hljtv.com/live/heihe
+黑河新闻综合, https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+
+黑河新闻综合, rtmp://masterpull.hljtv.com/live/iyoENgSP
+
+北安综合,https://rmplive.hljtv.com/live/beian.m3u8
+
+北安综合, rtmp://rmplive.hljtv.com/live/beian
+
+北安综合,https://masterpull.hljtv.com/live/EfoBDa06.m3u8
+
+北安综合, rtmp://masterpull.hljtv.com/live/EfoBDa06
+
+嫩江综合,https://rmplive.hljtv.com/live/nenjiang.m3u8
+
+嫩江综合, rtmp://rmplive.hljtv.com/live/nenjiang
+
+嫩江综合, https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+
+嫩江综合, rtmp://masterpull.hljtv.com/live/hrSfaA6T
+
+孙吴综合,https://rmplive.hljtv.com/live/sunwu.m3u8
+
+孙吴综合, rtmp://rmplive.hljtv.com/live/sunwu
+
+孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
+
+孙吴综合,rtmp://masterpull.hljtv.com/live/eXFjvNaf
+
+五大连池综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
+
+五大连池综合,rtmp://rmplive.hljtv.com/live/wudalianchi
+
+五大连池综合,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+
+五大连池综合, rtmp://masterpull.hljtv.com/live/6ic4FFgF
+
+逊克综合,https://rmplive.hljtv.com/live/xunke.m3u8
+
+逊克综合,rtmp://rmplive.hljtv.com/live/xunke
+
+逊克综合,https://masterpull.hljtv.com/live/a0CULO9O.m3u8
+
+逊克综合,rtmp://masterpull.hljtv.com/live/a0CULO9O
+
+大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
+大兴安岭新闻综合,rtmp://rmplive.hljtv.com/live/daxinganling
+
+大兴安岭新闻综合, https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+
+大兴安岭新闻综合,rtmp://masterpull.hljtv.com/live/H2kVyS15
+
+呼玛综合,https://rmplive.hljtv.com/live/huma.m3u8
+
+呼玛综合,rtmp://rmplive.hljtv.com/live/huma
+
+呼玛综合,https://masterpull.hljtv.com/live/yN3vDovm.m3u8
+
+呼玛综合, rtmp://masterpull.hljtv.com/live/yN3vDovm
+
+塔河综合,https://rmplive.hljtv.com/live/tahe.m3u8
+塔河综合, rtmp://rmplive.hljtv.com/live/tahe
+
+塔河综合, https://masterpull.hljtv.com/live/qXrATpGj.m3u8
+
+塔河综合, rtmp://masterpull.hljtv.com/live/qXrATpGj
+
+CCTV1,https://rmplive.hljtv.com/live/mohe.m3u8
+
+CCTV1,rtmp://rmplive.hljtv.com/live/mohe
+
+CCTV1,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+
+CCTV1, rtmp://masterpull.hljtv.com/live/rlVvbTZN
+部分吉林地区,#genre#
+德惠综合,http://stream11.jlntv.cn/dehuitv/playlist.m3u8
+九台区电视台,http://stream10.jlntv.cn/jiutaitv/playlist.m3u8
+双阳综合,http://stream11.jlntv.cn/shuangyang/playlist.m3u8
+桦甸综合,http://stream10.jlntv.cn/huadian/playlist.m3u8
+磐石综合,http://stream5.jlntv.cn/ps/playlist.m3u8
+舒兰综合,http://stream8.jlntv.cn/shulan/playlist.m3u8
+永吉综合,http://stream10.jlntv.cn/yongji/playlist.m3u8
+长白山综合,http://stream8.jlntv.cn/cbstv/playlist.m3u8
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
+珲春电视台,http://stream8.jlntv.cn/hctv/playlist.m3u8
+龙井综合,http://stream8.jlntv.cn/ljtv/playlist.m3u8
+图们TV1,http://stream6.jlntv.cn/tm/playlist.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/playlist.m3u8
+延吉综合,http://stream6.jlntv.cn/yj/playlist.m3u8
+大安新闻综合,http://stream6.jlntv.cn/da/playlist.m3u8
+洮南综合,http://stream5.jlntv.cn/tn/playlist.m3u8
+通榆综合,http://stream6.jlntv.cn/ty/playlist.m3u8
+镇赉综合,http://stream6.jlntv.cn/zl/playlist.m3u8
+扶余综合,http://stream6.jlntv.cn/fy/playlist.m3u8
+乾安综合,http://stream6.jlntv.cn/qa/playlist.m3u8
+公主岭综合,http://stream5.jlntv.cn/gzl/playlist.m3u8
+梨树新闻,http://stream6.jlntv.cn/ls/playlist.m3u8
+双辽综合,http://stream5.jlntv.cn/sl/playlist.m3u8
+伊通综合,http://stream6.jlntv.cn/yt/playlist.m3u8
+东丰综合,http://stream5.jlntv.cn/df/playlist.m3u8
+东辽综合,http://stream5.jlntv.cn/dl/playlist.m3u8
+抚松综合,http://stream8.jlntv.cn/fs/playlist.m3u8
+江源综合,http://stream10.jlntv.cn/jiangyuantv/playlist.m3u8
+靖宇综合,http://stream8.jlntv.cn/jytv/playlist.m3u8
+临江综合,http://stream8.jlntv.cn/linjiang/playlist.m3u8
+辉南综合,http://stream5.jlntv.cn/hn/playlist.m3u8
+柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
+通化县综合,http://stream5.jlntv.cn/thx/playlist.m3u8
+海伦综合,https://rmplive.hljtv.com/live/hailun.m3u8
+海伦综合,rtmp://rmplive.hljtv.com/live/hailun
+海伦综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
+海伦综合  ,rtmp://masterpull.hljtv.com/live/VFNlgeFO
+
+
+新疆,#genre#
+可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+吉木萨尔综合,http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+可克达拉综合,http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
+石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
+石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+吉木萨尔综合,http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+可克达拉综合,http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
+石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
+石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+余杭影院频道,http://hzdx.chiang.fun:3333/tsfile/live/1018_1.m3u8
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 地方频道,#genre#
 内蒙古娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 Panzihihua Culture Tourism & Life Channelh,https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828
@@ -4922,14 +5560,54 @@ Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-咪咕直播,#genre#
-咪咕直播 52,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播 53,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播 54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播 55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播 56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-数字频道,#genre#
+
+NewTV,#genre#
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$LR•IPV4『线路1』
+黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$LR•IPV4『线路2』
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$LR•IPV4『线路1』
+黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$LR•IPV4『线路2』
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8$LR•IPV4『线路1』
+家庭剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8$LR•IPV4『线路2』
+潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$LR•IPV4『线路1』
+潮妈辣婆,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8$LR•IPV4『线路2』
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$LR•IPV4『线路1』
+爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8$LR•IPV4『线路2』
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$LR•IPV4『线路1』
+东北热剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8$LR•IPV4『线路2』
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$LR•IPV4『线路1』
+欢乐剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8$LR•IPV4『线路2』
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$LR•IPV4『线路1』
+中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8$LR•IPV4『线路2』
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$LR•IPV4『线路1』
+精品大剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225670/index.m3u8$LR•IPV4『线路2』
+海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$LR•IPV4『线路1』
+海外剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8$LR•IPV4『线路2』
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$LR•IPV4『线路1』
+精品纪录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225672/index.m3u8$LR•IPV4『线路2』
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$LR•IPV4『线路1』
+精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8$LR•IPV4『线路2』
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$LR•IPV4『线路1』
+超级体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$LR•IPV4『线路2』
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$LR•IPV4『线路1』
+超级电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8$LR•IPV4『线路2』
+超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$LR•IPV4『线路1』
+超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8$LR•IPV4『线路2』
+超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$LR•IPV4『线路1』
+超级综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8$LR•IPV4『线路2』
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212258/index.m3u8$LR•IPV4『线路1』
+金牌综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/32212258/index.m3u8$LR•IPV4『线路2』
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$LR•IPV4『线路1』
+军事评论,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8$LR•IPV4『线路2』
+军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$LR•IPV4『线路1』
+军旅剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8$LR•IPV4『线路2』
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$LR•IPV4『线路1』
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8$LR•IPV4『线路2』
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$LR•IPV4『线路1』
+明星大片,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8$LR•IPV4『线路2』
+武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$LR•IPV4『线路1』
+武搏世界,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8$LR•IPV4『线路2』
+
 求索纪录「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 求索生活「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 求索动物「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -6742,6 +7420,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
  2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
  2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 

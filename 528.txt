@@ -3730,7 +3730,7 @@ $13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他�
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
        "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/epg/?ch={name}&date={date}",
+        "epg": "https://11.112114.xyz/?ch={name}&date={date}",
       "playerType":1
     },
     {

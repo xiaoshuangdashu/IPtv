@@ -1,76 +1,24 @@
 {
   "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar","wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png", "logo":"https://gitee.com/uncle-jining-tailor/ip/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
- "lives": [{
-      "name": "🎀快手号济宁裁缝大叔🎀电视直播",
+"lives": [
+       "name":  "🎀快手号济宁裁缝大叔🎀电视直播"
       "type": 0,
       "url": "https://d.kstore.dev/download/8240/1107.txt",
        "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}&",
       "playerType":1
-    },
+    }，
     {
-      "name": "🎀快手号济宁裁缝大叔🎀电视组播",
-      "type": 0,
-      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
+      "名称": "🎀快手号济宁裁缝大叔🎀电视组播"
+       "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/d3ty"
       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}&",
       "playerType": 1
-    },
+    }，
     
     
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀电视直播🎀",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk/",
-       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 1
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀live-1",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 1,
-      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀live-2",
-      "type": 0,
-      "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
-      "playerType": 1,
-      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀2025电影联播",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
+  
     {
       "name": "🎀快手号济宁裁缝大叔🎀2025自动更新",
       "type": 0,
@@ -160,9 +108,9 @@
       "changeable": 0,
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
     },
-{ "键": "555影视战迷",
-      "名称": "🚀┃555影视"
-      "类型": 3,
+{   "key": "555影视战迷",
+       "name":  "🚀┃555影视"
+         "type": 3,
          "jar": "https://d.kstore.dev/download/8240/%E9%87%91%E7%89%8C.jar",
       "api": "csp_XBPQ"
       "ext": {
@@ -4230,6 +4178,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     }
   ]
 }
+
 
 
 

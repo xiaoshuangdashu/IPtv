@@ -159,7 +159,58 @@
       "quickSearch": 0,
       "changeable": 0,
       "jar": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar"
-    },{"key":"天 天","name":"天天",
+    },
+{ "键": "555影视战迷",
+      "名称": "🚀┃555影视"
+      "类型": 3,
+         "jar": "https://d.kstore.dev/download/8240/%E9%87%91%E7%89%8C.jar",
+      "api": "csp_XBPQ"
+      "ext": {
+    "搜索模式": "1",
+}
+  "搜索url": "https://www.youkuw.net/-------------.html={wd}",
+  "搜索数组": "mb-0\">&</a>"
+  
+  "搜索标题": "text-danger\">&&<",
+  "搜索链接": "data-href=\"&&\"",  
+ 
+      "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>"
+      
+      "分类url": "https://www.youkuw.net/vodtype/{cateId}.html;;ak",
+ "分类":"电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#爱情片$7#奇幻片$8#战争片$9#恐怖片$10#喜剧片$11#纪录片$12#剧情片$20#悬疑片$26#犯罪片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"   } },
+  {  "key": "csp_雨见视频🎀",
+    "name": "🎀雨见视频🎀",
+    "type": 3,
+    
+    "api": "csp_XBPQ",
+    "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+    "ext": { "线路标题": "裁缝大叔专线","线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+    "副标题": "🎀裁缝大叔专线专属+>&&<",
+    "分类url": "http://yjsp.mxys8.com/index.php/vod/type/id/{cateId}.html;;ak",
+
+   "分类":"电影$1#电视剧$2#综艺$3#动漫$4#动作片$6#爱情片$7#奇幻片$8#战争片$9#恐怖片$10#喜剧片$11#纪录片$12#剧情片$20#悬疑片$26#犯罪片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"   } },
+
+
+ {
+      "key": "斗量",
+      "name": "南瓜｜极速",
+      "type": 3,
+      "jar": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+
+
+{"key":"天 天","name":"天天",
 "type":3,
 "jar": "https://gh-proxy.com/https://github.com/xiaoshuangdashu/IPtv/blob/main/fix250524.jar",
 "api":"csp_TTian",
@@ -4179,6 +4230,7 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     }
   ]
 }
+
 
 
 

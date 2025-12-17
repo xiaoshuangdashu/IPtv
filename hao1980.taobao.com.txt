@@ -113,13 +113,33 @@
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
-  {"key":"南瓜","name":"💡南瓜｜影视",
-  "type":3,
-  
-  "api":"csp_Nangua",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1},
+{
+      "key": "央库云",
+      "name": "☀央视🔹大全",
+      "type": 3,
+      "api": "https://gitee.com/luodayouv5/lsvip/raw/master/py/%E5%A4%AE%E5%BA%93%E4%BA%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+{
+      "key": "csp_Kugou",
+      "name": "☀酷狗🔹音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
   
   {"key":"drpy_js_好趣网",
   "name":"🇨🇳┃电视┃好趣网[js]",
@@ -4707,6 +4727,7 @@ confirm')[0].click()"]}],
             ]
         }
     ]}
+
 
 
 

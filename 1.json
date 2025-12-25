@@ -124,7 +124,22 @@
 {"key":"2葡萄t","name":"2葡萄","type":1,"api":"https://155api.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
 {"key":"3葡萄","name":"3葡萄","type":1,"api":"https://www.xrbsp.com/api/json.php","searchable":1,"quickSearch":1},
+ { "key": "网快播电影",
+      "name": "🔞🎀┃快播电影影",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {   "请求头":"User-Agent$MOBILE_UA", "导演": "裁缝大叔",
+   "简介": "快手号济宁裁缝大叔提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"eMCWQc left text-muted\">&&</span>",
   
+  "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+   "线路标题": "裁缝大叔专线",
+   "副标题":"裁缝在线+module-item-note&&</div>",
+      
+ "分类url": "http://hhtzsh.com/show/{cateId}--------{catePg}---.html[http://hhtzsh.com/type/{cateId}.html];;ak",
+ "分类":"电影$1#电视剧$2#综艺$3#动漫$4#🔞片$6#喜剧片$7#爱情片$8#战争片$9#奇幻片$10#恐怖片$11#科幻片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"   } }, 
  {
       "key": "🐌陶片",
       "name": "🌈┃🐌陶片┃影视",
@@ -484,6 +499,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 

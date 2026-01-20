@@ -8,7 +8,11 @@
  "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 //数据接口====================================网站===============================================
 
-  "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+  "sites": [ {  "key": "drpy_js_豆瓣",
+  "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
+  "type": 3,
+      "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+      "ext": "https://d.kstore.dev/download/8240/douban.js"},
   {
       "key": "壹影视.py",
       "name": "🎀壹影视(py)🎀",
@@ -4727,6 +4731,7 @@ confirm')[0].click()"]}],
             ]
         }
     ]}
+
 
 
 

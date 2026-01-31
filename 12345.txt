@@ -3888,909 +3888,7 @@ CCTV15,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 凤凰资讯,http://113.219.54.217:8887/udp/239.76.246.135:1234
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 淘电影,http://www.ycyaw.cn:5957/rtp/239.3.1.250:8001
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.77:8000
 
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4美洲,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV4欧洲,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV1,http://www.cjtt.love:9307/rtp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/rtp/239.253.250.234:8000
-CCTV3,http://www.cjtt.love:9307/rtp/239.253.250.4:8000
-CCTV5+,http://www.cjtt.love:9307/rtp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/rtp/239.253.250.7:8000
-CCTV7,http://www.cjtt.love:9307/rtp/239.253.250.235:8000
-CCTV8,http://www.cjtt.love:9307/rtp/239.253.250.9:8000
-CCTV9,http://www.cjtt.love:9307/rtp/239.253.250.79:8000
-CCTV10,http://www.cjtt.love:9307/rtp/239.253.250.236:8000
-CCTV11,http://www.cjtt.love:9307/rtp/239.253.250.12:8000
-CCTV13,http://www.cjtt.love:9307/rtp/239.253.250.14:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CCTV15,http://www.cjtt.love:9307/rtp/239.253.250.16:8000
-CCTV17,http://www.cjtt.love:9307/rtp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/rtp/239.253.250.110:8000
-CETV2,http://www.cjtt.love:9307/rtp/239.253.250.107:8000
-CETV4,http://www.cjtt.love:9307/rtp/239.253.250.108:8000
-山东卫视,http://www.cjtt.love:9307/rtp/239.253.250.78:8000
-湖南卫视,http://www.cjtt.love:9307/rtp/239.253.250.82:8000
-江苏卫视,http://www.cjtt.love:9307/rtp/239.253.250.83:8000
-浙江卫视,http://www.cjtt.love:9307/rtp/239.253.250.84:8000
-北京卫视,http://www.cjtt.love:9307/rtp/239.253.250.85:8000
-东方卫视,http://www.cjtt.love:9307/rtp/239.253.250.86:8000
-安徽卫视,http://www.cjtt.love:9307/rtp/239.253.250.87:8000
-湖北卫视,http://www.cjtt.love:9307/rtp/239.253.250.88:8000
-广东卫视,http://www.cjtt.love:9307/rtp/239.253.250.90:8000
-深圳卫视,http://www.cjtt.love:9307/rtp/239.253.250.91:8000
-辽宁卫视,http://www.cjtt.love:9307/rtp/239.253.250.92:8000
-东南卫视,http://www.cjtt.love:9307/rtp/239.253.250.105:8000
-重庆卫视,http://www.cjtt.love:9307/rtp/239.253.250.38:8000
-河南卫视,http://www.cjtt.love:9307/rtp/239.253.250.44:8000
-吉林卫视,http://www.cjtt.love:9307/rtp/239.253.250.46:8000
-江西卫视,http://www.cjtt.love:9307/rtp/239.253.250.47:8000
-山西卫视,http://www.cjtt.love:9307/rtp/239.253.250.48:8000
-四川卫视,http://www.cjtt.love:9307/rtp/239.253.250.50:8000
-甘肃卫视,http://www.cjtt.love:9307/rtp/239.253.250.52:8000
-宁夏卫视,http://www.cjtt.love:9307/rtp/239.253.250.53:8000
-青海卫视,http://www.cjtt.love:9307/rtp/239.253.250.54:8000
-西藏卫视,http://www.cjtt.love:9307/rtp/239.253.250.56:8000
-兵团卫视,http://www.cjtt.love:9307/rtp/239.253.250.57:8000
-内蒙古卫视,http://www.cjtt.love:9307/rtp/239.253.250.58:8000
-山东教育卫视,http://www.cjtt.love:9307/rtp/239.253.250.59:8000
-新疆卫视,http://www.cjtt.love:9307/rtp/239.253.250.60:8000
-农林卫视,http://www.cjtt.love:9307/rtp/239.253.250.70:8000
-河北卫视,http://www.cjtt.love:9307/rtp/239.253.250.112:8000
-贵州卫视,http://www.cjtt.love:9307/rtp/239.253.250.113:8000
-厦门卫视,http://www.cjtt.love:9307/rtp/239.253.250.106:8000
-CCTV1,http://www.cjtt.love:9307/rtp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/rtp/239.253.250.234:8000
-CCTV3,http://www.cjtt.love:9307/rtp/239.253.250.4:8000
-CCTV4,http://www.cjtt.love:9307/rtp/239.253.250.111:8000
-CCTV5,http://www.cjtt.love:9307/rtp/239.253.250.6:8000
-CCTV5+,http://www.cjtt.love:9307/rtp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/rtp/239.253.250.7:8000
-CCTV7,http://www.cjtt.love:9307/rtp/239.253.250.235:8000
-CCTV8,http://www.cjtt.love:9307/rtp/239.253.250.9:8000
-CCTV9,http://www.cjtt.love:9307/rtp/239.253.250.79:8000
-CCTV10,http://www.cjtt.love:9307/rtp/239.253.250.236:8000
-CCTV11,http://www.cjtt.love:9307/rtp/239.253.250.12:8000
-CCTV13,http://www.cjtt.love:9307/rtp/239.253.250.14:8000
-CCTV15,http://www.cjtt.love:9307/rtp/239.253.250.16:8000
-CCTV17,http://www.cjtt.love:9307/rtp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/rtp/239.253.250.110:8000
-CETV2,http://www.cjtt.love:9307/rtp/239.253.250.107:8000
-CETV4,http://www.cjtt.love:9307/rtp/239.253.250.108:8000
-山东卫视,http://www.cjtt.love:9307/rtp/239.253.250.78:8000
-湖南卫视,http://www.cjtt.love:9307/rtp/239.253.250.82:8000
-江苏卫视,http://www.cjtt.love:9307/rtp/239.253.250.83:8000
-浙江卫视,http://www.cjtt.love:9307/rtp/239.253.250.84:8000
-北京卫视,http://www.cjtt.love:9307/rtp/239.253.250.85:8000
-东方卫视,http://www.cjtt.love:9307/rtp/239.253.250.86:8000
-安徽卫视,http://www.cjtt.love:9307/rtp/239.253.250.87:8000
-湖北卫视,http://www.cjtt.love:9307/rtp/239.253.250.88:8000
-广东卫视,http://www.cjtt.love:9307/rtp/239.253.250.90:8000
-深圳卫视,http://www.cjtt.love:9307/rtp/239.253.250.91:8000
-辽宁卫视,http://www.cjtt.love:9307/rtp/239.253.250.92:8000
-黑龙江卫视,http://www.cjtt.love:9307/rtp/239.253.250.93:8000
-东南卫视,http://www.cjtt.love:9307/rtp/239.253.250.105:8000
-旅游卫视,http://www.cjtt.love:9307/rtp/239.253.250.35:8000
-重庆卫视,http://www.cjtt.love:9307/rtp/239.253.250.38:8000
-河南卫视,http://www.cjtt.love:9307/rtp/239.253.250.44:8000
-江西卫视,http://www.cjtt.love:9307/rtp/239.253.250.47:8000
-山西卫视,http://www.cjtt.love:9307/rtp/239.253.250.48:8000
-陕西卫视,http://www.cjtt.love:9307/rtp/239.253.250.49:8000
-四川卫视,http://www.cjtt.love:9307/rtp/239.253.250.50:8000
-甘肃卫视,http://www.cjtt.love:9307/rtp/239.253.250.52:8000
-宁夏卫视,http://www.cjtt.love:9307/rtp/239.253.250.53:8000
-青海卫视,http://www.cjtt.love:9307/rtp/239.253.250.54:8000
-西藏卫视,http://www.cjtt.love:9307/rtp/239.253.250.56:8000
-兵团卫视,http://www.cjtt.love:9307/rtp/239.253.250.57:8000
-内蒙古卫视,http://www.cjtt.love:9307/rtp/239.253.250.58:8000
-山东教育卫视,http://www.cjtt.love:9307/rtp/239.253.250.59:8000
-新疆卫视,http://www.cjtt.love:9307/rtp/239.253.250.60:8000
-农林卫视,http://www.cjtt.love:9307/rtp/239.253.250.70:8000
-河北卫视,http://www.cjtt.love:9307/rtp/239.253.250.112:8000
-贵州卫视,http://www.cjtt.love:9307/rtp/239.253.250.113:8000
-厦门卫视,http://www.cjtt.love:9307/rtp/239.253.250.106:8000
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.1:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.9:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.2:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.3:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.45:8000
-影迷电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.29:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.28:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.4:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.5:8000
-精彩,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.46:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.6:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.7:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.8:8000
-山西卫视,http://www.cjtt.love:9307/udp/239.253.250.48:8000
-动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.9:8000
-先锋体育,http://www.cjtt.love:9307/udp/239.253.250.155:8000
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.11:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.12:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.2:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.13:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.14:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.3:8000
-新动漫,http://www.cjtt.love:9307/udp/239.253.250.157:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.15:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.16:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.4:8000
-CCTV欧洲,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-纪实科教,http://www.cjtt.love:9307/udp/239.253.250.165:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.10:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.7:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.129:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.8:8000
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.222:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.30:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.34:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.35:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.33:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.32:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.31:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-新闻浙,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.3:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.194:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.4:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.20:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-华数电影1,http://www.cjtt.love:9307/udp/239.253.250.127:8000
-茬平,http://www.cjtt.love:9307/udp/239.253.250.2539:8000
-昌乐,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-单县,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-定陶,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.108:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.29:8000
-东平,http://www.cjtt.love:9307/udp/239.253.250.2536:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.6:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.19:8000
-山东休闲,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.131:8000
-山东,http://www.cjtt.love:9307/udp/239.253.250.26:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.39:8000
-山东经济,http://www.cjtt.love:9307/udp/239.253.250.166:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.5:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.31:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.119:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.35:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.37:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.28:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-中学生,http://www.cjtt.love:9307/udp/239.253.250.163:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.32:8000
-山东休闲,http://www.cjtt.love:9307/udp/239.253.250.158:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.37:8000
-济阳,http://www.cjtt.love:9307/udp/239.253.250.2535:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.5:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.19:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-九屏,http://www.cjtt.love:9307/udp/239.253.250.167:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.36:8000
-金色,http://www.cjtt.love:9307/udp/239.253.250.102:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-山西卫视,http://www.cjtt.love:9307/udp/239.253.250.48:8000
-华数5,http://www.cjtt.love:9307/udp/239.253.250.1253:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.124:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-陕西卫视,http://www.cjtt.love:9307/udp/239.253.250.49:8000
-莱西新闻,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-剧场电影,http://www.cjtt.love:9307/udp/239.253.250.130:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.8:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.223:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.12:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.122:8000
-购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-老故事,http://www.cjtt.love:9307/udp/239.253.250.164:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.27:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-美人,http://www.cjtt.love:9307/udp/239.253.250.132:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.129:8000
-影视剧场,http://www.cjtt.love:9307/udp/239.253.250.130:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.41:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.44:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.228:8000
-齐河,http://www.cjtt.love:9307/udp/239.253.250.230:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.134:8000
-宁夏卫视,http://www.cjtt.love:9307/udp/239.253.250.53:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.43:8000
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.225:8000
-热播剧场,http://www.cjtt.love:9307/udp/239.253.250.128:8000
-荣成,http://www.cjtt.love:9307/udp/239.253.250.227:8000
-乳山,http://www.cjtt.love:9307/udp/239.253.250.220:8000
-三沙卫视,http://www.cjtt.love:9307/udp/239.253.250.9:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.6:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.54:8000
-山东国际,http://www.cjtt.love:9307/udp/239.253.250.61:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CGTN,http://www.cjtt.love:9307/udp/239.253.250.183:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.208:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.60:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-西藏卫视,http://www.cjtt.love:9307/udp/239.253.250.56:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-内蒙古卫视,http://www.cjtt.love:9307/udp/239.253.250.58:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.52:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-中华特产,http://www.cjtt.love:9307/udp/239.253.250.76:8000
-兵团卫视,http://www.cjtt.love:9307/udp/239.253.250.57:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-中国教育1,http://www.cjtt.love:9307/udp/239.253.250.55:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.33:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.30:8000
-山沙卫视,http://www.cjtt.love:9307/udp/239.253.250.171:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-华数3,http://www.cjtt.love:9307/udp/239.253.250.125:8000
-莘县,http://www.cjtt.love:9307/udp/239.253.250.2531:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.34:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.15:8000
-四贡,http://www.cjtt.love:9307/udp/239.253.250.2538:8000
-技术科技,http://www.cjtt.love:9307/udp/239.253.250.165:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.131:8000
-文旅,http://www.cjtt.love:9307/udp/239.253.250.231:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-无棣,http://www.cjtt.love:9307/udp/239.253.250.2534:8000
-西藏卫视,http://www.cjtt.love:9307/udp/239.253.250.46:8000
-喜剧影院,http://www.cjtt.love:9307/udp/239.253.250.122:8000
-夏津,http://www.cjtt.love:9307/udp/239.253.250.102:8000
-厦门卫视,http://www.cjtt.love:9307/udp/239.253.250.106:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.126:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.45:8000
-新泰乡村,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-炫动卡通,http://www.cjtt.love:9307/udp/239.253.250.51:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-华数2,http://www.cjtt.love:9307/udp/239.253.250.205:8000
-中国教育4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.204:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.224:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.50:8000
-中国教育,http://www.cjtt.love:9307/udp/239.253.250.107:8000
-禹城综合,http://www.cjtt.love:9307/udp/239.253.250.7:8000
-禹城综艺,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-LYTV1,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-郓城新闻,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.14:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-中国足协杯,http://www.cjtt.love:9307/udp/239.253.250.108:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.27:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCYV3,http://www.cjtt.love:9307/udp/239.253.250.124:8000
-综艺,http://www.cjtt.love:9307/udp/239.253.250.125:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.126:8000
-发现之旅,http://www.cjtt.love:9307/udp/239.253.250.162:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-厦门卫视,http://www.cjtt.love:9307/udp/239.253.250.106:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-山东购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-
-CCTV1,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-山东购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
-游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-山东购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
-游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000
-
-
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-山东购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
-游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
-游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000
-
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.77:8000
-CCTV2,http://www.cjtt.love:9307/udp/239.253.250.232:8000
-CCTV3,http://www.cjtt.love:9307/udp/239.253.250.191:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.111:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.186:8000
-CCTV4,http://www.cjtt.love:9307/udp/239.253.250.187:8000
-CCTV5,http://www.cjtt.love:9307/udp/239.253.250.192:8000
-CCTV5+,http://www.cjtt.love:9307/udp/239.253.250.80:8000
-CCTV6,http://www.cjtt.love:9307/udp/239.253.250.193:8000
-CCTV7,http://www.cjtt.love:9307/udp/239.253.250.233:8000
-CCTV8,http://www.cjtt.love:9307/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-山东购物,http://www.cjtt.love:9307/udp/239.253.250.104:8000
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
-游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000/udp/239.253.250.194:8000
-CCTV9,http://www.cjtt.love:9307/udp/239.253.250.79:8000
-
-CCTV10,http://www.cjtt.love:9307/udp/239.253.250.234:8000
-CCTV11,http://www.cjtt.love:9307/udp/239.253.250.169:8000
-CCTV12,http://www.cjtt.love:9307/udp/239.253.250.235:8000
-CCTV13,http://www.cjtt.love:9307/udp/239.253.250.175:8000
-CCTV14,http://www.cjtt.love:9307/udp/239.253.250.236:8000
-CCTV15,http://www.cjtt.love:9307/udp/239.253.250.170:8000
-CCTV17,http://www.cjtt.love:9307/udp/239.253.250.168:8000
-CETV1,http://www.cjtt.love:9307/udp/239.253.250.110:8000
-CETV4,http://www.cjtt.love:9307/udp/239.253.250.116:8000
-CHC动作电影,http://www.cjtt.love:9307/udp/239.253.250.153:8000
-CHC高清电影,http://www.cjtt.love:9307/udp/239.253.250.154:8000
-CHC家庭影院,http://www.cjtt.love:9307/udp/239.253.250.152:8000
-安徽卫视,http://www.cjtt.love:9307/udp/239.253.250.87:8000
-北京卫视,http://www.cjtt.love:9307/udp/239.253.250.85:8000
-茶频道,http://www.cjtt.love:9307/udp/239.253.250.143:8000
-东方财经,http://www.cjtt.love:9307/udp/239.253.250.94:8000
-东方卫视,http://www.cjtt.love:9307/udp/239.253.250.86:8000
-东南卫视,http://www.cjtt.love:9307/udp/239.253.250.105:8000
-动漫秀场,http://www.cjtt.love:9307/udp/239.253.250.115:8000
-都市剧场,http://www.cjtt.love:9307/udp/239.253.250.98:8000
-法治天地,http://www.cjtt.love:9307/udp/239.253.250.96:8000
-甘肃卫视,http://www.cjtt.love:9307/udp/239.253.250.74:8000
-广东卫视,http://www.cjtt.love:9307/udp/239.253.250.90:8000
-广西卫视,http://www.cjtt.love:9307/udp/239.253.250.197:8000
-贵州卫视,http://www.cjtt.love:9307/udp/239.253.250.113:8000
-海南卫视,http://www.cjtt.love:9307/udp/239.253.250.179:8000
-海洋,http://www.cjtt.love:9307/udp/239.253.250.67:8000
-河北卫视,http://www.cjtt.love:9307/udp/239.253.250.112:8000
-河南卫视,http://www.cjtt.love:9307/udp/239.253.250.190:8000
-黑龙江卫视,http://www.cjtt.love:9307/udp/239.253.250.93:8000
-湖北卫视,http://www.cjtt.love:9307/udp/239.253.250.88:8000
-湖南卫视,http://www.cjtt.love:9307/udp/239.253.250.82:8000
-吉林卫视,http://www.cjtt.love:9307/udp/239.253.250.173:8000
-江苏卫视,http://www.cjtt.love:9307/udp/239.253.250.83:8000
-江西卫视,http://www.cjtt.love:9307/udp/239.253.250.47:8000
-金色学堂,http://www.cjtt.love:9307/udp/239.253.250.101:8000
-金鹰纪实,http://www.cjtt.love:9307/udp/239.253.250.103:8000
-金鹰卡通,http://www.cjtt.love:9307/udp/239.253.250.117:8000
-精彩电影,http://www.cjtt.love:9307/udp/239.253.250.142:8000
-卡酷少儿,http://www.cjtt.love:9307/udp/239.253.250.66:8000
-莱西,http://www.cjtt.love:9307/udp/239.253.250.247:8000
-崂山,http://www.cjtt.love:9307/udp/239.253.250.242:8000
-梨园,http://www.cjtt.love:9307/udp/239.253.250.139:8000
-辽宁卫视,http://www.cjtt.love:9307/udp/239.253.250.92:8000
-魅力足球,http://www.cjtt.love:9307/udp/239.253.250.100:8000
-平度,http://www.cjtt.love:9307/udp/239.253.250.248:8000
-青岛1,http://www.cjtt.love:9307/udp/239.253.250.249:8000
-青岛2,http://www.cjtt.love:9307/udp/239.253.250.250:8000
-青岛3李沧,http://www.cjtt.love:9307/udp/239.253.250.251:8000
-青岛4李沧,http://www.cjtt.love:9307/udp/239.253.250.252:8000
-青岛5李沧,http://www.cjtt.love:9307/udp/239.253.250.253:8000
-青岛6生活,http://www.cjtt.love:9307/udp/239.253.250.244:8000
-青岛综合,http://www.cjtt.love:9307/udp/239.253.250.243:8000
-青海卫视,http://www.cjtt.love:9307/udp/239.253.250.195:8000
-
-山东教育,http://www.cjtt.love:9307/udp/239.253.250.59:8000
-山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
-山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
-山东少儿,http://www.cjtt.love:9307/udp/239.253.250.25:8000
-山东生活,http://www.cjtt.love:9307/udp/239.253.250.151:8000
-山东体育,http://www.cjtt.love:9307/udp/239.253.250.22:8000
-山东卫视,http://www.cjtt.love:9307/udp/239.253.250.78:8000
-山东文旅,http://www.cjtt.love:9307/udp/239.253.250.160:8000
-山东新闻,http://www.cjtt.love:9307/udp/239.253.250.23:8000
-山东综艺,http://www.cjtt.love:9307/udp/239.253.250.159:8000
-深圳卫视,http://www.cjtt.love:9307/udp/239.253.250.91:8000
-生活时尚,http://www.cjtt.love:9307/udp/239.253.250.99:8000
-四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.109:8000
-四海钓鱼,http://www.cjtt.love:9307/udp/239.253.250.144:8000
-天津卫视,http://www.cjtt.love:9307/udp/239.253.250.89:8000
-文物宝库,http://www.cjtt.love:9307/udp/239.253.250.141:8000
-武术世界,http://www.cjtt.love:9307/udp/239.253.250.140:8000
-云南卫视,http://www.cjtt.love:9307/udp/239.253.250.196:8000
-浙江卫视,http://www.cjtt.love:9307/udp/239.253.250.84:8000
-中国交通,http://www.cjtt.love:9307/udp/239.253.250.177:8000
-重庆卫视,http://www.cjtt.love:9307/udp/239.253.250.38:8000
-综合1,http://www.cjtt.love:9307/udp/239.253.250.245:8000
-综合,http://www.cjtt.love:9307/udp/239.253.250.246:8000
 游戏风云,http://www.cjtt.love:9307/udp/239.253.250.95:8000
 央卫频特,#genre# 
 
@@ -5920,6 +5018,1264 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K超高清电影,http://58.215.231.60/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
+
+原创,#genre#
+ SJ-图南,https://live.ottiptv.cc/huya/29528547
+ 新橙記Orange丶,https://live.ottiptv.cc/huya/30590779
+ 喵喵宝、,https://live.ottiptv.cc/huya/31039016
+ 小糯米丿,https://live.ottiptv.cc/huya/128391
+ 视觉-秦VV,https://live.ottiptv.cc/huya/396738
+ 周星驰--喜剧之王,https://live.ottiptv.cc/huya/30631741
+ 悠悠爱电影,https://live.ottiptv.cc/huya/30611864
+ 酷爱风云,https://live.ottiptv.cc/huya/30663102
+ 星柠布丁,https://live.ottiptv.cc/huya/31039222
+ 日落花想容,https://live.ottiptv.cc/huya/29981376
+ 星一芒,https://live.ottiptv.cc/huya/30329635
+ 婧婧丶,https://live.ottiptv.cc/huya/618917
+ 老片剧场,https://live.ottiptv.cc/huya/30373096
+ 奥斯曼影院,https://live.ottiptv.cc/huya/30509122
+ 小寒大暖鱼,https://live.ottiptv.cc/huya/30970882
+ Yi朵朵,https://live.ottiptv.cc/huya/30987504
+ 阿斗归来了,https://live.ottiptv.cc/huya/13303478
+ 小雏莓莓,https://live.ottiptv.cc/huya/31107167
+ 星月影院,https://live.ottiptv.cc/huya/31159301
+ 大梨o,https://live.ottiptv.cc/huya/30830295
+ 麦麦放映,https://live.ottiptv.cc/huya/30682679
+ 薇薇ol,https://live.ottiptv.cc/huya/30712548
+ 炒白果萝卜,https://live.ottiptv.cc/huya/30440855
+ 得志未断绝,https://live.ottiptv.cc/huya/30523326
+ 虎牙中式台球比赛,https://live.ottiptv.cc/huya/29588938
+ 不吃香菜丫丫,https://live.ottiptv.cc/huya/30612264
+ 我真不吃肥肉,https://live.ottiptv.cc/huya/30835565
+ 丁俊晖赵心童,https://live.ottiptv.cc/huya/30753417
+ 虎桥路关羽,https://live.ottiptv.cc/huya/30613314
+ 来生,https://live.ottiptv.cc/huya/30867383
+ 子宽放,https://live.ottiptv.cc/huya/30362138
+ 叁岁打死牛,https://live.ottiptv.cc/huya/30515137
+ 邀月影视,https://live.ottiptv.cc/huya/31152407
+ 有色不俱生,https://live.ottiptv.cc/huya/30692707
+ 赵心童丁俊晖,https://live.ottiptv.cc/huya/30663865
+ 静静影视,https://live.ottiptv.cc/huya/30712558
+ 小满荷塘香色,https://live.ottiptv.cc/huya/30860538
+ 阳阳影视,https://live.ottiptv.cc/huya/29805872
+ 小虎爱爱,https://live.ottiptv.cc/huya/31112026
+ 而人临易水,https://live.ottiptv.cc/huya/31013426
+ 天天影社,https://live.ottiptv.cc/huya/29808803
+ 晶晶舔奶盖,https://live.ottiptv.cc/huya/31040488
+ 韭菜花燕窝粥,https://live.ottiptv.cc/huya/31025741
+ 甜甜影院,https://live.ottiptv.cc/huya/31093836
+ 齐鲁影视,https://live.ottiptv.cc/huya/29807061
+ 辰辰观影,https://live.ottiptv.cc/huya/30882696
+ winccab,https://live.ottiptv.cc/huya/30650192
+ 冰冰想吃冰棒,https://live.ottiptv.cc/huya/30951578
+ 薄情凉了城,https://live.ottiptv.cc/huya/30156310
+ 清清酱汁,https://live.ottiptv.cc/huya/31106547
+ NUAA-,https://live.ottiptv.cc/huya/18527383
+ 仙女鹿、,https://live.ottiptv.cc/huya/29835716
+ 白桃观影,https://live.ottiptv.cc/huya/31106626
+ 超甜呦、,https://live.ottiptv.cc/huya/30526458
+ 周星驰-美女陪看,https://live.ottiptv.cc/huya/30764430
+ 小怪兽,https://live.ottiptv.cc/huya/13119351
+ 樱花布布,https://live.ottiptv.cc/huya/30626082
+ 江爽【昭昭如愿】,https://live.ottiptv.cc/huya/23796393
+ 诚信丽丽,https://live.ottiptv.cc/huya/30985606
+ 陈翔六点半,https://live.ottiptv.cc/huya/11274154
+ 行军润如,https://live.ottiptv.cc/huya/30761476
+ 古镇小鹿,https://live.ottiptv.cc/huya/30145009
+ 敏敏软香柔,https://live.ottiptv.cc/huya/31071619
+ 娇娇影视,https://live.ottiptv.cc/huya/31027196
+ 甜心喵咪酱,https://live.ottiptv.cc/huya/30658920
+ 也芥末-,https://live.ottiptv.cc/huya/30219264
+ 小芳】,https://live.ottiptv.cc/huya/30716827
+ 暖暖乎乎,https://live.ottiptv.cc/huya/31109767
+ 一支小桃花,https://live.ottiptv.cc/huya/31081313
+ 柒柒酱嘛,https://live.ottiptv.cc/huya/30569095
+ 微微影视,https://live.ottiptv.cc/huya/24527617
+ 斗破-萧薰儿,https://live.ottiptv.cc/huya/29862625
+ 愤怒的小金花,https://live.ottiptv.cc/huya/30837912
+ 沐希兔子,https://live.ottiptv.cc/huya/29835225
+ 沫宝儿吖,https://live.ottiptv.cc/huya/30526426
+ 萌萌小桃子,https://live.ottiptv.cc/huya/29807256
+ 糖果小豆包,https://live.ottiptv.cc/huya/30653660
+ 微笑影视,https://live.ottiptv.cc/huya/25256065
+ 贫困小张喜欢A锥,https://live.ottiptv.cc/huya/30656608
+ 小桃猪猪,https://live.ottiptv.cc/huya/30527430
+ 雨落人间女神,https://live.ottiptv.cc/huya/31091289
+ 鹿儿影视,https://live.ottiptv.cc/huya/30986994
+ 小乔观影,https://live.ottiptv.cc/huya/31014063
+ 高贵优雅石榴裙,https://live.ottiptv.cc/huya/30653672
+ Muse小梅,https://live.ottiptv.cc/huya/30573410
+ 姑娘影视,https://live.ottiptv.cc/huya/30762073
+ Ossi,https://live.ottiptv.cc/huya/31091630
+ 双双影剧,https://live.ottiptv.cc/huya/30415827
+ 锤子动画,https://live.ottiptv.cc/huya/30649359
+ 口口甜,https://live.ottiptv.cc/huya/25701671
+ 西京观影,https://live.ottiptv.cc/huya/30439645
+ RR寅子,https://live.ottiptv.cc/huya/30241641
+ 斗破-萧炎,https://live.ottiptv.cc/huya/29863394
+ 春水不服食,https://live.ottiptv.cc/huya/30951533
+ 我是娅娅吖,https://live.ottiptv.cc/huya/30376663
+ Wechatt,https://live.ottiptv.cc/huya/30535002
+ 姨姨影视,https://live.ottiptv.cc/huya/30769485
+ 以为在何许,https://live.ottiptv.cc/huya/30955238
+ 丽马公主,https://live.ottiptv.cc/huya/29687270
+ 春风和煦汉族,https://live.ottiptv.cc/huya/30955013
+ SJ-辣辣,https://live.ottiptv.cc/huya/30604830
+ 惜哉超常伦,https://live.ottiptv.cc/huya/30965454
+ 天羊盖地虎儿乔家劲,https://live.ottiptv.cc/huya/30065341
+ 冰冰酱嘛,https://live.ottiptv.cc/huya/30650512
+ 小兰看电影,https://live.ottiptv.cc/huya/30974886
+ 虎牙电影直播一起看,https://live.ottiptv.cc/huya/29076690
+ 扁豆看电影,https://live.ottiptv.cc/huya/16028551
+ 我是图图很淘气,https://live.ottiptv.cc/huya/30080227
+ 都爱看,https://live.ottiptv.cc/huya/26058097
+ LX娱乐-招主播,https://live.ottiptv.cc/huya/28259384
+ 【炊烟大壮】,https://live.ottiptv.cc/huya/24782284
+ 艾莉,https://live.ottiptv.cc/huya/20969144
+ 暑光微影小萌,https://live.ottiptv.cc/huya/30964619
+ 惜春剧场,https://live.ottiptv.cc/huya/30539411
+ Mz-夏夏,https://live.ottiptv.cc/huya/314676
+ 錦瑟无故见松雪,https://live.ottiptv.cc/huya/26355840
+ HeungsamsFamily,https://live.ottiptv.cc/huya/29487319
+ 影评专员,https://live.ottiptv.cc/huya/30311494
+ 婧丶,https://live.ottiptv.cc/huya/26298751
+ 唯倜得同行,https://live.ottiptv.cc/huya/30311525
+ 阿光影视,https://live.ottiptv.cc/huya/30292086
+ 芮橙说剧,https://live.ottiptv.cc/huya/30287258
+ 科幻梦工场,https://live.ottiptv.cc/huya/15152155
+ 电影最TOP,https://live.ottiptv.cc/huya/11774959
+ 年年营,https://live.ottiptv.cc/huya/29580970
+ 胖薇薇,https://live.ottiptv.cc/huya/30704992
+ 飞燕剧场,https://live.ottiptv.cc/huya/30705109
+ 影小渔,https://live.ottiptv.cc/huya/30296971
+ 小迷糊,https://live.ottiptv.cc/huya/29580971
+ 余小二哦,https://live.ottiptv.cc/huya/10279885
+ 念念有声,https://live.ottiptv.cc/huya/30454429
+ 游戏解说剪辑师,https://live.ottiptv.cc/huya/25679291
+ 拾光剧场,https://live.ottiptv.cc/huya/30539264
+ 细品红楼,https://live.ottiptv.cc/huya/30080181
+ 止戈电影,https://live.ottiptv.cc/huya/19863777
+ 狗哥吃火锅,https://live.ottiptv.cc/huya/17269326
+ HagnaChannel,https://live.ottiptv.cc/huya/24692390
+ 家里有只小汤圆,https://live.ottiptv.cc/huya/28078466
+ 奇思妙想8,https://live.ottiptv.cc/huya/30080192
+ 虎牙观影厅,https://live.ottiptv.cc/huya/30273533
+ 钟爱陶喆,https://live.ottiptv.cc/huya/30080186
+ 李小龙-中国龙,https://live.ottiptv.cc/huya/30631748
+ 小虎花花,https://live.ottiptv.cc/huya/30829449
+ 天行豆豉,https://live.ottiptv.cc/huya/29877837
+ 玉玉爱追剧,https://live.ottiptv.cc/huya/31041015
+ 李小哇絮叨叨,https://live.ottiptv.cc/huya/18441722
+ 一哥爱解说,https://live.ottiptv.cc/huya/28806915
+ 【蠟筆小新】,https://live.ottiptv.cc/huya/24587878
+ 雪布林,https://live.ottiptv.cc/huya/30311504
+ 周润发-赌神,https://live.ottiptv.cc/huya/30631745
+ 亮哥讲电影,https://live.ottiptv.cc/huya/16144175
+ 斌哥漫说,https://live.ottiptv.cc/huya/18632116
+ 天雷鼓鼓说剧,https://live.ottiptv.cc/huya/30277823
+ YeShi小哥,https://live.ottiptv.cc/huya/14363949
+ 竟日搔白首,https://live.ottiptv.cc/huya/30080197
+ 港片大赏,https://live.ottiptv.cc/huya/30631706
+ 发疯小丛品鉴甄学,https://live.ottiptv.cc/huya/30080163
+ 老歪陪你唠,https://live.ottiptv.cc/huya/30080164
+ SJ-咩咩,https://live.ottiptv.cc/huya/631394
+ 非凡武林,https://live.ottiptv.cc/huya/21674665
+ 南西视频,https://live.ottiptv.cc/huya/16913382
+ 九思剧场,https://live.ottiptv.cc/huya/30569910
+ 惊奇小剧场,https://live.ottiptv.cc/huya/30373013
+ 日落丶星屑,https://live.ottiptv.cc/huya/21059615
+ 泛爱心说剧,https://live.ottiptv.cc/huya/14734068
+ 糊了的胡萝卜,https://live.ottiptv.cc/huya/25725150
+ S哥影视,https://live.ottiptv.cc/huya/24720260
+ 荒野求生影探,https://live.ottiptv.cc/huya/28556708
+ 剧能说,https://live.ottiptv.cc/huya/30298490
+ 力哥影視,https://live.ottiptv.cc/huya/23419131
+ 泱泱看剧,https://live.ottiptv.cc/huya/30373462
+ 重庆火锅青岚黄麻鸡,https://live.ottiptv.cc/huya/30342855
+ 中国探月太空萌兔,https://live.ottiptv.cc/huya/23663418
+ 越哥说电影,https://live.ottiptv.cc/huya/15894162
+ 哀是麦子的球迷,https://live.ottiptv.cc/huya/16162176
+ DD-解说,https://live.ottiptv.cc/huya/25650806
+ 欧巴宋仲基,https://live.ottiptv.cc/huya/23829474
+ 君子杉,https://live.ottiptv.cc/huya/15321830
+ 西西姐姐,https://live.ottiptv.cc/huya/29581116
+ 喜剧大赏,https://live.ottiptv.cc/huya/30631713
+ 柔柔微冷,https://live.ottiptv.cc/huya/31138934
+ 战士吹沙埃,https://live.ottiptv.cc/huya/30344039
+ 月光下,https://live.ottiptv.cc/huya/20599549
+ 野行者,https://live.ottiptv.cc/huya/20072663
+ 萌萌喵、,https://live.ottiptv.cc/huya/27534712
+ 音乐小石榴,https://live.ottiptv.cc/huya/17091681
+ 诡计腰柳中空,https://live.ottiptv.cc/huya/30307341
+ 蒲公英电影,https://live.ottiptv.cc/huya/28806637
+ 缔爵丶小阿杜,https://live.ottiptv.cc/huya/16755322
+ 大象放映室,https://live.ottiptv.cc/huya/21277391
+ 楚门聊电影,https://live.ottiptv.cc/huya/16507906
+ 辟哥影视,https://live.ottiptv.cc/huya/27653235
+ 西部影坛,https://live.ottiptv.cc/huya/30311497
+ 成龙-动作之王,https://live.ottiptv.cc/huya/30631744
+ 庄升秋,https://live.ottiptv.cc/huya/29581262
+ 小金很大,https://live.ottiptv.cc/huya/30307351
+ 杰克动漫,https://live.ottiptv.cc/huya/19757963
+ 缔爵丶小阿杜,https://live.ottiptv.cc/huya/16755322
+ 小丰爱追剧,https://live.ottiptv.cc/huya/30439802
+ 大神影视,https://live.ottiptv.cc/huya/30297011
+ 击剑永不息,https://live.ottiptv.cc/huya/30080154
+ 杰克动漫,https://live.ottiptv.cc/huya/19757963
+ 奶贝可可,https://live.ottiptv.cc/huya/30664021
+ 咔咔一顿玩,https://live.ottiptv.cc/huya/30824456
+ 温泉鱼儿戏,https://live.ottiptv.cc/huya/30080199
+ 李连杰-功夫皇帝,https://live.ottiptv.cc/huya/30631746
+ 港剧大放送,https://live.ottiptv.cc/huya/23903106
+ 成龙-动作之王,https://live.ottiptv.cc/huya/30631744
+ 幻海航行,https://live.ottiptv.cc/huya/17105786
+ 君知钩看了,https://live.ottiptv.cc/huya/30307439
+ Big笑工坊,https://live.ottiptv.cc/huya/14776702
+ 吾聊电影,https://live.ottiptv.cc/huya/16424416
+ 文君看剧,https://live.ottiptv.cc/huya/30363916
+ 狼肉-恐怖游戏,https://live.ottiptv.cc/huya/27949294
+ 燃电时代,https://live.ottiptv.cc/huya/15824466
+ 冯小刚-导演,https://live.ottiptv.cc/huya/30631756
+ 雨满小满天,https://live.ottiptv.cc/huya/30080214
+ 小丑讲电影,https://live.ottiptv.cc/huya/16857432
+ 星光璀璨照夜阑,https://live.ottiptv.cc/huya/30080211
+ 拳满天下,https://live.ottiptv.cc/huya/18152427
+ 硬汉影探,https://live.ottiptv.cc/huya/24614407
+ 头上在眼前,https://live.ottiptv.cc/huya/30307331
+ 君陌观影,https://live.ottiptv.cc/huya/29420446
+ 萬里洋洋者矣,https://live.ottiptv.cc/huya/26355836
+ 乔我说游戏频道,https://live.ottiptv.cc/huya/17943364
+ 萬里洋洋者矣,https://live.ottiptv.cc/huya/26355836
+ 乔我说游戏频道,https://live.ottiptv.cc/huya/17943364
+ 山石说电影,https://live.ottiptv.cc/huya/29858128
+ 大鱼爱路飞,https://live.ottiptv.cc/huya/25818873
+ 熊妹撩电影,https://live.ottiptv.cc/huya/15966357
+ 虎虎剧社呀,https://live.ottiptv.cc/huya/29831106
+ 老P仔动漫,https://live.ottiptv.cc/huya/26510802
+ 星光璀璨照夜阑,https://live.ottiptv.cc/huya/30080211
+ 舍前棕,https://live.ottiptv.cc/huya/26355844
+ 情思说剧,https://live.ottiptv.cc/huya/29870731
+ 老微讲故事,https://live.ottiptv.cc/huya/27693540
+ 东方先生i,https://live.ottiptv.cc/huya/24396323
+ 路飞追剧,https://live.ottiptv.cc/huya/30097024
+ 狂野女孩i了吗,https://live.ottiptv.cc/huya/21059559
+ 小鹿来了,https://live.ottiptv.cc/huya/22780175
+ 艾迷追剧,https://live.ottiptv.cc/huya/30296786
+ 狼肉-影视故事,https://live.ottiptv.cc/huya/30375709
+ 刺猬职场说,https://live.ottiptv.cc/huya/22717669
+ 黑眼侃片,https://live.ottiptv.cc/huya/24609357
+ hihiji,https://live.ottiptv.cc/huya/24982176
+ 短剧无极限,https://live.ottiptv.cc/huya/31001847
+ 南南说动漫,https://live.ottiptv.cc/huya/30296754
+ 自由进行时,https://live.ottiptv.cc/huya/31003157
+ 电影狂人A,https://live.ottiptv.cc/huya/18715610
+ 木子电影V,https://live.ottiptv.cc/huya/27314057
+ 张小宾电影,https://live.ottiptv.cc/huya/29862176
+ 明年幸运,https://live.ottiptv.cc/huya/30373458
+ 仓鼠人,https://live.ottiptv.cc/huya/20985789
+ 搞笑天地,https://live.ottiptv.cc/huya/31002817
+ 有家卓文君,https://live.ottiptv.cc/huya/30297048
+ 乔我说动漫频道,https://live.ottiptv.cc/huya/17941367
+ 莫西西西西,https://live.ottiptv.cc/huya/30312372
+ 图文不符,https://live.ottiptv.cc/huya/20985790
+ 小丑电影,https://live.ottiptv.cc/huya/29869799
+ 爆有料综艺,https://live.ottiptv.cc/huya/27695407
+ 圣逗事,https://live.ottiptv.cc/huya/18390254
+ 猫丸酱影视,https://live.ottiptv.cc/huya/26999674
+ 黑眼侃片,https://live.ottiptv.cc/huya/24609357
+ 宇宙无敌韩三金,https://live.ottiptv.cc/huya/15494057
+ 艾迷追剧,https://live.ottiptv.cc/huya/30296786
+ 阿柴电影,https://live.ottiptv.cc/huya/29402497
+ 荒爷求生007,https://live.ottiptv.cc/huya/29468771
+ 原始生活21天,https://live.ottiptv.cc/huya/17610289
+ 明年幸运,https://live.ottiptv.cc/huya/30373458
+ 九叔林正英,https://live.ottiptv.cc/huya/30631704
+ 小东北侃大片,https://live.ottiptv.cc/huya/23110321
+ 五哥观影团,https://live.ottiptv.cc/huya/30307366
+ 泪腺收割机,https://live.ottiptv.cc/huya/31001892
+ 苏苏追剧,https://live.ottiptv.cc/huya/29418696
+ hihiji,https://live.ottiptv.cc/huya/24982176
+ 荒野求生影视,https://live.ottiptv.cc/huya/24766781
+ 古枫影视,https://live.ottiptv.cc/huya/30297201
+ 周扒片,https://live.ottiptv.cc/huya/29340506
+ 柒言绝剧,https://live.ottiptv.cc/huya/24778726
+ FELIXFELICIS,https://live.ottiptv.cc/huya/31047042
+ 农校小绿,https://live.ottiptv.cc/huya/30080213
+ 木子电影V,https://live.ottiptv.cc/huya/27314057
+ Joey-王祖贤,https://live.ottiptv.cc/huya/30631750
+ 剧说有惊喜,https://live.ottiptv.cc/huya/30339670
+ 小若影视,https://live.ottiptv.cc/huya/29868594
+ 电影探长官方,https://live.ottiptv.cc/huya/30277705
+ 老物修复,https://live.ottiptv.cc/huya/30631712
+ 刺猬职场说,https://live.ottiptv.cc/huya/22717669
+ 有家卓文君,https://live.ottiptv.cc/huya/30297048
+ 正恒YJ-猫猫酱,https://live.ottiptv.cc/huya/21509833
+ 小宋追剧,https://live.ottiptv.cc/huya/30310419
+ 玩个机枪,https://live.ottiptv.cc/huya/30356003
+ 仙人见老聃归,https://live.ottiptv.cc/huya/30080212
+ 小马追剧,https://live.ottiptv.cc/huya/30310431
+ 短剧轻松自在,https://live.ottiptv.cc/huya/31002878
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/19077705
+ 仓鼠人,https://live.ottiptv.cc/huya/20985789
+ 机车-骑士,https://live.ottiptv.cc/huya/30631763
+ 奇幻冒险家,https://live.ottiptv.cc/huya/31003156
+ 情思说剧,https://live.ottiptv.cc/huya/29870731
+ 威廉说,https://live.ottiptv.cc/huya/24969192
+ 路飞追剧,https://live.ottiptv.cc/huya/30097024
+ 未来无限可能追寻者,https://live.ottiptv.cc/huya/31002881
+ 鱼丸说电影,https://live.ottiptv.cc/huya/16615910
+ 东方先生i,https://live.ottiptv.cc/huya/24396323
+ 快剧一览,https://live.ottiptv.cc/huya/31002874
+ 夏日么么茶,https://live.ottiptv.cc/huya/17455040
+ 星雪剪辑,https://live.ottiptv.cc/huya/29868637
+ 小川侃电影,https://live.ottiptv.cc/huya/15870999
+ 张小宾电影,https://live.ottiptv.cc/huya/29862176
+ 7块说故事,https://live.ottiptv.cc/huya/27661804
+ 晕倒羊一家,https://live.ottiptv.cc/huya/25107026
+ 青年电影馆,https://live.ottiptv.cc/huya/21388479
+ 小鹿来了,https://live.ottiptv.cc/huya/22780175
+ 告别烦恼,https://live.ottiptv.cc/huya/31001889
+ 仙人见老聃归,https://live.ottiptv.cc/huya/30080212
+ 快剧一览,https://live.ottiptv.cc/huya/31002874
+ 如来解说,https://live.ottiptv.cc/huya/29856678
+ 老物修复,https://live.ottiptv.cc/huya/30631712
+ 五哥观影团,https://live.ottiptv.cc/huya/30307366
+ 周星驰吧,https://live.ottiptv.cc/huya/21136378
+ 奇幻冒险家,https://live.ottiptv.cc/huya/31003156
+ 小宋追剧,https://live.ottiptv.cc/huya/30310419
+ 剧说有惊喜,https://live.ottiptv.cc/huya/30339670
+ 集集动漫社,https://live.ottiptv.cc/huya/29832558
+ 老巴电影,https://live.ottiptv.cc/huya/29340502
+ 就有芦芽短,https://live.ottiptv.cc/huya/29982612
+ 三哥说武侠,https://live.ottiptv.cc/huya/29834817
+ 时间之旅,https://live.ottiptv.cc/huya/31002907
+ 十趣文化,https://live.ottiptv.cc/huya/23707143
+ 鸳鸯入帘青,https://live.ottiptv.cc/huya/30380969
+ 我是二人放映厅,https://live.ottiptv.cc/huya/24441727
+ 大鹅观影,https://live.ottiptv.cc/huya/30292065
+ 专情于你,https://live.ottiptv.cc/huya/31015382
+ 肥猫观影,https://live.ottiptv.cc/huya/24152470
+ 时夜说故事,https://live.ottiptv.cc/huya/29918288
+ 影视铺FILMSHOP,https://live.ottiptv.cc/huya/30297166
+ 狗哥探案,https://live.ottiptv.cc/huya/29484323
+ 天依说影,https://live.ottiptv.cc/huya/15174372
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/30363935
+ 诗语墨,https://live.ottiptv.cc/huya/30312383
+ A皮皮,https://live.ottiptv.cc/huya/30375641
+ 布布娱乐,https://live.ottiptv.cc/huya/29882863
+ 蓬蓬带你看剧,https://live.ottiptv.cc/huya/30309986
+ 喵哇塞,https://live.ottiptv.cc/huya/30344013
+ 纯洁上校,https://live.ottiptv.cc/huya/29875684
+ 小松说剧,https://live.ottiptv.cc/huya/11593369
+ 小松说剧,https://live.ottiptv.cc/huya/11593369
+ 江流杀鸡作食,https://live.ottiptv.cc/huya/30375485
+ 猫眼下的鱼,https://live.ottiptv.cc/huya/20236200
+ 大潘影视,https://live.ottiptv.cc/huya/30439834
+ 饿梦影视,https://live.ottiptv.cc/huya/24886896
+ 喜仔的世界,https://live.ottiptv.cc/huya/17098448
+ 小野综艺,https://live.ottiptv.cc/huya/29890508
+ 灵魂照妖镜,https://live.ottiptv.cc/huya/31001902
+ 良少聊漫威,https://live.ottiptv.cc/huya/25523725
+ 若雨随影,https://live.ottiptv.cc/huya/29340713
+ 西哥来了,https://live.ottiptv.cc/huya/10849208
+ 猛虎电影,https://live.ottiptv.cc/huya/24770988
+ 追剧怀旧达人,https://live.ottiptv.cc/huya/30339640
+ 竖子所乐兮,https://live.ottiptv.cc/huya/30307442
+ 可乐电影o,https://live.ottiptv.cc/huya/29598686
+ 光光电影,https://live.ottiptv.cc/huya/29399457
+ 专情于你,https://live.ottiptv.cc/huya/31015382
+ 短剧搞笑社,https://live.ottiptv.cc/huya/31001842
+ 阿涛影视,https://live.ottiptv.cc/huya/30292047
+ 新海电影,https://live.ottiptv.cc/huya/29396806
+ 神探追剧,https://live.ottiptv.cc/huya/30296896
+ 海底大世界,https://live.ottiptv.cc/huya/30631764
+ 岳岳追剧呀,https://live.ottiptv.cc/huya/30438843
+ 金小妍吖,https://live.ottiptv.cc/huya/29942067
+ 火华君说电影,https://live.ottiptv.cc/huya/27312232
+ 一条贤娱,https://live.ottiptv.cc/huya/29874258
+ 短剧美好人生,https://live.ottiptv.cc/huya/31003159
+ 呆呆的动画,https://live.ottiptv.cc/huya/29837259
+ 涵哥评电影,https://live.ottiptv.cc/huya/16865726
+ 一日壹片v,https://live.ottiptv.cc/huya/27322701
+ 八零影漫,https://live.ottiptv.cc/huya/27236095
+ 给生活加点笑,https://live.ottiptv.cc/huya/20985764
+ 短剧荟萃馆,https://live.ottiptv.cc/huya/31079599
+ 热播君V,https://live.ottiptv.cc/huya/26999401
+ 言雨说剧,https://live.ottiptv.cc/huya/30297024
+ 阿森观影团,https://live.ottiptv.cc/huya/30292074
+ 竖子所乐兮,https://live.ottiptv.cc/huya/30307442
+ 小野综艺,https://live.ottiptv.cc/huya/29890508
+ 就有芦芽短,https://live.ottiptv.cc/huya/29982612
+ 阿森观影团,https://live.ottiptv.cc/huya/30292074
+ 短剧荟萃馆,https://live.ottiptv.cc/huya/31079599
+ 金小妍吖,https://live.ottiptv.cc/huya/29942067
+ 欣姐说剧,https://live.ottiptv.cc/huya/28021302
+ 救赎电影,https://live.ottiptv.cc/huya/29833341
+ 猫眼下的鱼,https://live.ottiptv.cc/huya/20236200
+ 时夜说故事,https://live.ottiptv.cc/huya/29918288
+ 蓬蓬带你看剧,https://live.ottiptv.cc/huya/30309986
+ 灵魂照妖镜,https://live.ottiptv.cc/huya/31001902
+ 修蹄师傅,https://live.ottiptv.cc/huya/30631772
+一起看,#genre#
+ 周星星,https://live.ottiptv.cc/huya/11342412
+ 武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
+ Zyn,https://live.ottiptv.cc/huya/20985781
+ 南中莫甘娜,https://live.ottiptv.cc/huya/26355789
+ 凤洋村贾克斯,https://live.ottiptv.cc/huya/29982661
+ 回去拿马卡报,https://live.ottiptv.cc/huya/30080238
+ 小木子先生丶,https://live.ottiptv.cc/huya/11342396
+ 精彩小雨幕,https://live.ottiptv.cc/huya/30080148
+ 鯎爺,https://live.ottiptv.cc/huya/11352944
+ 蛮多的功夫,https://live.ottiptv.cc/huya/23740156
+ 痞子帅叔叔,https://live.ottiptv.cc/huya/11342433
+ 活泼有趣的熊猫,https://live.ottiptv.cc/huya/29982632
+ 偷心大盗ヽ龍宝,https://live.ottiptv.cc/huya/11342386
+ 柯冉冉,https://live.ottiptv.cc/huya/11352874
+ 多美剧场,https://live.ottiptv.cc/huya/23650774
+ 水晶awa,https://live.ottiptv.cc/huya/30080247
+ 傻妞,https://live.ottiptv.cc/huya/11342426
+ 7喜先生,https://live.ottiptv.cc/huya/11342421
+ 海绵宝宝宝,https://live.ottiptv.cc/huya/11352919
+ 我是詹密,https://live.ottiptv.cc/huya/11342439
+ 小虎牙-QQFbPxwM1A,https://live.ottiptv.cc/huya/11352958
+ No1常在心,https://live.ottiptv.cc/huya/11342402
+ 彪哥的日常,https://live.ottiptv.cc/huya/23650804
+ 會唱歌的小野貓,https://live.ottiptv.cc/huya/11352871
+ 瞬间爆炸,https://live.ottiptv.cc/huya/11352960
+ 领带哥,https://live.ottiptv.cc/huya/11342430
+ 球哥解说,https://live.ottiptv.cc/huya/29465875
+ 喜剧电影放映厅,https://live.ottiptv.cc/huya/11602031
+ 全优少年,https://live.ottiptv.cc/huya/11602081
+ 美少女咸儿,https://live.ottiptv.cc/huya/11336572
+ 超能力是放pi,https://live.ottiptv.cc/huya/11352906
+ 小虎牙-9zUJscDWkH,https://live.ottiptv.cc/huya/30080146
+ 浮生没有若梦,https://live.ottiptv.cc/huya/11601986
+ 红茶妹妹,https://live.ottiptv.cc/huya/11336592
+ 兄台明鉴,https://live.ottiptv.cc/huya/23482266
+ 虎牙八点档,https://live.ottiptv.cc/huya/880261
+ 大漠李白,https://live.ottiptv.cc/huya/26355861
+ 加班狗,https://live.ottiptv.cc/huya/11352891
+ 春水盈盈细浪翻,https://live.ottiptv.cc/huya/30080255
+ 白菘无人省,https://live.ottiptv.cc/huya/26355864
+ 野原的一家,https://live.ottiptv.cc/huya/11352970
+ 虎牙影院,https://live.ottiptv.cc/huya/11601968
+ 里昂保护的玛蒂达,https://live.ottiptv.cc/huya/21059594
+ 鱼塘塘主张年年,https://live.ottiptv.cc/huya/11342384
+ 备胎说车,https://live.ottiptv.cc/huya/20985836
+ 天地間香芒,https://live.ottiptv.cc/huya/26355800
+ 种瓜得弟弟,https://live.ottiptv.cc/huya/11352872
+ Wang-我的女人,https://live.ottiptv.cc/huya/11352940
+ 兜兜з,https://live.ottiptv.cc/huya/11352910
+ 宇宙摸魚人,https://live.ottiptv.cc/huya/26355763
+ 四大裁子之首,https://live.ottiptv.cc/huya/11602058
+ 不发威当我Kitty,https://live.ottiptv.cc/huya/11342403
+ Mr-傀儡,https://live.ottiptv.cc/huya/11352936
+ 订阅我就发财,https://live.ottiptv.cc/huya/29465863
+ 裸奔的蜗牛╮,https://live.ottiptv.cc/huya/11342418
+ 沉睡在你心底的光,https://live.ottiptv.cc/huya/20985816
+ 山东北路大喬,https://live.ottiptv.cc/huya/26355860
+ 小妖孽,https://live.ottiptv.cc/huya/11602088
+ 我要在你头上暴扣,https://live.ottiptv.cc/huya/19524135
+ 大侠,https://live.ottiptv.cc/huya/11602085
+ 凌莲,https://live.ottiptv.cc/huya/11602086
+ 老王夸我帅,https://live.ottiptv.cc/huya/11352964
+ 四次元先生,https://live.ottiptv.cc/huya/11602071
+ 茱麗葉,https://live.ottiptv.cc/huya/11602072
+ 实力拔萝卜,https://live.ottiptv.cc/huya/11601960
+ 老司机,https://live.ottiptv.cc/huya/11352946
+ YJ-无语凝烟,https://live.ottiptv.cc/huya/26355856
+ 喝一碗杏仁茶,https://live.ottiptv.cc/huya/21059565
+ 港剧日记,https://live.ottiptv.cc/huya/23903130
+ 地狱ヽ妖妖,https://live.ottiptv.cc/huya/11352869
+ HelloKitty,https://live.ottiptv.cc/huya/11352879
+ 同芋螺,https://live.ottiptv.cc/huya/26355801
+ Cc,https://live.ottiptv.cc/huya/11601966
+ 尼古拉斯乔丹,https://live.ottiptv.cc/huya/11352898
+ 我们都爱笑,https://live.ottiptv.cc/huya/11352882
+ 拓客说,https://live.ottiptv.cc/huya/20969130
+ 粉娘,https://live.ottiptv.cc/huya/11601978
+ 小雅陪你看,https://live.ottiptv.cc/huya/30080225
+ 个人向,https://live.ottiptv.cc/huya/11352963
+ 心疼得抱住胖胖的自己,https://live.ottiptv.cc/huya/11342425
+ 傍晚猴,https://live.ottiptv.cc/huya/30080236
+ 采茶大师,https://live.ottiptv.cc/huya/23728693
+ 一片青青草原,https://live.ottiptv.cc/huya/11352973
+ 港片剧情真好,https://live.ottiptv.cc/huya/29465859
+ 萌新司机,https://live.ottiptv.cc/huya/11352881
+ 春江花朝吹香夢,https://live.ottiptv.cc/huya/26355791
+ 江天大夫與,https://live.ottiptv.cc/huya/26355857
+ 鄉8佬,https://live.ottiptv.cc/huya/11352920
+ 莫小辰,https://live.ottiptv.cc/huya/11352916
+ 热心市民高先生,https://live.ottiptv.cc/huya/11602037
+ 繁花似锦小丽人,https://live.ottiptv.cc/huya/30080189
+ Zyn,https://live.ottiptv.cc/huya/20985781
+ 港剧推荐喵,https://live.ottiptv.cc/huya/23902242
+ 更有又相见,https://live.ottiptv.cc/huya/29982636
+ 安逗和黑仔,https://live.ottiptv.cc/huya/11342424
+ 呆萌小岳岳,https://live.ottiptv.cc/huya/11342398
+ 小猪猪,https://live.ottiptv.cc/huya/11342416
+ 微凉不小行,https://live.ottiptv.cc/huya/30080215
+ 核桃姐姐,https://live.ottiptv.cc/huya/11342390
+ 摄氏零度,https://live.ottiptv.cc/huya/11602032
+ 反方向的钟1874,https://live.ottiptv.cc/huya/29465868
+ 鸽宝小改改,https://live.ottiptv.cc/huya/11601970
+ 樹袋熊小九九,https://live.ottiptv.cc/huya/11282233
+ 电视迷痴迷港剧,https://live.ottiptv.cc/huya/29465851
+ Yummy,https://live.ottiptv.cc/huya/11336587
+ 袖中忽见洮河北,https://live.ottiptv.cc/huya/26355788
+ 二次元baby,https://live.ottiptv.cc/huya/11601963
+ 有妖气漫画-十冷,https://live.ottiptv.cc/huya/21059550
+ 就有难再得,https://live.ottiptv.cc/huya/30080151
+ 回忆大马甲,https://live.ottiptv.cc/huya/21241816
+ 动作大片放映厅,https://live.ottiptv.cc/huya/10871113
+ 马呜呜,https://live.ottiptv.cc/huya/29982631
+ 港片经典回忆,https://live.ottiptv.cc/huya/29465849
+ --娇妹,https://live.ottiptv.cc/huya/11342404
+ 好学上进的青年,https://live.ottiptv.cc/huya/29982666
+ 我很忙,https://live.ottiptv.cc/huya/11352950
+ 经典剧好看,https://live.ottiptv.cc/huya/23490183
+ 落于巧克力,https://live.ottiptv.cc/huya/29465879
+ 好汉来也,https://live.ottiptv.cc/huya/23652426
+ 缠,https://live.ottiptv.cc/huya/20969140
+ 市民刘先生,https://live.ottiptv.cc/huya/23728647
+ 雨落惊鸿人,https://live.ottiptv.cc/huya/21059628
+ 我爱黑科技,https://live.ottiptv.cc/huya/11602068
+ 超人的归来,https://live.ottiptv.cc/huya/21059588
+ 小爱酱,https://live.ottiptv.cc/huya/11352922
+ 老问我东西南北,https://live.ottiptv.cc/huya/30080244
+ 战争电影放映厅,https://live.ottiptv.cc/huya/21059618
+ 我是周粤驰,https://live.ottiptv.cc/huya/23864973
+ 我很怪丶但我不坏,https://live.ottiptv.cc/huya/21059634
+ 主播小贞,https://live.ottiptv.cc/huya/11352935
+ -懒猪,https://live.ottiptv.cc/huya/11342393
+ 灾难见证者,https://live.ottiptv.cc/huya/20969137
+ 逗比宝宝,https://live.ottiptv.cc/huya/11342427
+ AKIHITO,https://live.ottiptv.cc/huya/20985792
+ 梁非凡吔X啦,https://live.ottiptv.cc/huya/23749083
+ 吕梓昂,https://live.ottiptv.cc/huya/30080248
+ 王纪超人,https://live.ottiptv.cc/huya/21059551
+ 悬疑放映厅,https://live.ottiptv.cc/huya/26355797
+ 流浪者行,https://live.ottiptv.cc/huya/20985829
+ 疯狂的音乐人,https://live.ottiptv.cc/huya/29982625
+ 电视精彩连续剧,https://live.ottiptv.cc/huya/29465848
+ 蓶1淳爷,https://live.ottiptv.cc/huya/11336719
+ 开船老湿基,https://live.ottiptv.cc/huya/11342387
+ 方显出英仍无骨,https://live.ottiptv.cc/huya/26355854
+ 电视剧痴迷者,https://live.ottiptv.cc/huya/29465856
+ 如意菜头,https://live.ottiptv.cc/huya/11352966
+ 虎牙放映厅,https://live.ottiptv.cc/huya/11602077
+ TVB奇奇,https://live.ottiptv.cc/huya/23865148
+ 偶像在线,https://live.ottiptv.cc/huya/20432237
+ 赛文777,https://live.ottiptv.cc/huya/21059607
+ 武侠电影放映厅,https://live.ottiptv.cc/huya/29982611
+ 新奇好玩喵,https://live.ottiptv.cc/huya/21059610
+ 云初,https://live.ottiptv.cc/huya/20969099
+ 西班牙七七点评,https://live.ottiptv.cc/huya/30080161
+ 骑士热音ing,https://live.ottiptv.cc/huya/29982613
+ 电视剧好看,https://live.ottiptv.cc/huya/29465860
+ 简小熙,https://live.ottiptv.cc/huya/11342399
+ 电音857,https://live.ottiptv.cc/huya/20432231
+ 一只大懒虫,https://live.ottiptv.cc/huya/11279251
+ 道长我们私奔吧,https://live.ottiptv.cc/huya/26355834
+ 朝服金子,https://live.ottiptv.cc/huya/29465865
+ 哥哥永恒,https://live.ottiptv.cc/huya/21241769
+ 飙车的老司机,https://live.ottiptv.cc/huya/11352894
+ 梁非凡吃点啥,https://live.ottiptv.cc/huya/21059577
+ 生活技巧,https://live.ottiptv.cc/huya/20985833
+ 落露小鸟,https://live.ottiptv.cc/huya/30080241
+ 独一无二小鱼,https://live.ottiptv.cc/huya/30080219
+ 飙车的老司机,https://live.ottiptv.cc/huya/11352894
+ 追娘娘陪你看,https://live.ottiptv.cc/huya/30080182
+ 我是小鲜肉,https://live.ottiptv.cc/huya/20432235
+ 毁你男神做你男人,https://live.ottiptv.cc/huya/353798
+ 电音先锋,https://live.ottiptv.cc/huya/21241762
+ 老板给次机会吧,https://live.ottiptv.cc/huya/23829447
+ 简小熙,https://live.ottiptv.cc/huya/11342399
+ 槽老师,https://live.ottiptv.cc/huya/11336571
+ 港剧热爱者,https://live.ottiptv.cc/huya/29465857
+ 漓江塔景区售票阿姨,https://live.ottiptv.cc/huya/11602082
+ 而莫善者恶之,https://live.ottiptv.cc/huya/26355775
+ 电音857,https://live.ottiptv.cc/huya/20432231
+ 无花果不结果,https://live.ottiptv.cc/huya/30080228
+ 我是靓宝,https://live.ottiptv.cc/huya/23728660
+ 重口味爱好者,https://live.ottiptv.cc/huya/11352889
+ 龙珠经典放映厅,https://live.ottiptv.cc/huya/29982688
+ 华视-动作大片,https://live.ottiptv.cc/huya/23352535
+ 战斗联盟,https://live.ottiptv.cc/huya/11342413
+ 薛教授,https://live.ottiptv.cc/huya/11342385
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314163
+ 狗哥吃火锅2,https://live.ottiptv.cc/huya/21059624
+ 内有恶龙,https://live.ottiptv.cc/huya/29982674
+ 粤语电影放映厅,https://live.ottiptv.cc/huya/21059572
+ 扫地僧,https://live.ottiptv.cc/huya/11342394
+ 阿虎爱港剧,https://live.ottiptv.cc/huya/23863833
+ 可爱的小强,https://live.ottiptv.cc/huya/11342435
+ 十八里铺大当家,https://live.ottiptv.cc/huya/21059562
+ 哥哥永恒,https://live.ottiptv.cc/huya/21241769
+ DrummerSubin,https://live.ottiptv.cc/huya/21241800
+ 电视剧好看,https://live.ottiptv.cc/huya/29465860
+ 耳里如闻疑忠良,https://live.ottiptv.cc/huya/26355858
+ 笙歌,https://live.ottiptv.cc/huya/11352965
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241841
+ 小怪兽、,https://live.ottiptv.cc/huya/11602044
+ 螺丝也可爱,https://live.ottiptv.cc/huya/21059604
+ 滴水恋,https://live.ottiptv.cc/huya/30080218
+ 奇幻电影放映厅,https://live.ottiptv.cc/huya/26355847
+ 4号流水线的李小花,https://live.ottiptv.cc/huya/11601957
+ 微微爱宝宝,https://live.ottiptv.cc/huya/11342422
+ 大铁锅炖大大鹅,https://live.ottiptv.cc/huya/21059574
+ 小牡蛎,https://live.ottiptv.cc/huya/11352962
+ 北岛的诗,https://live.ottiptv.cc/huya/11336591
+ 主播辣眼睛,https://live.ottiptv.cc/huya/11352915
+ 王亦天之高也,https://live.ottiptv.cc/huya/29465874
+ 杀马特死神,https://live.ottiptv.cc/huya/11352875
+ 小猪包大米,https://live.ottiptv.cc/huya/30080253
+ 渔洞墨,https://live.ottiptv.cc/huya/26355767
+ 星河信箱,https://live.ottiptv.cc/huya/20969101
+ 性感大妈,https://live.ottiptv.cc/huya/11602075
+ -若凌Provence-,https://live.ottiptv.cc/huya/11352955
+ 港剧日常,https://live.ottiptv.cc/huya/23903123
+ 冰火岛一霸,https://live.ottiptv.cc/huya/21059563
+ 苦瓜老姨,https://live.ottiptv.cc/huya/11342429
+ 港剧慢品汇,https://live.ottiptv.cc/huya/23865142
+ 南柯寒梦,https://live.ottiptv.cc/huya/30080193
+ 驯鹿的阶梯,https://live.ottiptv.cc/huya/20985870
+ 田径精英在奔跑,https://live.ottiptv.cc/huya/29982660
+ 大可加冰不加可,https://live.ottiptv.cc/huya/29982672
+ 汽车人,https://live.ottiptv.cc/huya/11352897
+ 冬日暖心猫,https://live.ottiptv.cc/huya/29982669
+ 暴走君丶阿罪,https://live.ottiptv.cc/huya/11342423
+ 港剧迷狂热,https://live.ottiptv.cc/huya/29465847
+ 摇滚足球本,https://live.ottiptv.cc/huya/29982616
+ 持枪者-土豆哥,https://live.ottiptv.cc/huya/11336578
+ 小年夜,https://live.ottiptv.cc/huya/20432229
+ 替你挨过揍的朋友,https://live.ottiptv.cc/huya/11602045
+ 今朝之长天,https://live.ottiptv.cc/huya/29465866
+ 不能全鱼,https://live.ottiptv.cc/huya/26355771
+ 我是翩翩少年郎,https://live.ottiptv.cc/huya/30080221
+ 深夜悦读,https://live.ottiptv.cc/huya/20985815
+ 君临剧精彩,https://live.ottiptv.cc/huya/24843509
+ 嘤嘤嘤,https://live.ottiptv.cc/huya/11336579
+ 情节戏剧,https://live.ottiptv.cc/huya/29465854
+ 我的宝贝baby,https://live.ottiptv.cc/huya/11352880
+ 李径看奥运,https://live.ottiptv.cc/huya/30080153
+ CRE8轰脑循环,https://live.ottiptv.cc/huya/21028268
+ 二次元控,https://live.ottiptv.cc/huya/11352912
+ 港剧课代表,https://live.ottiptv.cc/huya/23863895
+ 第一放映室,https://live.ottiptv.cc/huya/11352979
+ 迷失,https://live.ottiptv.cc/huya/11602041
+ 第十门,https://live.ottiptv.cc/huya/11352883
+ 一米八砍竹竿,https://live.ottiptv.cc/huya/30080252
+ 娱乐bb机,https://live.ottiptv.cc/huya/29982635
+ 陌离-小欣,https://live.ottiptv.cc/huya/11342397
+ 甘雨超级甜,https://live.ottiptv.cc/huya/21059620
+ 瓦萨卡,https://live.ottiptv.cc/huya/20969131
+ 小蘑菇,https://live.ottiptv.cc/huya/11601981
+ 港片魅力无限,https://live.ottiptv.cc/huya/29465852
+ 阿汤哥的影迷,https://live.ottiptv.cc/huya/21059585
+ 斷桥斯氏杯,https://live.ottiptv.cc/huya/26355786
+ YOUNG,https://live.ottiptv.cc/huya/20985766
+ 迎宾桥米莱迪,https://live.ottiptv.cc/huya/26355790
+ 西九龙冠希哥,https://live.ottiptv.cc/huya/21059579
+ 赛博的朋克,https://live.ottiptv.cc/huya/29982649
+ 三剑客陪你看,https://live.ottiptv.cc/huya/30080162
+ 做人最要紧开心,https://live.ottiptv.cc/huya/23824164
+ 剧情扣人心弦,https://live.ottiptv.cc/huya/29465850
+ 百里乐成,https://live.ottiptv.cc/huya/21059632
+ 我是大物,https://live.ottiptv.cc/huya/29982622
+ 身外桂鱼,https://live.ottiptv.cc/huya/29465869
+ 喜来乐狮子头,https://live.ottiptv.cc/huya/21059580
+ 一只邪恶小棕熊,https://live.ottiptv.cc/huya/30080224
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314021
+ 宅妹,https://live.ottiptv.cc/huya/11352954
+ 君临剧有益,https://live.ottiptv.cc/huya/24884646
+ 永艳金铭,https://live.ottiptv.cc/huya/26355839
+ FunniestAnimals,https://live.ottiptv.cc/huya/20985793
+ 惡紫之奪氈酒,https://live.ottiptv.cc/huya/26355866
+ 羞涩的茄子,https://live.ottiptv.cc/huya/11336590
+ 麋鹿,https://live.ottiptv.cc/huya/11342419
+ 沙雕剧情梗中梗,https://live.ottiptv.cc/huya/24648646
+ 这很不同,https://live.ottiptv.cc/huya/11602067
+ 经典日本动漫速看,https://live.ottiptv.cc/huya/29982686
+ loVe、飘零,https://live.ottiptv.cc/huya/11602074
+ 维思维,https://live.ottiptv.cc/huya/20985802
+ 阿森木木木,https://live.ottiptv.cc/huya/11601971
+ 昔日女神柳清茶-,https://live.ottiptv.cc/huya/11279247
+ 泉上老见示,https://live.ottiptv.cc/huya/29982664
+ 狗剩小刚,https://live.ottiptv.cc/huya/30080243
+ 且听我说,https://live.ottiptv.cc/huya/20985820
+ 布谷bugu,https://live.ottiptv.cc/huya/29982671
+ 古古三十年,https://live.ottiptv.cc/huya/29982675
+ 噜吖噜,https://live.ottiptv.cc/huya/21241790
+ 华视-悬疑恐怖,https://live.ottiptv.cc/huya/23358441
+ 陌哨面,https://live.ottiptv.cc/huya/26355852
+ 小虎牙-UJvLCU73jW,https://live.ottiptv.cc/huya/26355828
+ Edinburgh南空,https://live.ottiptv.cc/huya/11352890
+ 老来事業斷橋邊,https://live.ottiptv.cc/huya/26355853
+ 冬至小肉丸子圈圈,https://live.ottiptv.cc/huya/30080141
+ 后宫生存攻略,https://live.ottiptv.cc/huya/30080183
+ 一起看看球,https://live.ottiptv.cc/huya/29982695
+ 微风孝王都,https://live.ottiptv.cc/huya/26355794
+ SMG最强大脑,https://live.ottiptv.cc/huya/11352914
+ 绿帽闪电侠,https://live.ottiptv.cc/huya/21059557
+ 老实的小虎牙,https://live.ottiptv.cc/huya/21059609
+ 张医生,https://live.ottiptv.cc/huya/11342415
+ 雨、浮沉,https://live.ottiptv.cc/huya/11336593
+ 喵喵即正义,https://live.ottiptv.cc/huya/21059528
+ 一只梦幻小萌虎,https://live.ottiptv.cc/huya/21059556
+ 炙恋兽兽,https://live.ottiptv.cc/huya/11342428
+ 飞鸟鸣春小满日,https://live.ottiptv.cc/huya/29982646
+ 动作片天花板,https://live.ottiptv.cc/huya/23865152
+ 繁星点点的夜晚猫,https://live.ottiptv.cc/huya/30080194
+ 晓云街道媽,https://live.ottiptv.cc/huya/21059614
+ 海浪拍岸热情妹,https://live.ottiptv.cc/huya/30080239
+ 英雄联盟-热点站,https://live.ottiptv.cc/huya/21241839
+ 大懒猫,https://live.ottiptv.cc/huya/11602046
+ 大道遺所思,https://live.ottiptv.cc/huya/26355768
+ 南中莫甘娜,https://live.ottiptv.cc/huya/26355789
+ 阿夹,https://live.ottiptv.cc/huya/20985783
+ 超能狗仔队,https://live.ottiptv.cc/huya/30080173
+ julie,https://live.ottiptv.cc/huya/20969142
+ 小亮亮,https://live.ottiptv.cc/huya/11342432
+ 了不起的小萌虎,https://live.ottiptv.cc/huya/11342388
+ 帅气男大,https://live.ottiptv.cc/huya/30080226
+ 周董永远的神,https://live.ottiptv.cc/huya/29982629
+ 【僵尸】24小时放映厅,https://live.ottiptv.cc/huya/19285234
+ 大神级现场,https://live.ottiptv.cc/huya/21241817
+ 向阳花,https://live.ottiptv.cc/huya/11602069
+ 龙须菜麻糍,https://live.ottiptv.cc/huya/30080147
+ 视死思项羽,https://live.ottiptv.cc/huya/29982655
+ 斌哥漫说2,https://live.ottiptv.cc/huya/21059621
+ 三十既未息,https://live.ottiptv.cc/huya/26355846
+ 千里,https://live.ottiptv.cc/huya/20985776
+ 果子山薩科,https://live.ottiptv.cc/huya/26355823
+ Eric次元宝贝,https://live.ottiptv.cc/huya/21059552
+ 伍德雅特,https://live.ottiptv.cc/huya/20985805
+ 东方福尔摩斯,https://live.ottiptv.cc/huya/30080229
+ 港式宫斗剧,https://live.ottiptv.cc/huya/23865036
+ 小虎牙-QGOoMx3C4k,https://live.ottiptv.cc/huya/20985822
+ 一川星悬-,https://live.ottiptv.cc/huya/29465870
+ 体坛精彩速递,https://live.ottiptv.cc/huya/30080196
+ D3ath-亡魂,https://live.ottiptv.cc/huya/11342437
+ 我叫山鸡哥,https://live.ottiptv.cc/huya/23734246
+ 上元石,https://live.ottiptv.cc/huya/20985799
+ 深秋有诗,https://live.ottiptv.cc/huya/29982627
+ 香港喜剧大全,https://live.ottiptv.cc/huya/23865080
+ 篮球巅峰,https://live.ottiptv.cc/huya/30080158
+ 本是凉薄之人怎暖他人,https://live.ottiptv.cc/huya/21059630
+ 龙须菜麻糍,https://live.ottiptv.cc/huya/30080147
+ 西双版纳旅游,https://live.ottiptv.cc/huya/29465880
+ 【僵尸】24小时放映厅,https://live.ottiptv.cc/huya/19285234
+ 动作片天花板,https://live.ottiptv.cc/huya/23865152
+ 顶级奢侈,https://live.ottiptv.cc/huya/20985814
+ 我叫山鸡哥,https://live.ottiptv.cc/huya/23734246
+ 贝爷,https://live.ottiptv.cc/huya/20969143
+ 花开又三年,https://live.ottiptv.cc/huya/20985852
+ 斌哥漫说2,https://live.ottiptv.cc/huya/21059621
+ 小虎牙-QGOoMx3C4k,https://live.ottiptv.cc/huya/20985822
+  舞王驾到,https://live.ottiptv.cc/huya/11342438
+ 小亮亮,https://live.ottiptv.cc/huya/11342432
+ 狗剩小刚,https://live.ottiptv.cc/huya/30080243
+ 辛苦烧餅,https://live.ottiptv.cc/huya/26355848
+ 西班牙巴斯光年,https://live.ottiptv.cc/huya/30080256
+ 飞天女警,https://live.ottiptv.cc/huya/11601958
+ 元芳看不到,https://live.ottiptv.cc/huya/11342414
+ 沐小错,https://live.ottiptv.cc/huya/11352956
+ 伍德雅特,https://live.ottiptv.cc/huya/20985805
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241840
+ 小翼看科技,https://live.ottiptv.cc/huya/27318871
+ 歪果仁Reaction,https://live.ottiptv.cc/huya/29982644
+ 我还是不骄傲,https://live.ottiptv.cc/huya/30080245
+ jk不烦恼,https://live.ottiptv.cc/huya/21059553
+ 上元石,https://live.ottiptv.cc/huya/20985799
+ 堆仔煲剧,https://live.ottiptv.cc/huya/23734176
+ 港剧经典回味无穷,https://live.ottiptv.cc/huya/29465861
+ 视死思项羽,https://live.ottiptv.cc/huya/29982655
+ 为所欲为的墨镜哥,https://live.ottiptv.cc/huya/23865161
+ 帅气男大,https://live.ottiptv.cc/huya/30080226
+ 阳光下飞鸽,https://live.ottiptv.cc/huya/30080138
+ 威尼斯的贡多拉,https://live.ottiptv.cc/huya/29465883
+ 猛志百般红,https://live.ottiptv.cc/huya/26355865
+ 来听歌呀,https://live.ottiptv.cc/huya/11352913
+ 放松轻音乐,https://live.ottiptv.cc/huya/21241813
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241844
+ 事当赤颈,https://live.ottiptv.cc/huya/26355835
+ 大懒猫,https://live.ottiptv.cc/huya/11602046
+ 深秋有诗,https://live.ottiptv.cc/huya/29982627
+ 胖次过肩摔,https://live.ottiptv.cc/huya/11352903
+ 葱花,https://live.ottiptv.cc/huya/11352938
+ 马春夏秋冬梅,https://live.ottiptv.cc/huya/21059564
+ 凤洋村贾克斯,https://live.ottiptv.cc/huya/29982661
+ 我才是厨神,https://live.ottiptv.cc/huya/23728595
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314160
+ 阿叁,https://live.ottiptv.cc/huya/20969141
+ SMG梦想成真,https://live.ottiptv.cc/huya/11602047
+ TVB追剧小能手,https://live.ottiptv.cc/huya/23865179
+ LOL动画剧情解说,https://live.ottiptv.cc/huya/29982690
+ 寞尛北,https://live.ottiptv.cc/huya/11602076
+ blue声色,https://live.ottiptv.cc/huya/21241831
+ 嶺外奇服兮,https://live.ottiptv.cc/huya/26355850
+ 周星星梦里的朱茵,https://live.ottiptv.cc/huya/21059587
+ 杨过的挂耳染,https://live.ottiptv.cc/huya/23746691
+ 扁豆看电影2,https://live.ottiptv.cc/huya/21059623
+ 港式宫斗剧,https://live.ottiptv.cc/huya/23865036
+ 合班阿離,https://live.ottiptv.cc/huya/26355792
+ 熬夜看球帝,https://live.ottiptv.cc/huya/29465877
+ 华视-你想要的,https://live.ottiptv.cc/huya/23358446
+ DuckDucks,https://live.ottiptv.cc/huya/29982670
+ 港剧经典回味无穷,https://live.ottiptv.cc/huya/29465861
+ 电影旅者,https://live.ottiptv.cc/huya/20969136
+ 来瓶肥宅水,https://live.ottiptv.cc/huya/21059555
+ 小猫儿不爱吃鱼,https://live.ottiptv.cc/huya/11601956
+ 非凡武林2,https://live.ottiptv.cc/huya/29982677
+ TVB悬疑大片,https://live.ottiptv.cc/huya/23865072
+ 我才是打工人,https://live.ottiptv.cc/huya/23860039
+ blue声色,https://live.ottiptv.cc/huya/21241831
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314160
+ 常先声,https://live.ottiptv.cc/huya/275931
+ 渡川,https://live.ottiptv.cc/huya/20969095
+ 爱豆来了,https://live.ottiptv.cc/huya/20432236
+ 长岛冰茶-,https://live.ottiptv.cc/huya/11352884
+ 排球少年砰砰砰,https://live.ottiptv.cc/huya/30080167
+ 沐小错,https://live.ottiptv.cc/huya/11352956
+ 电竞小魔王,https://live.ottiptv.cc/huya/20985844
+ 夏初冬临,https://live.ottiptv.cc/huya/21241825
+ 黑羽,https://live.ottiptv.cc/huya/20985791
+ 尹地仇,https://live.ottiptv.cc/huya/21059567
+ 猜你知道,https://live.ottiptv.cc/huya/20985825
+ 华视-你想要的,https://live.ottiptv.cc/huya/23358446
+ 斯須炒成中何寄,https://live.ottiptv.cc/huya/26355774
+ 水至凌云笔,https://live.ottiptv.cc/huya/21059600
+ 西塘美景,https://live.ottiptv.cc/huya/29465893
+ 宠物电竞领主,https://live.ottiptv.cc/huya/30080235
+ 观剧无限惊喜,https://live.ottiptv.cc/huya/29465853
+ 颜值鼓手,https://live.ottiptv.cc/huya/21241785
+ SMG爆笑舞台,https://live.ottiptv.cc/huya/11352937
+ 傲笑红尘君,https://live.ottiptv.cc/huya/29982645
+ 艾薇宝贝de宝贝,https://live.ottiptv.cc/huya/21059554
+ 如何雨燕,https://live.ottiptv.cc/huya/26355796
+ DuckDucks,https://live.ottiptv.cc/huya/29982670
+ 芦苇微微的弟子,https://live.ottiptv.cc/huya/21059558
+ 充能时刻电子音乐台,https://live.ottiptv.cc/huya/10875560
+ 看似斐濟,https://live.ottiptv.cc/huya/26355780
+ 村村就爱玩,https://live.ottiptv.cc/huya/21059605
+ 我还是不骄傲,https://live.ottiptv.cc/huya/30080245
+ 过儿想姑姑了,https://live.ottiptv.cc/huya/23749068
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314166
+ 全能偶像,https://live.ottiptv.cc/huya/21241763
+ -惟美,https://live.ottiptv.cc/huya/11352885
+ 贝爷,https://live.ottiptv.cc/huya/20969143
+ 电竞也要专用机,https://live.ottiptv.cc/huya/26355816
+ 良奉白豆,https://live.ottiptv.cc/huya/26355849
+ 嶺外奇服兮,https://live.ottiptv.cc/huya/26355850
+ 花开又三年,https://live.ottiptv.cc/huya/20985852
+ 科幻是我的神,https://live.ottiptv.cc/huya/30080257
+ 时光小偷,https://live.ottiptv.cc/huya/11352952
+ 葱花,https://live.ottiptv.cc/huya/11352938
+ 歪果仁Reaction,https://live.ottiptv.cc/huya/29982644
+ 周星星梦里的朱茵,https://live.ottiptv.cc/huya/21059587
+ 事当赤颈,https://live.ottiptv.cc/huya/26355835
+ 千绪小绘,https://live.ottiptv.cc/huya/29465867
+ 追剧大湾区,https://live.ottiptv.cc/huya/23735126
+ 为所欲为的微笑,https://live.ottiptv.cc/huya/23728665
+ 初心,https://live.ottiptv.cc/huya/11352941
+ 山如翠浪帶,https://live.ottiptv.cc/huya/26355806
+ 半斤七两,https://live.ottiptv.cc/huya/21241838
+ 老外点评来了,https://live.ottiptv.cc/huya/29982659
+ 匹马泪沾襟,https://live.ottiptv.cc/huya/30080137
+ 静谧小稻草,https://live.ottiptv.cc/huya/30307160
+ 小虎牙-aRGiVjLtcn,https://live.ottiptv.cc/huya/20985831
+ 电影最TOP2,https://live.ottiptv.cc/huya/29982676
+ 吐槽运动,https://live.ottiptv.cc/huya/11342436
+ 教父三部曲的影迷,https://live.ottiptv.cc/huya/21059589
+ 耳姬,https://live.ottiptv.cc/huya/21241812
+ 只爱评书,https://live.ottiptv.cc/huya/20985827
+ 石敢当本当,https://live.ottiptv.cc/huya/23749074
+ yoo,https://live.ottiptv.cc/huya/11352876
+ 娜娜Q,https://live.ottiptv.cc/huya/20969125
+ 档案事件簿,https://live.ottiptv.cc/huya/20985834
+ 會稽愚婦数花开,https://live.ottiptv.cc/huya/26355845
+ 港片看不停,https://live.ottiptv.cc/huya/23865096
+ -小癲,https://live.ottiptv.cc/huya/11602065
+ 童可可,https://live.ottiptv.cc/huya/11352967
+ 冒险电影放映厅,https://live.ottiptv.cc/huya/21059566
+ Fighter,https://live.ottiptv.cc/huya/11352949
+ 雪狐啸谷,https://live.ottiptv.cc/huya/30080251
+ 硬控rap,https://live.ottiptv.cc/huya/29982630
+ 橘酱真甜,https://live.ottiptv.cc/huya/11602055
+ 艺术旅者,https://live.ottiptv.cc/huya/20985798
+ 爱情电影放映厅,https://live.ottiptv.cc/huya/29982639
+ 哈拉少足球,https://live.ottiptv.cc/huya/29982619
+ 华视-爱情大片,https://live.ottiptv.cc/huya/23358431
+ 绅士只吃七分熟,https://live.ottiptv.cc/huya/20969122
+ 横而为己任,https://live.ottiptv.cc/huya/26355837
+ 哀是麦子的球迷2,https://live.ottiptv.cc/huya/29982673
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/20985765
+ 一起来埋堆,https://live.ottiptv.cc/huya/23734183
+ 爱吃桃子的喵,https://live.ottiptv.cc/huya/18501378
+ 高山流水梦,https://live.ottiptv.cc/huya/30080174
+ 都護鐵衣也君子,https://live.ottiptv.cc/huya/26355772
+ 风中的蜡烛,https://live.ottiptv.cc/huya/20985856
+ 你才是小王,https://live.ottiptv.cc/huya/21241837
+ 街头熟男颜控社,https://live.ottiptv.cc/huya/20969118
+ 激战欧罗巴,https://live.ottiptv.cc/huya/29465876
+ 民谣在路上,https://live.ottiptv.cc/huya/21241764
+ 云华新知,https://live.ottiptv.cc/huya/20969129
+ 机动战士驾驶科目3,https://live.ottiptv.cc/huya/26355764
+ 熊叔实验室,https://live.ottiptv.cc/huya/20985864
+ JuicyM,https://live.ottiptv.cc/huya/21241798
+ 热爱旅行的仙女,https://live.ottiptv.cc/huya/20985837
+ 状元及第粥,https://live.ottiptv.cc/huya/21059581
+ 52岁翼大利艺术,https://live.ottiptv.cc/huya/29982620
+ 脑壳不太好,https://live.ottiptv.cc/huya/11602042
+ Fight、Girl,https://live.ottiptv.cc/huya/11352895
+ 追娘娘超会看,https://live.ottiptv.cc/huya/30080184
+ 虎扯新车,https://live.ottiptv.cc/huya/26355820
+ 异色档案,https://live.ottiptv.cc/huya/20985841
+ 明月少年,https://live.ottiptv.cc/huya/23652238
+ 异色档案,https://live.ottiptv.cc/huya/20985841
+ 明月少年,https://live.ottiptv.cc/huya/23652238
+ 虎牙现场,https://live.ottiptv.cc/huya/20985839
+ 恶魔宝钧,https://live.ottiptv.cc/huya/30080242
+ SMG胖月老,https://live.ottiptv.cc/huya/11352947
+ 足球那些事贰,https://live.ottiptv.cc/huya/29982617
+ 一起摸鱼直播间,https://live.ottiptv.cc/huya/29465885
+ 天德力已殚,https://live.ottiptv.cc/huya/29982665
+ 小虎牙-a2yKCay99R,https://live.ottiptv.cc/huya/21954527
+ 鋪床拂席有清風,https://live.ottiptv.cc/huya/26355862
+ 高雅小鲸,https://live.ottiptv.cc/huya/30080223
+ 港剧职场日记,https://live.ottiptv.cc/huya/23903164
+ 同心孙楚楼,https://live.ottiptv.cc/huya/29982658
+ 十五块五吴清鸥,https://live.ottiptv.cc/huya/30080237
+ 耶溪猫獅,https://live.ottiptv.cc/huya/26355782
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241801
+ 静妃沉浮录,https://live.ottiptv.cc/huya/30080177
+ 愤怒的洋羊,https://live.ottiptv.cc/huya/20985857
+ 爱情电影放映厅,https://live.ottiptv.cc/huya/29982639
+ barry观世界,https://live.ottiptv.cc/huya/20985835
+ 以仁皇岭,https://live.ottiptv.cc/huya/29465871
+ 竹叶青说球,https://live.ottiptv.cc/huya/29982604
+ 白泽字幕组,https://live.ottiptv.cc/huya/23652317
+ 港剧伴你行,https://live.ottiptv.cc/huya/23903183
+ 心动好剧,https://live.ottiptv.cc/huya/26355781
+ 拉美小姐姐Walesk,https://live.ottiptv.cc/huya/29982634
+ 暖阳雪兔,https://live.ottiptv.cc/huya/30080155
+ 贷款小说家,https://live.ottiptv.cc/huya/30080249
+ 世界格斗场,https://live.ottiptv.cc/huya/11352969
+ Amy姐,https://live.ottiptv.cc/huya/23746486
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314159
+ 跳水这件事,https://live.ottiptv.cc/huya/29982662
+ 冷门港片大全,https://live.ottiptv.cc/huya/23903196
+ VK棒棒鸡看剧,https://live.ottiptv.cc/huya/29982640
+ iTVB大后宫,https://live.ottiptv.cc/huya/23863804
+ 君临剧优秀,https://live.ottiptv.cc/huya/24884334
+ 弹一闪闪闪,https://live.ottiptv.cc/huya/21059570
+ 终年防肠断,https://live.ottiptv.cc/huya/30080187
+ 悬疑电影放映厅,https://live.ottiptv.cc/huya/29982641
+ 电视剧扣人心弦,https://live.ottiptv.cc/huya/29465855
+ 唐人街第三神探,https://live.ottiptv.cc/huya/21059635
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314162
+ 宝玉不姓贾,https://live.ottiptv.cc/huya/20985866
+ 藐姑檐户下,https://live.ottiptv.cc/huya/30080149
+ 华视-警匪大片,https://live.ottiptv.cc/huya/23358421
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241845
+ 使臣响画轮,https://live.ottiptv.cc/huya/29465873
+ 萌美美,https://live.ottiptv.cc/huya/11352959
+ 绝不再虚伪讨好,https://live.ottiptv.cc/huya/30080232
+ 一家人整整齐齐,https://live.ottiptv.cc/huya/23860057
+ 岩石上的树,https://live.ottiptv.cc/huya/30080222
+ 蛇猴豹,https://live.ottiptv.cc/huya/30080191
+ 君临剧开心,https://live.ottiptv.cc/huya/24879365
+ 銀河少女-,https://live.ottiptv.cc/huya/26355760
+ 我只是个好人,https://live.ottiptv.cc/huya/23728674
+ 近藤喜彦,https://live.ottiptv.cc/huya/20985787
+ 女王爱短剧,https://live.ottiptv.cc/huya/29465897
+ 亚运体育7号台,https://live.ottiptv.cc/huya/136154
+ 露露姐,https://live.ottiptv.cc/huya/11601964
+ 迷你鱼,https://live.ottiptv.cc/huya/20985773
+ 虎牙志愿者,https://live.ottiptv.cc/huya/880232
+ 千与千寻的思考,https://live.ottiptv.cc/huya/21059592
+ 糊辣壳-阿达,https://live.ottiptv.cc/huya/30080254
+ 耳科冲普拉斯,https://live.ottiptv.cc/huya/20969126
+ 听见歌声,https://live.ottiptv.cc/huya/21241793
+ 小虎牙-5W3JAeeEfC,https://live.ottiptv.cc/huya/22360453
+ 撸车吧,https://live.ottiptv.cc/huya/20985779
+ 六宫,https://live.ottiptv.cc/huya/11602051
+ 青怏,https://live.ottiptv.cc/huya/20969098
+ 心心念念患者,https://live.ottiptv.cc/huya/21241807
+ 华视-高分好片,https://live.ottiptv.cc/huya/23352530
+ 威猛先生,https://live.ottiptv.cc/huya/11342420
+ 港剧连连看,https://live.ottiptv.cc/huya/23863882
+ 地震监视慢直播,https://live.ottiptv.cc/huya/29465884
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314165
+ 小虎牙-7kYdWFDMe2,https://live.ottiptv.cc/huya/20985777
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21241843
+ 缇兰传奇,https://live.ottiptv.cc/huya/30080178
+ 小虎牙-pTSEbHriOn,https://live.ottiptv.cc/huya/23863796
+ 睿智如夏花,https://live.ottiptv.cc/huya/30080217
+ 動感de地带,https://live.ottiptv.cc/huya/29465878
+ 迢递羹瓜祭,https://live.ottiptv.cc/huya/26355787
+ 野外生存技巧,https://live.ottiptv.cc/huya/24609809
+ 野味小生共江湖同醉,https://live.ottiptv.cc/huya/21059631
+ 科技宅男,https://live.ottiptv.cc/huya/20985785
+ lorre,https://live.ottiptv.cc/huya/20985842
+ 难与鸣琴弹,https://live.ottiptv.cc/huya/21059612
+ 惊悚电影放映厅,https://live.ottiptv.cc/huya/26355795
+ 普通司机小马,https://live.ottiptv.cc/huya/23749096
+ 蝉噪见之矣,https://live.ottiptv.cc/huya/29982609
+ 莫欺少年穷哇,https://live.ottiptv.cc/huya/20985845
+ 学妹爱学长,https://live.ottiptv.cc/huya/11352886
+ 邓潇,https://live.ottiptv.cc/huya/20985771
+ 士多霹雳,https://live.ottiptv.cc/huya/20985869
+ 坚定希望,https://live.ottiptv.cc/huya/21059529
+ 春天的希望小仙子,https://live.ottiptv.cc/huya/30080231
+ 探险小分队,https://live.ottiptv.cc/huya/20985862
+ 莫欺少年穷哇,https://live.ottiptv.cc/huya/20985845
+ 学妹爱学长,https://live.ottiptv.cc/huya/11352886
+ 邓潇,https://live.ottiptv.cc/huya/20985771
+ 士多霹雳,https://live.ottiptv.cc/huya/20985869
+ 坚定希望,https://live.ottiptv.cc/huya/21059529
+ 春天的希望小仙子,https://live.ottiptv.cc/huya/30080231
+ 探险小分队,https://live.ottiptv.cc/huya/20985862
+ 君临剧聪明,https://live.ottiptv.cc/huya/24888173
+ 我是大侠闯江湖,https://live.ottiptv.cc/huya/29982667
+ RainyRabbits,https://live.ottiptv.cc/huya/30080172
+ 大头猴足球,https://live.ottiptv.cc/huya/29982605
+ 君临剧靓,https://live.ottiptv.cc/huya/24844242
+ 锦唐空间,https://live.ottiptv.cc/huya/20969133
+ 真男人耳光大赛,https://live.ottiptv.cc/huya/20072873
+ 妖孽CC,https://live.ottiptv.cc/huya/11352945
+ 体育前线观察,https://live.ottiptv.cc/huya/30080195
+ 足球TOP,https://live.ottiptv.cc/huya/29982607
+ 嫩模下厨房,https://live.ottiptv.cc/huya/23735181
+ 望处不是筝,https://live.ottiptv.cc/huya/29982668
+ 别和陌生人说话,https://live.ottiptv.cc/huya/21059573
+ 最美不过保时捷,https://live.ottiptv.cc/huya/26355810
+ 其意,https://live.ottiptv.cc/huya/20969128
+ 举重大能,https://live.ottiptv.cc/huya/30080144
+ 林正英百年老粉,https://live.ottiptv.cc/huya/21059619
+ 皮皮皮卡卡皮卡丘,https://live.ottiptv.cc/huya/21059595
+ 梨花娇滴滴,https://live.ottiptv.cc/huya/30080216
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/21059616
+ 车速高开,https://live.ottiptv.cc/huya/20985850
+ yao不能停,https://live.ottiptv.cc/huya/11601980
+ 户外寻宝,https://live.ottiptv.cc/huya/20985859
+ 钱丢丢丢,https://live.ottiptv.cc/huya/20969127
+ 鬼畜娘,https://live.ottiptv.cc/huya/21241803
+ MOCA陪你看,https://live.ottiptv.cc/huya/30080165
+ 狼爸爸,https://live.ottiptv.cc/huya/20985780
+ TVB练习生,https://live.ottiptv.cc/huya/23865132
+ 疯狂动物园园长,https://live.ottiptv.cc/huya/29465891
+ 面对疾风-,https://live.ottiptv.cc/huya/11352904
+ TVBaby,https://live.ottiptv.cc/huya/23865164
+ 玩大变成光,https://live.ottiptv.cc/huya/21059608
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/20985853
+ 正在减肥的阿辰,https://live.ottiptv.cc/huya/29982657
+ 动画电影放映厅,https://live.ottiptv.cc/huya/11352878
+ 娥姐来了,https://live.ottiptv.cc/huya/23734234
+ 今天不想梳头发,https://live.ottiptv.cc/huya/30080233
+ 每日读书,https://live.ottiptv.cc/huya/20985826
+ AlfarisRawk,https://live.ottiptv.cc/huya/20985803
+ 越哥说电影2,https://live.ottiptv.cc/huya/29982680
+ 明日香世界第一可爱,https://live.ottiptv.cc/huya/21059530
+ 全能改造王,https://live.ottiptv.cc/huya/24609812
+ 荒野达人,https://live.ottiptv.cc/huya/11352975
+ 马克婷日常,https://live.ottiptv.cc/huya/20985774
+ 今日说,https://live.ottiptv.cc/huya/20985860
+ 小虎牙-LC5NQAheX1,https://live.ottiptv.cc/huya/20985784
+ 人类观察员love,https://live.ottiptv.cc/huya/29982628
+ 河水汝相对,https://live.ottiptv.cc/huya/29982610
+ 鬼叔奇谈,https://live.ottiptv.cc/huya/20985821
+ 我叫Laughing哥,https://live.ottiptv.cc/huya/23734243
+ 菌边村艾克,https://live.ottiptv.cc/huya/29465872
+ 之而成冠毛,https://live.ottiptv.cc/huya/26355802
+ 阿杰cxj,https://live.ottiptv.cc/huya/30080234
+ 港剧一家人,https://live.ottiptv.cc/huya/23903152
+ 小喇叭佩囍,https://live.ottiptv.cc/huya/23863778
+ 我是一颗小虎牙,https://live.ottiptv.cc/huya/24314158
+ 仙人万戶侯,https://live.ottiptv.cc/huya/26355863
+ 歌声无边界,https://live.ottiptv.cc/huya/21241783
+ 上太空看地球,https://live.ottiptv.cc/huya/29465881
+ 鸡公碗,https://live.ottiptv.cc/huya/23734211
+ 舒克影视梗,https://live.ottiptv.cc/huya/24517063
+ 吹绿令人老,https://live.ottiptv.cc/huya/21059613
+ 律动无限,https://live.ottiptv.cc/huya/21241797
+ 人间眩法师,https://live.ottiptv.cc/huya/20985855
+ 皇太子布朗尼,https://live.ottiptv.cc/huya/29982642
+ 是醉芙吖,https://live.ottiptv.cc/huya/21059599
+ 小饭事件簿,https://live.ottiptv.cc/huya/20985830
+ 放轻松RELAX,https://live.ottiptv.cc/huya/20985801
+ 一席YIXI,https://live.ottiptv.cc/huya/20985840
+ 港剧影视汇,https://live.ottiptv.cc/huya/23903142
+ 颜值DJ,https://live.ottiptv.cc/huya/21241770
+ 西忆故人喧昨晚,https://live.ottiptv.cc/huya/26355804
+ 最篮球,https://live.ottiptv.cc/huya/29982651
+ 黄金屋,https://live.ottiptv.cc/huya/20969119
+ 军械库,https://live.ottiptv.cc/huya/20969111
+ 真假么么哒,https://live.ottiptv.cc/huya/11602036
+ 华视-猜你喜欢,https://live.ottiptv.cc/huya/23352563
+ RainyRabbits,https://live.ottiptv.cc/huya/30080172
+ 鬼叔奇谈,https://live.ottiptv.cc/huya/20985821
+ 口袋妖怪COVER,https://live.ottiptv.cc/huya/21241789
+ 律动无限,https://live.ottiptv.cc/huya/21241797
+ 小雅很可爱,https://live.ottiptv.cc/huya/29982648
+ 全能改造王,https://live.ottiptv.cc/huya/24609812
+ 科技宅男,https://live.ottiptv.cc/huya/20985785
+ 菌边村艾克,https://live.ottiptv.cc/huya/29465872
+ 军械库,https://live.ottiptv.cc/huya/20969111
+ 调查团,https://live.ottiptv.cc/huya/20969117
+ 鬼畜娘,https://live.ottiptv.cc/huya/21241803
+ 黄金屋,https://live.ottiptv.cc/huya/20969119
+ 心心念念患者,https://live.ottiptv.cc/huya/21241807
+ 六宫,https://live.ottiptv.cc/huya/11602051
+ 明日香世界第一可爱,https://live.ottiptv.cc/huya/21059530
+ 人类观察员love,https://live.ottiptv.cc/huya/29982628
+ 港剧影视汇,https://live.ottiptv.cc/huya/23903142
+ 体育前线观察,https://live.ottiptv.cc/huya/30080195
+ 疯狂动物园园长,https://live.ottiptv.cc/huya/29465891
+ 我只是个好人,https://live.ottiptv.cc/huya/23728674
+ 皇太子布朗尼,https://live.ottiptv.cc/huya/29982642
+ 最美不过保时捷,https://live.ottiptv.cc/huya/26355810
+ 钱丢丢丢,https://live.ottiptv.cc/huya/20969127
+ 士多霹雳,https://live.ottiptv.cc/huya/20985869
+ 舒克影视梗,https://live.ottiptv.cc/huya/24517063
+ 看见爱情深,https://live.ottiptv.cc/huya/30080145
+ 最篮球,https://live.ottiptv.cc/huya/29982651
+ 芳草细雨烟,https://live.ottiptv.cc/huya/30080188
+ 奥运前线观察,https://live.ottiptv.cc/huya/30080185
+ 霸总傲天短剧,https://live.ottiptv.cc/huya/29465896
+ 老王诡事,https://live.ottiptv.cc/huya/20985847
+ 探索世界科普,https://live.ottiptv.cc/huya/20985813
+ 柠檬树下你和我,https://live.ottiptv.cc/huya/11352892
+ 包租婆不停水,https://live.ottiptv.cc/huya/21059568
+ 港风女神,https://live.ottiptv.cc/huya/23728689
+ 4K花园,https://live.ottiptv.cc/huya/22188414
+ 骚年跟我来听歌,https://live.ottiptv.cc/huya/11352974
+ 卓卓脑婆,https://live.ottiptv.cc/huya/27564478
+ 有点意思,https://live.ottiptv.cc/huya/20985824
+ 克莱篮球生涯,https://live.ottiptv.cc/huya/29982652
+ 牙缝多了根青菜,https://live.ottiptv.cc/huya/11352877
+ 八卦君,https://live.ottiptv.cc/huya/20969112
+ 嫣然,https://live.ottiptv.cc/huya/11601977
+ 虎牙音乐,https://live.ottiptv.cc/huya/880207
+ 铁血真汉子,https://live.ottiptv.cc/huya/11342395
+ 鲁智深拔杨柳,https://live.ottiptv.cc/huya/21059569
+ 靠谱女青年高小婷,https://live.ottiptv.cc/huya/11342392
+ 御所田南通,https://live.ottiptv.cc/huya/26355773
+ 酒窝储存机,https://live.ottiptv.cc/huya/11602043
+ 感此芳树下,https://live.ottiptv.cc/huya/651536
+ 冰冷浪漫,https://live.ottiptv.cc/huya/29982663
+ 华视-喜剧大片,https://live.ottiptv.cc/huya/23352525
+ 老雷,https://live.ottiptv.cc/huya/11602034
+ 苏仨,https://live.ottiptv.cc/huya/11601972
+ 池邊苏爾,https://live.ottiptv.cc/huya/26355821
+ 粤爱看港片,https://live.ottiptv.cc/huya/23863809
+ 徒步喜马拉雅,https://live.ottiptv.cc/huya/24609811
+ 大型忙内的宅姐姐,https://live.ottiptv.cc/huya/11602084
+ 虎牙志愿者,https://live.ottiptv.cc/huya/880232
+ 国乒小分队,https://live.ottiptv.cc/huya/30080171
+ 十方的神兽,https://live.ottiptv.cc/huya/29982653
+ 小虎牙-2Nw7CSd9z0,https://live.ottiptv.cc/huya/880256
+ 烟强葉,https://live.ottiptv.cc/huya/26355829
+ 猪猪憨态态,https://live.ottiptv.cc/huya/30080198
+ joe-creator,https://live.ottiptv.cc/huya/29982624
+ 斯国一,https://live.ottiptv.cc/huya/11352905
+ 阿呀呀阿sir,https://live.ottiptv.cc/huya/23865171
+ 虎牙院线,https://live.ottiptv.cc/huya/16020022
+ 校长莫开腔,https://live.ottiptv.cc/huya/20969120
+ 电子音乐现场,https://live.ottiptv.cc/huya/20432221
+ 狮王哈哈乐,https://live.ottiptv.cc/huya/30080176
+ 霸总傲天短剧,https://live.ottiptv.cc/huya/29465898
+ TVB爱情故事,https://live.ottiptv.cc/huya/23863818
+ 电视城打工人,https://live.ottiptv.cc/huya/23824171
+ 茶啊二中,https://live.ottiptv.cc/huya/11213191
+ 年月犬,https://live.ottiptv.cc/huya/26355784
+ 上山鱼香,https://live.ottiptv.cc/huya/26355798
+ 面对疾风-,https://live.ottiptv.cc/huya/11352904
+ 喜欢陪你唠嗑,https://live.ottiptv.cc/huya/29982621
+ 音粤无国界,https://live.ottiptv.cc/huya/23734256
+ 我爱佩小西,https://live.ottiptv.cc/huya/23863822
+ 小当家动漫社,https://live.ottiptv.cc/huya/24257300
+ 吾聊电影2,https://live.ottiptv.cc/huya/29982684
+ 治霖足球故事,https://live.ottiptv.cc/huya/29982606
+ 尽是与君别,https://live.ottiptv.cc/huya/26355824
+ 堆堆看港剧,https://live.ottiptv.cc/huya/23902225
+ 香港刑侦实录,https://live.ottiptv.cc/huya/23865058
+ 迪士尼姐姐,https://live.ottiptv.cc/huya/29982656
+ 虎牙音乐新歌榜,https://live.ottiptv.cc/huya/20432223
+ 南跃-俊轩,https://live.ottiptv.cc/huya/10299733
+ 壹车,https://live.ottiptv.cc/huya/20969124
+ HitFM,https://live.ottiptv.cc/huya/21610797
+ 斯诺克从小爱戳球,https://live.ottiptv.cc/huya/11352893
+ 唐唐科普,https://live.ottiptv.cc/huya/20985846
+ 多米诺效应,https://live.ottiptv.cc/huya/20985832
+ 沉默的孤狼啊,https://live.ottiptv.cc/huya/21059598
+ 語之不顾細谨,https://live.ottiptv.cc/huya/26355785
+ 亮哥讲电影2,https://live.ottiptv.cc/huya/21059622
+ 薔薇六,https://live.ottiptv.cc/huya/26355799
+ 貔柴带你看,https://live.ottiptv.cc/huya/30080179
+ 君临剧美丽,https://live.ottiptv.cc/huya/24879375
+ super一拳超人,https://live.ottiptv.cc/huya/30080169
+ 海轮子,https://live.ottiptv.cc/huya/20969134
+ 小虎牙-95tgIDoBHS,https://live.ottiptv.cc/huya/23863787
+ 排球太燃了,https://live.ottiptv.cc/huya/30080166
+ 每日侃谈,https://live.ottiptv.cc/huya/20969114
+ 仰望星空慢直播,https://live.ottiptv.cc/huya/29465892
+ 母胎solo200年,https://live.ottiptv.cc/huya/30041512
+ 烟强葉,https://live.ottiptv.cc/huya/26355829
+ 田园生活分享,https://live.ottiptv.cc/huya/20969145
+ 十方的神兽,https://live.ottiptv.cc/huya/29982653
+ 鲁智深拔杨柳,https://live.ottiptv.cc/huya/21059569
+ 街头唱歌,https://live.ottiptv.cc/huya/20985812
+ 海轮子,https://live.ottiptv.cc/huya/20969134
+ 酒窝储存机,https://live.ottiptv.cc/huya/11602043
+ 茶啊二中,https://live.ottiptv.cc/huya/11213191
+ 电子音乐现场,https://live.ottiptv.cc/huya/20432221
+ 御所田南通,https://live.ottiptv.cc/huya/26355773
+ 虎牙音乐,https://live.ottiptv.cc/huya/880207
+ 木槿花,https://live.ottiptv.cc/huya/20969100
+ 阿呀呀阿sir,https://live.ottiptv.cc/huya/23865171
+ 假面骑士干巴爹,https://live.ottiptv.cc/huya/29982654
+ 阿张的RayZhang,https://live.ottiptv.cc/huya/29982637
+ 苏仨,https://live.ottiptv.cc/huya/11601972
+ 君临剧良心,https://live.ottiptv.cc/huya/24884368
+ 貔柴带你看,https://live.ottiptv.cc/huya/30080179
+ 小军迷,https://live.ottiptv.cc/huya/11352909
+ 秋风美少女,https://live.ottiptv.cc/huya/30080139
+ 世界到底有多大,https://live.ottiptv.cc/huya/23829537
+ 梦儿,https://live.ottiptv.cc/huya/20969102
+ 感此芳树下,https://live.ottiptv.cc/huya/651536
+ ByDiy,https://live.ottiptv.cc/huya/20985807
+ 骚年跟我来听歌,https://live.ottiptv.cc/huya/11352974
+ 母胎solo200年,https://live.ottiptv.cc/huya/30041512
+ 探险之路,https://live.ottiptv.cc/huya/24609822
+ 每日侃谈,https://live.ottiptv.cc/huya/20969114
+ 小虎牙-cRh4SZBiun,https://live.ottiptv.cc/huya/880241
+ 嫣然,https://live.ottiptv.cc/huya/11601977
+ 卓卓脑婆,https://live.ottiptv.cc/huya/27564478
+ 前沿旅行社,https://live.ottiptv.cc/huya/20985854
+ 老王诡事,https://live.ottiptv.cc/huya/20985847
+ 甄学唠嗑家,https://live.ottiptv.cc/huya/30080159
+ 华视-喜剧大片,https://live.ottiptv.cc/huya/23352525
+ 治霖足球故事,https://live.ottiptv.cc/huya/29982606
+ 大型忙内的宅姐姐,https://live.ottiptv.cc/huya/11602084
+ 排球太燃了,https://live.ottiptv.cc/huya/30080166
+ 霸总傲天短剧,https://live.ottiptv.cc/huya/29465898
+ 柠檬树下你和我,https://live.ottiptv.cc/huya/11352892
+ 壹车,https://live.ottiptv.cc/huya/20969124
+ 周周盘瓜,https://live.ottiptv.cc/huya/20985775
+ 年月犬,https://live.ottiptv.cc/huya/26355784
+ 自缘身在苔衣上,https://live.ottiptv.cc/huya/26355822
+ 经典港片轮播,https://live.ottiptv.cc/huya/23865086
+ 铁血真汉子,https://live.ottiptv.cc/huya/11342395
+ 探索世界科普,https://live.ottiptv.cc/huya/20985813
+ 包租婆不停水,https://live.ottiptv.cc/huya/21059568
+ joe-creator,https://live.ottiptv.cc/huya/29982624
+ 阿飞,https://live.ottiptv.cc/huya/11352934
+ 涵九九是九九,https://live.ottiptv.cc/huya/29982647
+ 猪猪憨态态,https://live.ottiptv.cc/huya/30080198
+ 西红柿,https://live.ottiptv.cc/huya/11601979
+ 沉默的孤狼啊,https://live.ottiptv.cc/huya/21059598
 
 电影频道,#genre#
 电影-星爷,http://live.iill.top/huya.php?id=11342412
@@ -8181,6 +8537,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
  2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
  2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+
 
 
 

@@ -4689,7 +4689,7 @@ confirm')[0].click()"]}],
  "lives": [{
       "name": "🎀快手号济宁裁缝大叔🎀电视直播",
       "type": 0,
-      "url": ""url": "./12345.txt",",
+      "url": ""url": "./12345.txt",
        "logo": "https://epg.zbds.top/logo/{name}.png",
        "epg": "https://epg.zbds.top/?ch={name}&date={date}",
       "playerType":1
@@ -4847,6 +4847,7 @@ confirm')[0].click()"]}],
             ]
         }
     ]}
+
 
 
 

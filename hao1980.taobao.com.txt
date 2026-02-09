@@ -29,7 +29,38 @@
       "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },{
+      "key": "量。小8 猫2子",
+      "name": "☀小8 猫2",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        
+      ]
     },
+
+    {"key": "T   V",
+			"name": "小 猫 (快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "http://www.caiji.cyou//api.php/provide/vod",
+			"playUrl": "https://jiexi.789jiexi.net:4433/?url=",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
+
+   {"key": "T  🎀 V",
+			"name": "金蚕🎀 猫 🎀(快手号|济宁裁缝大叔)",
+			"type": 1,
+			"api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+    
+      "playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1
+		}, 
   {
       "key": "壹影视.py",
       "name": "🎀壹影视(py)🎀",
@@ -58,7 +89,115 @@
     
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
     },
+ {
+      "key": "vidba.cc影院",
+      "name": "🎀vidba.cc影院🎀  ",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"detail-intro-txt text-row ewave-collapse-content\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线提醒您,请勿相信影片中的广告",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "http://www.haochengsuoye.com/t/{cateId}.html;;ak",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
 
+$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
+     {
+      "key": "传奇影院",
+      "name": "🎀传奇影院🎀  ",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"detail-intro-txt text-row ewave-collapse-content\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线裁缝提醒您,请勿相信影片中的广告",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.czxixigu.com/vodshow/{cateId}--hits---------.html;;ak",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
+
+$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
+    
+    {
+      "key": "玄目影院",
+      "name": "🎀独播库🎀  ",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"description\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线提醒您,请勿相信影片中的广告",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.yagebm.com/vodtype/{cateId}.html;;ak",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
+
+$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
+ {
+      "key": "csp_Xb6v",
+      "name": "🐤┃6V磁力┃影视",
+      "type": 3,
+"jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/PandaQ240625.jar",
+      "api": "csp_Xb6v",
+      "playerType": "2"
+    },
+ {
+      "key": "看球",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+"jar": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/jar/PandaQ240625.jar",
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
+    
+    
+     {
+      "key": "鑫鑫影视",
+      "name": "🎀鑫鑫影视🎀  ",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"detail-sketch\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线提醒您,请勿相信影片中的广告",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.xinxintvs.com/index.php/vod/type/id/{cateId}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
+
+$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
 
 
   {
@@ -4847,6 +4986,7 @@ confirm')[0].click()"]}],
             ]
         }
     ]}
+
 
 
 

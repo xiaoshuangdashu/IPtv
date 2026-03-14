@@ -42,6 +42,26 @@
         
       ]
     },
+ { "key": "河马短剧", 
+"name": "河马短剧",
+"type": 3,
+"api":"https://d.kstore.dev/download/8240/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A72.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},
+{
+"key":"py_饭团PY",
+"name":"🍚饭团PY",
+"api":"https://d.kstore.dev/download/8240/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"type":3
+},
+
+
 
     {"key": "T   V",
 			"name": "小 猫 (快手号|济宁裁缝大叔)",
@@ -535,17 +555,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
 
-  {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
-      "api": "csp_LiteApple",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
    {
     "key": "奇优",
     
@@ -663,11 +673,14 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
 $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
       }
     }, 
- 	
-    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/爱奇艺.js"},
-    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/腾讯视频.js"},
-    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/优酷视频.js"},
-    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/芒果视频.js"},
+ 	 {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/爱奇艺.js"},
+    
+{"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/腾讯视频.js"},
+   
+ {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/优酷视频.js"},
+  
+  {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/zyzyzy523/api/main/JS/芒果视频.js"},
+  
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",

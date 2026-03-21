@@ -14,22 +14,67 @@
       "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
       "ext": "https://d.kstore.dev/download/8240/douban.js"},
 
-  {"key":"天天","name":"高峰期用不了就点我换源或者搜索",
+ {"key":"天天","name":"高峰期用不了就点我换源或者搜索",
 "type":3,
-"jar": "http://cdn.qiaoji8.com/fix260108.jar",
+"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
- {
+        {
       "key": "斗量",
       "name": "南瓜｜极速",
       "type": 3,
-      "jar": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "jar": "https://d.kstore.dev/download/8240/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.jar",
       "api": "csp_NanGua",
       "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },{
+    },
+    {
+"key":"华数",
+"name":"🌴华数影视",
+"type":3,
+"api":"https://gitee.com/yiwu369/6758/raw/master/py/华数.py",
+"changeable":1
+},
+{
+"key":"Dygang",
+"name":"🥯电影港",
+"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
+"type":3,
+"searchable":1,
+"changeable":1,
+"api":"csp_Dygang"
+},
+{
+"key":"Lib",
+"name":"🌶Lib直连",
+"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
+"type":3,
+"api":"csp_Lib",
+"searchable":1,
+"changeable":1,
+"filterable":1,
+"ext":"faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
+},
+{
+"key":"ZXZJ",
+"name":"🥭在线直连",
+"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
+"api":"csp_Zxzj",
+"type":3,
+"filterable":1,
+"searchable":1,
+"changeable":1,
+"playerType":2,
+"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="
+},
+{"key":"资...源",
+"name":"☀🎀瓜子💡",
+"type":3,
+"api":"https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+"ext":"https://d.kstore.dev/download/8240/%E7%93%9C%E5%AD%90.js"},
+{
       "key": "量。小8 猫2子",
       "name": "☀小8 猫2",
       "type": 1,

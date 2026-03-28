@@ -37,6 +37,20 @@
 "api":"https://gitee.com/yiwu369/6758/raw/master/py/华数.py",
 "changeable":1
 },
+ {
+      "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
+      "name": "20265🎀TVB云播APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF.js"
+    },
+
+
+
 {
 "key":"Dygang",
 "name":"🥯电影港",

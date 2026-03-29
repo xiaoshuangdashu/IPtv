@@ -3501,7 +3501,6 @@ cec国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 cec国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 cec国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
-
 Channel[V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 POPC,http://fr-us7.jdiptv.cc/live/popc.m3u8
 

@@ -4909,6 +4909,10 @@ confirm')[0].click()"]}],
       "name": "AI直播🎀快手号济宁裁缝大叔🎀",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+ "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
+      
       "playerType": 2,
       "timeout": 10
     },
@@ -4917,8 +4921,10 @@ confirm')[0].click()"]}],
       "name": "🎀快手号济宁裁缝大叔🎀电视组播",
       "type": 0,
       "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
+      
       "playerType": 2
     },
     
@@ -4927,17 +4933,19 @@ confirm')[0].click()"]}],
       "name": "🎀快手号济宁裁缝大叔🎀电视直播🎀",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk/",
-       "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "playerType": 2
+        "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
+       "playerType":1
     },
     {
       "name": "🎀快手号济宁裁缝大叔🎀live-1",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 2,
-      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -4951,8 +4959,8 @@ confirm')[0].click()"]}],
       "type": 0,
       "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
       "playerType": 2,
-      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+     "logo": "https://tb.zbds.top/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -4966,8 +4974,8 @@ confirm')[0].click()"]}],
       "type": 0,
       "url": "https://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
       "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+      "logo": "https://tb.zbds.top/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -4980,8 +4988,8 @@ confirm')[0].click()"]}],
       "name": "🎀快手号济宁裁缝大叔🎀2025自动更新",
       "type": 0,
    
-      "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+      "logo": "https://tb.zbds.top/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
        "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt",
         "playerType": 2
     },
@@ -5002,9 +5010,9 @@ confirm')[0].click()"]}],
       "url": "https://gh-proxy.org/raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN
 
 %E7%89%88.txt",
-      "playerType": 2,
-       "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
+      "playerType": 1,
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
       "timeout": 10,
       "catchup": {
         "days": "7",
@@ -5034,9 +5042,9 @@ confirm')[0].click()"]}],
 {
       "name": "🎀斗鱼一起看🎀快手号济宁裁缝大叔直播🎀",
       "type": 0,
-      "url": "https://live.freetv.top/douyuyqk.m3u",
-    "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+   "logo": "https://tb.zbds.top/logo/{name}.png",
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
       "playerType": 2
     }
     ],

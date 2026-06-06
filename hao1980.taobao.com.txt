@@ -50,39 +50,138 @@
     },
 
 
+{
+		    "key": "影视瓜子",
+		    "name": "影视华瓜子┃",
+		    "type": 3,
+		    "api": "https://cdn.jsdelivr.net/gh/ouhaibo1980/tvbox@main/py/%E7%93%9C%E5%AD%90.py",
+		    "searchable": 1,
+		    "changeable": 1
+	    },
+     {
+		    "key": "影视华数",
+		    "name": "影视华数┃",
+		    "type": 3,
+		    "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/%E5%8D%8E%E6%95%B0.py",
+		    "searchable": 1,
+		    "changeable": 1
+	    },
+		
+ {
+		    "key": "猎手影视",
+		    "name": "猎手┃影视",
+		    "type": 3,
+		    "api": "https://d.kstore.dev/download/8240/%E7%8C%8E%E6%89%8B.py",
+		    "searchable": 1,
+		    "changeable": 1
+	    },
+		
+		{ "key": "河马短剧", 
+"name": "河马短剧",
+"type": 3,
+"api":"https://d.kstore.dev/download/8240/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A72.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},
+{
+"key":"py_饭团PY",
+"name":"🍚饭团PY",
+"api":"https://d.kstore.dev/download/8240/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"type":3
+},
 
+
+   
+ {"key":"lf_js_lf_live","name":"🇨🇳2400部恐怖电影📲","type":3, "api": "https://raw.giteeusercontent.com/uncle-jining-
+
+tailor/study/raw/master/live2vod.js",
+    "style":{ "type":"oval"},
+    
+
+"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/xiaoshuangdashu/xiaoshuangdashu@refs/heads/main/348
+
+%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
+ {
+      "key": "🎀布布http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
+      "name": "20265🎀布布APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://gh.llkk.cc/https://github.com/ouhaibo1980/tvbox/blob/main/js/%E5%B8%83%E5%B8%83.js"
+    },
+ {
+      "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
+      "name": "20265🎀TVB云播APP🎀",
+      "type": 3,
+       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF.js"
+    },
+     {"key": "555一3（APP）",
+      "name": "🌙5553（APP注意有伦理）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.5dy20.top/api.php/app/"},
+  {"key": "555一2（APP）",
+      "name": "🌙5552（APP注意有伦理）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.5kan9.com/api.php/app/"},
+    
+    
+{"key": "空气屋（APP）",
+      "name": "🌙空气屋（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.airfun.fun/xgapp.php/v2/"},
+{"key": "555一（APP）",
+      "name": "🌙555（APP注意有伦理）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://555dy3.com/api.php/app/"},
+{"key": "天天美剧网（APP）",
+      "name": "🌙天天美剧网（APP）",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.ttmja.com/api.php/app/"},
 {
-"key":"Dygang",
-"name":"🥯电影港",
-"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
-"type":3,
-"searchable":1,
-"changeable":1,
-"api":"csp_Dygang"
-},
-{
-"key":"Lib",
-"name":"🌶Lib直连",
-"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
-"type":3,
-"api":"csp_Lib",
-"searchable":1,
-"changeable":1,
-"filterable":1,
-"ext":"faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
-},
-{
-"key":"ZXZJ",
-"name":"🥭在线直连",
-"jar":"http://tv.laohu.cool/lh250220.jar;md5;6878c4945c8ddfa80b052f14311377f2",
-"api":"csp_Zxzj",
-"type":3,
-"filterable":1,
-"searchable":1,
-"changeable":1,
-"playerType":2,
-"ext":"caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="
-},
+      "key": "新浪资源",
+      "name": "⚡️新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://www.xinlangjiexi.com/m3u8/?url= ",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+
 {"key":"资...源",
 "name":"☀🎀瓜子💡",
 "type":3,

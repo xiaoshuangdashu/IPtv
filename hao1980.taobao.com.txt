@@ -4798,96 +4798,55 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
     "url": "Demo"
 },
 {
-    "name": "☪虾米㊎",
-    "type": 0,
-    "url":"https://jx.xmflv.cc/?url="
-},
-{
-    "name": "☪全网㊍",
-    "type": 0,
-    "url": "https://huayong.net/999/?v="
-},
-{
-    "name": "☪盘古㊌",
-    "type": 0,
-    "url": "https://www.pangujiexi.com/pangu/?url="
-},
-{
-    "name": "☪冰豆㊋",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url="
-},
-{
-    "name":"☪拉野㊏",
-    "type":0,
-    "url":"http://www.ckplayer.vip/jiexi/?url="
-},
-{
-    "name":"☪无边芸❂",
-    "type":"1",
-    "url":"http://114.66.40.16:7700/api.php?url="
-}, 
-{
-    "name":"☪芸解析❂",
-    "type":0,
-    "url":"https://jx.yparse.com/index.php?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) 
-
-Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-},
-{
-    "name": "☪爱奇艺❂",
-    "type": 0,
-    "url":"https://jx.m3u8.tv/jiexi/?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)
-
-Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
-},    
-{
-    "name":"☪咸鱼❂",
-    "type":0,
-    "url":"https://jx.xymp4.cc/?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) 
-
-Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-    "referer":"https://www.xyflv.cc/"}}
-},
-{
-	"name": "☪HLS❂",
-	"type": 0,
-	"url": "https://jx.hls.one/?url=",
-	"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", 
-
-"bilibili", "哔哩哔哩", "哔哩"],   "header":{"User-Agent":"okhttp/4.1.0"}}   
-},  
-{
-    "name": "🏁🎀裁缝大叔专线★智能嗅探★",
-    "url": "https://www.8090g.cn/jiexi/?url=",
-    "type": 0,
-    "ext": {
-    "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐
-
-视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},
-    "header": {"User-Agent": "Mozilla/5.0"}
-},
-{
-    "name": "🏁🎀裁缝大叔专线★智能解析★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url=",
-    "ext": {
-    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","芒果
-
-TV","tnmb","seven","bilibili","1905"],
-    "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 
-
-Safari/537.36 Edg/110.0.1587.57"}}}  
+      "name": "-777-",
+      "type": 0,
+      "url": "https://jx.playerjy.com/?url="
+    },
+    {
+      "name": "-8090g-",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "-ik9-",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
+    {
+      "name": "-杰森-",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
+    },
+    {
+      "name": "-阳途-",
+      "type": 0,
+      "url": "https://jx.yangtu.top/?url="
+    },
+    {
+      "name": "-冰豆-",
+      "type": 0,
+      "url": "http://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "-m3u8TV-",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "-听乐-",
+      "type": 0,
+      "url": "https://z1.im1907.top/?jx="
+    },
+    {
+      "name": "-云析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "-红狐-",
+      "type": 0,
+      "url": "http://www.pangujiexi.com/jiexi/?url="
+    }
 ],  
 "flags": [
     "youku",

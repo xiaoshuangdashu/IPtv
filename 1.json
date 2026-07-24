@@ -89,7 +89,15 @@
     }
   ],
 
-"sites": [ {"key":"🔞","name":"🈵🔞裁缝提示您🈲","type":1,"api": "csp"}, 
+"sites": [ {"key":"🔞","name":"🈵🔞裁缝提示您🈲","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod","quickSearch":1,"searchable":1,"filterable":1, "playerType": 2,
+       "categories": [
+       
+      ],
+      
+    "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
 {"key":"🈲","name":"⬇️以下节目儿童🈲","type":1,"api": "csp"},
  
 

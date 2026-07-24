@@ -93,7 +93,16 @@
 {"key":"🈲","name":"⬇️以下节目儿童🈲","type":1,"api": "csp"},
  
 
- {"key":"xrbsp","name":"🔞想日屄视频","type":0,"api":"https://www.heiliaozyapi.com/api.php/provide/vod","quickSearch":1,"searchable":1,"filterable":1}, {"key":"富二代","name":"🔞富二代","type":0,"api":"https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+ {"key":"xrbsp","name":"🔞想日屄视频","type":0,"api":"https://www.heiliaozyapi.com/api.php/provide/vod","quickSearch":1,"searchable":1,"filterable":1, "playerType": 2,
+       "categories": [
+       
+      ],
+      
+    "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
+  {"key":"富二代","name":"🔞富二代","type":0,"api":"https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"https://caiji.putaozyw.net","name":"葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 

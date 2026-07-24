@@ -110,7 +110,25 @@
 {"key":"https://caiji.putaozyw.net","name":"葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 
 
-
+  {
+      "key": "爆料授权🏮蓝光",
+      "name": "🔞爆料🏮3蓝光",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+     "searchable": 1,
+   
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+       "categories": [
+       
+      ],
+      
+    "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
+   
   
 {"key":"🔞滴滴资源","name":"🔞滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
   

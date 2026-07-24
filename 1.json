@@ -91,21 +91,9 @@
 
 "sites": [ {"key":"🔞","name":"🈵🔞裁缝提示您🈲","type":1,"api": "csp"}, 
 {"key":"🈲","name":"⬇️以下节目儿童🈲","type":1,"api": "csp"},
- {"key":"XBPQ_jjzb","name":"🔞久久直播","type":3,"api":"csp_XBPQ","jar":"https://mpimg.cn/down.php/3ce3b1f862df84bf339cd4b4c93e122f.jar",
-"ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/jiujiu.json"}, 
-{"key":"csp_xBPQ_天天直播直播","name":"🔞天天直播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"jar":"https://mpimg.cn/down.php/3ce3b1f862df84bf339cd4b4c93e122f.jar",
-"ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/天天直播.json"}, 
-{"key": "drpy_sszb","name": "涩涩🔞直播","type": 3,"playerType": 2,
-"api":"https://tvbox.catvod.com/xs/js/drpy2.min.js",
-"ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/ss直播.js"}, 
-{"key": "直转点", "name": "🔞㊙️点播","type": 3,
-"api":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js",
-"ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"}, 
-{"key":"直播转","name":"🔞直播转点播","type":3,"searchable":0,"api":"http://sib.sld.tw/直播转.js","ext":"http://sib.sld.tw/直播转.json"}, {"key":"福利短剧","name":"🔞福利短剧","type":3,"api":"csp_XBPQ","jar":"https://mpimg.cn/down.php/7b43f2d5375a7912a5ab1c154869f837.jar","ext":{"主页url":"http://duanjuhk.com/vodshow/id/fuliduanju.html","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"http://duanjuhk.com/vodshow/class/{cateId}/id/fuliduanju/page/{catePg}.html","分类":"日本伦理&韩国伦理&港台三级&西方伦理","分类值":"*","简介":"简介：&&","线路二次截取":"tabs-swiper&&","线路数组":"","线路标题":"&&<","跳转播放链接":"var player_*\"url\":\"&&\"","搜索url":"http://duanjuhk.com/vodsearch/page/{pg}/wd/{wd}.html","搜索模式":"1"}}, {"key":"仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://mpimg.cn/down.php/7b43f2d5375a7912a5ab1c154869f837.jar","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","主页":"http://hscangku.com","分类url":"http://8123ck.cc/;;!"}}, { "key": "农夫与少妇", "name": "🔞农夫┃少妇", "type": 3, "api": "csp_XBPQ", "jar":"https://mpimg.cn/down.php/7b43f2d5375a7912a5ab1c154869f837.jar", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": {"请求头": "User-Agent$MOBILE_UA","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e", "分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z", "分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26" }}, {"key":"ssnlsj","name":"🔞色爽女老司机","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://www.wxjusen.com/index.php/vod/type/id/{cateId}/page/{catePg}.html[https://www.wxjusen.com/index.php/vod/type/id/{cateId}.html]","分类":"网红$1#主播$6#传媒$7#黑料$8#强奸乱伦$9#日本$10#欧美$11#诱惑$12"}}, {"key":"51福利","name":"🔞51福利","type":3,"api":"csp_XBPQ","jar":"https://mpimg.cn/down.php/3ce3b1f862df84bf339cd4b4c93e122f.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"直接播放":"1","免嗅":"1","主页url":"https://hwhcz3.sohthaio.com/","数组":"
-","图片":"loadBannerDirect('&&'","标题":"headline\">&&","链接":"href=\"&&\"","副标题":"裁缝专属+&&","播放列表":"","播放链接":"","分类url":"https://hwhcz3.sohthaio.com/category/{cateId}/{catePg}/","分类":"今日吃瓜$wpcz#擦边短剧$cbdj#热门大瓜$rdsj#必看大瓜$bkdg#网红黑料$whhl#学生校园$xsxy#明星黑料$whmx#领导干部$ldcg#海外吃瓜$hwcg#内涵段子$qubk#人人吃瓜$rrcg#吃瓜新闻$cgxw#看片娱乐$ysyl#每日大瓜$mrdg"}}, {"key": "naixiangxiang","name": "🔞奶香香","type": 1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":[ "国产自拍","主播诱惑","探花约炮","偷拍偷窥","网曝吃瓜","抖阴短片","传媒剧情","日韩主播","日韩无码","中文字幕","AV解说","换脸明星","强奸乱伦","女优明星","欧美激情","重口激情","三级伦理","剧情动漫","SM调教","女同性恋","VR视角"]}, {"key":"csp_xBPQ_tt","name":"🔞天天综合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0","jar":"https://mpimg.cn/down.php/3ce3b1f862df84bf339cd4b4c93e122f.jar","ext":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/天天综合.json"}, {"key": "妖娥娥","name": "🔞妖娥娥资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","searchable": 1,"changeable":1}, {"key": "红桃🍑","name": "🔞红桃视频","type": 1,"api": "https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable":1}, {"key": "madou","name": "🔞麻豆","type": 4,"api":"https://json.doube.eu.org/madou.php","searchable": 1,"quickSearch": 1}, {"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "https://gh.clun.top/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"}, {"key":"高清xxxx黑料","name":"🔞高清xxxx黑料","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址": "https://www.51heiliaofulishe.com", "主页url": "https://www.51heiliaofulishe.com/label/sort999?ck=", "数组": "class=\"item-box\">&&&& -->", "简介": "description\" content=\"&&|全站免费", "链接": "https://www.51heiliaofulishe.com/v/+href=\"/voddetail/&&/\"+/", "搜索模式": "1", "搜索url": "https://www.51heiliaofulishe.com/s/page/{pg}/wd/{wd}/", "分类数组": "&&<", "分类ID": "/t/&&/", "分类url": "https://www.51heiliaofulishe.com/t/{cateId}-{catePg}/;;z" }}, {"key":"yyb","name":"🔞淫用宝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{ "主页url": "https://fwruax.yyb2.cyou/yyb/", "数组": "caption\">&&", "搜索url":"https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}" }}, {"key":"火车36小时","name":"🔞火车36小时","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布页":"https://6m8.36huo165che.xyz/",主页url":"https://uk.36huo271che.xyz/topic/","数组":"class=\"lazy\"&&","图片":"data-original=\"&&\"","标题":"_blank\">&&","链接":"https://uk.36huo271che.xyz/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://uk.36huo271che.xyz/vodsearch/{wd}----------{pg}---.html","分类二次截取":"
-&&
-","分类url":"https://uk.36huo271che.xyz/vodtype/{cateId}-{catePg}.html[https://uk.36huo271che.xyz/vodtype/{cateId}.html];;z","分类":"国产视频$6#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#制服诱惑$20#直播主播$21#糖心Vlog$22#激情动漫$23#抖阴视频$63#女优明星$24#网-曝-门$25#伦理三级$26#AV解说$30#SM调教$31#萝莉少女$37#极品媚黑$32#女同性恋$33"}}, {"key":"xrbsp","name":"🔞想日屄视频","type":0,"api":"https://www.xrbsp.com/api/xml.php","quickSearch":1,"searchable":1,"filterable":1}, {"key":"富二代","name":"🔞富二代","type":0,"api":"http://f2dcj6.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+ 
+
+ {"key":"xrbsp","name":"🔞想日屄视频","type":0,"api":"https://www.heiliaozyapi.com/api.php/provide/vod","quickSearch":1,"searchable":1,"filterable":1}, {"key":"富二代","name":"🔞富二代","type":0,"api":"https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"https://caiji.putaozyw.net","name":"葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 
@@ -134,7 +122,15 @@
   
 {"key":"乐播资源.net","name":"乐播资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
   
-{"key":"ht白嫖资源t","name":"白嫖资源","type":1,"api":"https://www.kxgav.com/api/json.php","searchable":1,"quickSearch":1},
+{"key":"ht白嫖资源t","name":"白嫖资源","type":1,"api":"https://www.kxgav.com/api/json.php","searchable":1,"playerType": 2,
+       "categories": [
+       
+      ],
+      
+    "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
   
 
 {"key":"ht1葡萄t","name":"1葡萄","type":1,"api":"https://www.gdlsp.com/api/json.php","searchable":1,"quickSearch":1},

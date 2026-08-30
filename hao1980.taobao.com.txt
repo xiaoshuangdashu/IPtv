@@ -4973,7 +4973,7 @@ confirm')[0].click()"]}],
       {
       "name": "AI直播🎀快手号济宁裁缝大叔🎀",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://aries.yuanwangokk.nyc.mn/m2tt",
  "logo": "https://tb.zbds.top/logo/{name}.png",
        "epg": "https://api.erw.cc/?ch={name}&date={date}",
     

@@ -30,13 +30,20 @@
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
-    {
+  {"key":"lf_js_lf_live","name":"🇨🇳2400部恐怖电影📲","type":3,
+  "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js",
+    "style":{ "type":"oval"},
+    "searchable":1,"changeable":0,"quickSearch":1,"filterable":1,
+    "ext":"https://d.kstore.dev/download/8240/%E8%AE%A2%E9%98%85%E5%90%8D.txt"},
+ {
 "key":"华数",
 "name":"🌴华数影视",
 "type":3,
-"api":"https://gitee.com/yiwu369/6758/raw/master/py/华数.py",
+"api":"https://d.kstore.dev/download/8240/58.py",
 "changeable":1
 },
+
+
  {
       "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
       "name": "20265🎀TVB云播APP🎀",

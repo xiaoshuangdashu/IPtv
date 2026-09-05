@@ -69,7 +69,7 @@
 		    "key": "影视华数",
 		    "name": "影视华数┃",
 		    "type": 3,
-		    "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/%E5%8D%8E%E6%95%B0.py",
+		    "api": "https://gh.sevencdn.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/%E5%8D%8E%E6%95%B0.py",
 		    "searchable": 1,
 		    "changeable": 1
 	    },

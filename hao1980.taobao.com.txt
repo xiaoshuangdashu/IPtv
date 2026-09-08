@@ -22,7 +22,12 @@
 "api":"csp_TTian",
 "playerType":1,
 "ext":"7lj763gg0939791h1l3888jig44gi291li"},
-   {"key":"腾优爱芒B","name":"丨APP丨影视","type":3,"api":"https://d.kstore.dev/download/8240/%E8%85%BE%E7%88%B1%E4%BC%98b%E7%AB%99.js",
+   {"key":"腾优爱芒B","name":"丨APP丨影视", 
+"type": 1,
+"searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+"api":"https://d.kstore.dev/download/8240/%E8%85%BE%E7%88%B1%E4%BC%98b%E7%AB%99.js",
 "changeable":0},
   {"key":"lf_js_lf_live","name":"🇨🇳2400部恐怖电影📲","type":3,
   "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js",
@@ -102,7 +107,7 @@
     "style":{ "type":"oval"},
     
 
-"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://github.catvod.com/https://raw.githubusercontent.com/xiaoshuangdashu/tvbox/refs/heads/master/4282%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%A2%E5%85%88%E7%9C%8B.txt"},
+"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.qninq.cn/https://github.com/xiaoshuangdashu/IPtv/blob/main/4282%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%A2%E5%85%88%E7%9C%8B.txt"},
  {
       "key": "🎀布布http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
       "name": "20265🎀布布APP🎀",

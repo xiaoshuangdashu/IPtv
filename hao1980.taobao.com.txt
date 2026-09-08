@@ -101,7 +101,7 @@
 
 
    
- {"key":"lf_js_lf_live2","name":"🇨🇳4280部恐怖电影📲","type":3, 
+ {"key":"lf_js_lf_live2","name":"🇨🇳4280电影📲","type":3, 
 "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js",
      "style":{ "type":"oval"},
     "searchable":1,"changeable":0,"quickSearch":1,"filterable":1,
@@ -545,7 +545,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
       "key": "斗量",
       "name": "南瓜｜极速",
       "type": 3,
-      "jar": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "jar": "https://d.kstore.dev/download/8240/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.jar",
       "api": "csp_NanGua",
       "quickSearch": 0,
       "playerType": 2,

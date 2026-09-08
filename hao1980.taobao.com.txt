@@ -105,7 +105,7 @@
 "api": "https://gitee.com/uncle-jining-tailor/study/raw/master/live2vod.js",
      "style":{ "type":"oval"},
     "searchable":1,"changeable":0,"quickSearch":1,"filterable":1,
-"ext":"https://gh.qninq.cn/https://github.com/xiaoshuangdashu/IPtv/blob/main/4282%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%A2%E5%85%88%E7%9C%8B.txt"},
+"ext":"https://gitee.com/uncle-jining-tailor/study/raw/master/live.json"},
  {
       "key": "🎀布布http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
       "name": "20265🎀布布APP🎀",
@@ -302,7 +302,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
         "线路标题": "快手号济宁裁缝大叔专线裁缝提醒您,请勿相信影片中的广告",
         "副标题": "裁缝在线+module-item-note&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.czxixigu.com/vodshow/{cateId}--hits---------.html;;ak",
+        "分类url": "https://www.thewellfitness.com/thewedtype/{cateId}.html;;ak",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
 
@@ -324,7 +324,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
         "线路标题": "快手号济宁裁缝大叔专线提醒您,请勿相信影片中的广告",
         "副标题": "裁缝在线+module-item-note&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.yagebm.com/vodtype/{cateId}.html;;ak",
+        "分类url": "https://oegpv.cn/oegpijtype/{cateId}.html;;ak",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
 
@@ -369,7 +369,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
         "线路标题": "快手号济宁裁缝大叔专线提醒您,请勿相信影片中的广告",
         "副标题": "裁缝在线+module-item-note&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.xinxintvs.com/index.php/vod/type/id/{cateId}.html",
+        "分类url": "https://vgybu.cc/vgybiitype/{cateId}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
 

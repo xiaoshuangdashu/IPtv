@@ -115,7 +115,7 @@
       "quickSearch": 1,
       "changeable": 1,
        "playerType": 2,
-      "ext": "https://gh.llkk.cc/https://github.com/ouhaibo1980/tvbox/blob/main/js/%E5%B8%83%E5%B8%83.js"
+      "ext": "https://gh-proxy.com/https://github.com/ouhaibo1980/tvbox/blob/main/js/%E5%B8%83%E5%B8%83.js"
     },
  {
       "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
@@ -310,23 +310,161 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
       }
     },
     
-    {
-      "key": "玄目影院",
-      "name": "🎀独播库🎀  ",
-      "type": 3,
-      "api": "csp_XBPQ",
-       "searchable":1,
-   "playerType":2,
-   "quickSearch":1,
-   "filterable":0,
-      "ext": {"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8", 
+   {"key":"神马1","name":"🇨🇳神马2┃电影",
+"type":3,
+"changeable":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"api":"csp_XBPQ",
+ "ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8", 
 "副标题":"裁缝在线+module-item-note&&</div>",
 "线路数组":"module-tab-item tab-item&&</div>",
 "线路标题":"data-dropdown-value=\"&&\"+【+共+<small>&&</small>+集】",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#",
 "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-        "分类url": "https://oegpv.cn/oegpijtype/{cateId}.html;;ak"    }   },
- 
+"分类url":"https://cifppc.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html"}},
+
+
+{"key":"神马","name":"🇨🇳神马┃电影",
+"type":3,
+"changeable":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"api":"csp_XBPQ",
+"ext":{ "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+       "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"left text-muted\">&&</span>",
+"分类url":"https://www.shitutv.com/listnew/{cateId}.html",
+"分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#伦理片$lunlipian"}},
+      
+      {"key": "影视工厂",
+          "name": "🇨🇳影视工厂┃电影",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext":{  "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      
+	 "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"left text-muted\">&&</span>",
+         "分类url": "https://www.ydfeicui.com/ysgcersw/{cateId}-{area}-------{catePg}---{year}.html",
+		 
+         "分类": "电影$1#剧集$2#动漫$4#综艺$3"}},
+      
+      {"key":"影视大全",
+"name":"🇨🇨影视大全┃电影",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{   "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+      
+ "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+
+"分类url":"https://www.christiacummings.com/yyds/{cateId}-{catePg}.html",
+"分类":"电影$1#电视剧$2#综艺$4#动漫$3","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#悬疑$13#动画$14#犯罪$15#奇幻片$16||国产剧$18#香港剧$23#韩国剧$19#欧美剧$20#台湾剧$21#日本剧$22#泰国剧$24#海外剧$25||空||空"}},
+{"key":"永乐视频","name":"永乐┃电影",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8", 
+"副标题":"裁缝在线+module-item-note&&</div>",
+"线路数组":"module-tab-item tab-item&&</div>",
+"线路标题":"data-dropdown-value=\"&&\"+【+共+<small>&&</small>+集】",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#",
+"类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
+"分类url":"https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"}},
+{"key":"面包",
+"name":"🇨🇳面包┃电影",
+"type":3,
+"api":"csp_XBPQ",
+ "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+
+"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8", 
+ "副标题":"裁缝在线+module-item-note&&</div>",
+ "线路标题": "裁缝大叔专线",
+"分类url":"https://swallowaytw.com/vod/{cateId}[https://swallowaytw.com/];;ak",  
+"分类":"电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+"线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>"
+       }},
+{"key": "XBPQ_好乐影视",
+			"name": "好乐┃电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":{"数组": "class=\"hl-list-item hl-col-xs-* hl-col-sm-* hl-col-md-* hl-col-lg-*&&</li",
+"线路数组":"hl-tabs-btn hl-slide-swiper&&</a",
+"线路标题":"alt=\"&&\"[不包含:http下载]",
+ "副标题":"裁缝在线+module-item-note&&</div>",
+"分类url":"https://www.haolev.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;k",
+"分类":"电影$xc1#电视剧$xc2#综艺$xc3#动漫$xc4","类型":"动作片$11#喜剧片$12#科幻片$13#恐怖片$14#爱情片$15#剧情片$16#战争片$17#纪录片$18#动画片$20||国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28||大陆综艺$29#港台综艺$30#日韩综艺$31#欧美综艺$32||国产动漫$33#港台动漫$34#日韩动漫$35#欧美动漫$36#海外动漫$37"}},
+{"key":"星辰影院",
+"name":"🇨🇳星辰┃电影"
+,"type":3,
+"api":"csp_XBPQ",
+"ext":{"搜索模式": "1",
+   "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"left text-muted\">&&</span>",
+  "搜索标题": "text-danger\">&&<",
+  "搜索链接": "data-href=\"&&\"",  
+      "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+"分类url":"https://www.shhanyu.com/xcsx/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}},
+
+{"key": "八戒影院",
+          "name": "🇨🇳55影视┃电影",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "ext":
+ {
+    
+   
+    
+    "站名":"55影视",
+    
+    "主页url":"https://www.55kan.com/",
+    
+    "简介":"裁缝大叔提醒您请勿相信影片中的广告，以免上当受骗！+<p class=\"col-pd\"&&</p>",
+    
+    "线路数组":"<h3 class=\"title\">&&/h3>",
+    
+     "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+    
+    "分类url":"https://www.55kan9.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"爱看","name":"🇨🇳爱看┃电影",
+"type":3,"api":"csp_XBPQ",
+"ext":{"主演":"主演:&&</li>","导演":"导演:&&</li>","影片地区":"地区:&&</li>","影片类型":"分类:&&</li>","影片年代":"年份:&&</li>","数组":"<li class=\"mo-paxs-5pxmo-pamd-10pxmo-cols-infomo-cols-xs4mo-cols-sm3mo-cols-lg2\">&&</li>","标题":"html\">&&</a><span",
+			  
+			  "副标题":"mo-situ-remamo-part-rampmo-fsxs-12pxmo-text-whitemo-coxs-center\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"+html","简介":"mo-paxs-5px mo-ptxs-0px\">&&</div>",
+			  
+			  "线路数组":"mo-movs-btnsmo-mrxs-5pxmo-mrmd-10px&&/a>",
+			  
+			  "线路标题":"</i>&&<",
+          
+              "分类url": "https://www.ikanys.com/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;k",
+			
+              "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$5"}},
+{"key":"开心","name":"开心┃电影",
+"type":3,"api":"csp_XBPQ",
+"ext":{"简介":"剧情介绍:&&</P>",
+  "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"ewave-pannel_bd\">&&</span>",
+
+      "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+"分类url":"http://www.kaixinvod.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+
+
      
   
  {
@@ -467,7 +605,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
         "线路标题": "快手号济宁裁缝大叔专线",
         "副标题": "裁缝在线+module-item-note&&</div>",
         "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
-        "分类url": "https://www.tdys.cc/show/{cateId}-{area}-------{catePg}---.html[https://www.tdys.cc/];;ak",
+        "分类url": "https://www.kuirpoetry.com/tv/{cateId}.html;;ak",
 
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$4#短剧$4",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"

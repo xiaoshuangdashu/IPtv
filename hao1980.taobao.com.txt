@@ -11,9 +11,14 @@
   "sites": [ {  "key": "drpy_js_豆瓣",
   "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
   "type": 3,
-"searchable": 1,
-"quickSearch": 1,
+
       "api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js",
+
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+
       "ext": "http://d.kstore.dev/download/8240/douban.js"},
 
  {"key":"天天","name":"高峰期用不了就点我换源或者搜索",

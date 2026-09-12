@@ -1,14 +1,399 @@
 {
-/*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-
-  "warningText":"💕永久完全免费，切勿付费购买。资源来源网络，如有侵权联系删除💕",  
-  "spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+ //"spider": "http://d.kstore.dev/download/8240/%E9%87%91%E7%89%8C.jar",
+"wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png", 
+"logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
+"spider": "http://d.kstore.dev/download/8240/spider.jar",
+"lives":[{
+      "name": "🎀0快手号济宁裁缝大叔🎀电视直播1",
+      "type": 0,
+  
+      "url": "http://d.kstore.dev/download/8240/1107.txt",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
+       "playerType":1
+     
  
- "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
- "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
-//数据接口====================================网站===============================================
+    },
+    {
+      "name": "🎀01快手号济宁裁缝大叔🎀电视直播1",
+      "type": 0,
+  
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+    
+       "playerType":1
+     
+ 
+    },
+    
+    
+     {
+      "name": "AI1直播🎀快手号济宁裁缝大叔🎀自动更新",
+      "type": 0,
+       "auth": "local://tvbus",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "playerType": 1,
+      "url": "https://aries.yuanwangokk.nyc.mn/2GFB",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+     {
+            "name": "AI2直播🎀快手号济宁裁缝大叔🎀",
+            "type": 0,
+             "logo": "https://tb.zbds.top/logo/{name}.png",
+            "epg": "https://api.erw.cc/?ch={name}&date={date}",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u"
+        },
+    {
+            "name": "AI3流畅央卫🎀快手号济宁裁缝大叔🎀",
+            "type": 0,
+          "logo": "https://tb.zbds.top/logo/{name}.png",
+     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+            "url": "http://d.kstore.dev/download/8240/1107.txt"
+        },
+        {
+            "name": "4catvod.com(备用)",
+            "type": 0,
+             "logo": "https://tb.zbds.top/logo/{name}.png",
+             "epg": "https://api.erw.cc/?ch={name}&date={date}",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u"
+        },
+    
+    
+      {
+      "name": "AI5济宁移动2.txt🎀快手号济宁裁缝大叔🎀",
+      "type": 0,
+        "logo": "https://tb.zbds.top/logo/{name}.png",
+     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "url": "https://aries.yuanwangokk.nyc.mn/iQTt/%E6%B5%8E%E5%AE%81%E7%A7%BB%E5%8A%A82.txt",
+      "playerType": 1,
+      "timeout": 15
+    },
+    
+    
+    
+    
+     {
+      "name": "AI6电影🎀快手号济宁裁缝大叔🎀",
+      "type": 0,
+     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "url": "https://github.catvod.com/raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+      "playerType": 1,
+      "timeout": 20
+    },
+    
+   
+    
+    
+    
+   {
+      "name": "🎀7快手号济宁裁缝大叔🎀电视直播11",
+      "type": 0,
+      "boot": true,
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "url": "https://aries.yuanwangokk.nyc.mn/w5i5",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+      
+        "ua": "okhttp/3.8.1",
+      "timeout": "15",
+       "playerType": 1
+     
+ 
+    },
+    {"name":"8🈴🎀快手号济宁裁缝大叔🎀22","type": 0,"boot": true,"logo": "https://epg.zbds.top/logo/{name}.png",
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+       "ua": "AptvPlayer-UA",
+      "timeout": "15","url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","playerType": 1},
+     {
+      "name": "🎀快手号济宁裁缝大叔🎀电视2",
+      "type": 0,
+      "url": "https://github.catvod.com/https://raw.githubusercontent.com/xiaoshuangdashu/IPtv/refs/heads/main/12345.txt",
+       "logo": "https://epg.zbds.top/logo/{name}.png",
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "playerType": 1,
+       "timeout": 20,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "9🎀快手号济宁裁缝大叔🎀电视组播3",
+      "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
+      "logo": "https://epg.cdn.loc.cc/logo/{name}.png",
+        "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "playerType": 1
+    },
+    {
+      "name": "10🎀快手号济宁裁缝大叔🎀电视组播888",
+      "type": 0,
+      "boot": true,
+      "url": "https://aries.yuanwangokk.nyc.mn/KcnF",
+       "logo": "https://epg.zbds.top/logo/{name}.png",
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+       "ua": "AptvPlayer-UA",
+      "timeout": "10",
+      "playerType": 1
+    },
+    
+    {
+      "name": "11🎀快手号济宁裁缝大叔🎀电视直播🎀4",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+       "logo": "https://epg.zbds.top/logo/{name}.png",
+        "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "playerType": 2
+    },
+    {
+      "name": "12🎀快手号济宁裁缝大叔🎀live-5",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "playerType": 1,
+     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀live-6",
+      "type": 0,
+      "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
+      "playerType":1,
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀2026移动联播7",
+      "type": 0,
+       "boot": true,
+      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/aaliaaa/iptv3udpxyall/main/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A839%E5%86%85%E7%BD%91.txt",
+      "playerType":1,
+      "ua":"okhttp/3.15,AptvPlayer/1.4.0",
+      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout":20
+    
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新8",
+      "type": 0,
+   
+     "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+       "url": "https://cdn.jsdelivr.net/gh/xiaoshuangdashu/yang@refs/heads/main/%E7%BB%BC%E5%90%88.txt",
+        "playerType": 1
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新9",
+      "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/KcnF",
+       "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+  
+      
+      "playerType": 1,
+      "timeout": 10
+    },
+    {
+      "name": "🎀快手号济宁裁缝大叔🎀山东移动10",
+      "type": 0,
+         "url": "https://gitee.com/bro_fei/iptv/raw/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8%E4%B8%AD%E5%85%B4%E5%B9%B3%E5%8F%B0CDN%E7%89%88.m3u",
+      "playerType": 1,
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },{
+            "name": "最强国内直播(合并版)11",
+            "type": 0,
+            "url": "https://aries.yuanwangokk.nyc.mn/KcnF",
+   
+            "epg": "https://epg.livetvmax.com/?ch={name}&date={date}",
+                "logo": "https://epg.zbds.top/logo/{name}.png",
+                 "playerType":1
+                
+          
+        },
+        {
+            "name": "最强国内直播12",
+            "type": 0,
+            "pass": true,
+            "url": "https://eastscreen.tv/iptvlist.php?token=LlNCAB0EAxYBAwgWS1dLDAIDAgw",
+            "ua": "okhttp/3.15",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "最强国内直播(250831)13",
+            "type": 0,
+            "pass": true,
+            "url": "https://gh.xxooo.cf/https://github.com/wwb521/live/raw/refs/heads/main/tv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+                "logo": "https://epg.zbds.top/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "FeiYang牧场14",
+            "type": 0,
+            "pass": true,
+            "url": "https://aries.yuanwangokk.nyc.mn/Sbkt",
+              
+              "playerType": 1,
+             "ua": "AptvPlayer-UA",
+            "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+                "logo": "https://epg.zbds.top/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "0909  15",
+            "type": 0,
+            "url": "https://t.freetv.fun/m3u/entertainment.txt",
+            "ua": "okhttp/3.15",
+                "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BJYD(EPG-1天回看16)",
+            "type": 0,
+            "url": "https://gitee.com/lwr851/live/raw/master/iptv.m3u",
+           "ua": "okhttp/3.8.1",
+                 "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BJYD(EPG-2天回看17)",
+            "type": 0,
+            "url": "https://eastscreen.tv/iptvlist.php?token=LlNDBB0DBxYBAgcWS1RHDAQGCQA",
+            "ua": "okhttp/3.15",
+                 "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BJYD(EPG-3天回看18)",
+            "type": 0,  
+            "url": "https://eastscreen.tv/iptvlist.php?token=N1NDBB0DBxYBAgcWS1RHDAQGCQA",
+     
+           "ua": "okhttp/3.8.1",
+                 "epg": "http://epg.51zmt.top:8000/e.xml/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BIPTV(IPV6,可回看19)",
+            "type": 0,
+            "url": "https://eastscreen.tv/iptvlist.php?token=N1NDBB0DBxYBAgcWS1RHDAQGCQA",
+             "playerType": 1,
+            "ua": "okhttp/3.15",
+           "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://epg.zbds.top/logo/{name}.png"
+        },
+        {
+      "name": "🎀快手号济宁裁缝大叔直播🎀台湾流🎀20",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://gitee.com/zhyi321/zhi/raw/master/2.png",
+  "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://epg.zbds.top/logo/{name}.png"
+    },
+{
+      "name": "🎀台湾流🎀快手号济宁裁缝大叔直播🎀21",
+      "type": 0,
+      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
+    "logo": "https://epg.zbds.top/logo/{name}.png",
+       "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "playerType": 1
+    },
+{"name":"演唱会.txt","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%BC%94%E5%94%B1%E4%BC%9A.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"YanG•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"drang•ipv6","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"范明明•ipv6","type":0,"url":"https://fastly.jsdelivr.net/gh/xiaoshuangdashu/yang@main/%E7%BB%BC%E5%90%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"YueChan•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"Yoursmile•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"新闻•综合","type":0,"url":"https://t.freetv.fun/m3u/news.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"山东SNM移动CDN版.txt","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"Ray•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
 
-  "sites": [ {  "key": "drpy_js_豆瓣",
+
+{"name":"电影•MV","type":0,
+"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ",
+"playerType":1, "epg": "https://api.erw.cc/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"所有國家/地區可用",
+"type":0,
+ "epg": "https://api.erw.cc/?ch={name}&date={date}",
+"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ"}
+],
+"sites":[{"key":"csp_豆瓣",
+"name":"🌈防失联，关注快手号济宁裁缝大叔",
+
+"type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+
+{
+      "key": "斗量",
+      "name": "南瓜｜极速",
+      "type": 3,
+      "jar": "http://d.kstore.dev/download/8240/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.jar",
+      "api": "csp_NanGua",
+      "quickSearch": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    }, {"key":"腾优爱芒B","name":"丨APP丨影视","type":3,
+ "api":"http://d.kstore.dev/download/8240/%E5%A4%AA%E4%B9%99%E5%BD%B1%E8%A7%86.py",
+ "playerType": 2,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},
+     {  "key": "drpy_js_豆瓣",
   "name": "🇨🇳快手号济宁裁缝大叔豆瓣[js]", 
   "type": 3,
 
@@ -4927,347 +5312,44 @@ Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.co
       "api": "https://taopianapi.com/cjapi/mc/vod/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    }
-  ],"parses":[
-{
-    "name":"🌐自动聚合",
-    "type":3,
-    "url": "Demo"
-},
-{
-      "name": "-777-",
-      "type": 0,
-      "url": "https://jx.playerjy.com/?url="
-    },
-    {
-      "name": "-8090g-",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "-ik9-",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "-杰森-",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url="
-    },
-    {
-      "name": "-阳途-",
-      "type": 0,
-      "url": "https://jx.yangtu.top/?url="
-    },
-    {
-      "name": "-冰豆-",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "-m3u8TV-",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "-听乐-",
-      "type": 0,
-      "url": "https://z1.im1907.top/?jx="
-    },
-    {
-      "name": "-云析-",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "-红狐-",
-      "type": 0,
-      "url": "http://www.pangujiexi.com/jiexi/?url="
-    }
-],  
-"flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
+      "filterable": 0 },
+    
+ { "key": "dr_音乐","name": "🌞DJ音乐┃蜻蜓FM","type": 3,"api": "https://gitee.com/yanglongxiang/my/raw/master/JS2025/drpy2.min.js","searchable": 
+
+0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%9C%BB%E8%9C%93FM.js" }
+
 ],
-"doh": [
-    {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
-    {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]},
-    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
-    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": 
-
-["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}],
-"rules": [
-    {
-    "name": "proxy",
-    "hosts": [
-    "raw.githubusercontent.com",
-    "googlevideo.com",
-    "cdn.v82u1l.com",
-    "cdn.iz8qkg.com",
-    "cdn.kin6c1.com",
-    "c.biggggg.com",
-    "c.olddddd.com",
-    "haiwaikan.com",
-    "www.histar.tv",
-    "youtube.com",
-    "uhibo.com",
-    ".*boku.*",
-    ".*nivod.*",
-    ".*ulivetv.*"]},
-    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
-    {"name": "農民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
-    {"name": "新视觉嗅探","hosts": ["muzhi-video.bj.bcebos.com"],"regex": ["202403/"]},
-    {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
-    {"name": "海外看","hosts": ["haiwaikan"],"regex": ["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
-    {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click
-
-()"]},
-    {"name": "毛驢點擊","hosts": ["www.maolvys.com"],"script": ["document.getElementsByClassName('swal-button swal-button--
-
-confirm')[0].click()"]}],
-"ijk":[
-    {"group":"软解码","options":[
-    {"category":4,"name":"opensles","value":"0"},
-    {"category":4,"name":"overlay-format","value":"842225234"},
-    {"category":4,"name":"framedrop","value":"1"},
-    {"category":4,"name":"soundtouch","value":"1"},
-    {"category":4,"name":"start-on-prepared","value":"1"},
-    {"category":1,"name":"http-detect-range-support","value":"0"},
-    {"category":1,"name":"fflags","value":"fastseek"},
-    {"category":2,"name":"skip_loop_filter","value":"48"},
-    {"category":4,"name":"reconnect","value":"1"},
-    {"category":4,"name":"enable-accurate-seek","value":"0"},
-    {"category":4,"name":"mediacodec","value":"0"},
-    {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-    {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-    {"category":4,"name":"mediacodec-hevc","value":"0"},
-    {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}, 
-    {"group":"硬解码","options":[
-    {"category":4,"name":"opensles","value":"0"},
-    {"category":4,"name":"overlay-format","value":"842225234"},
-    {"category":4,"name":"framedrop","value":"1"},
-    {"category":4,"name":"soundtouch","value":"1"},
-    {"category":4,"name":"start-on-prepared","value":"1"},
-    {"category":1,"name":"http-detect-range-support","value":"0"},
-    {"category":1,"name":"fflags","value":"fastseek"},
-    {"category":2,"name":"skip_loop_filter","value":"48"},
-    {"category":4,"name":"reconnect","value":"1"},
-    {"category":4,"name":"enable-accurate-seek","value":"0"},
-    {"category":4,"name":"mediacodec","value":"1"},
-    {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-    {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-    {"category":4,"name":"mediacodec-hevc","value":"1"},
-    {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}], 
-    "ads":["static-mozai.4gtv.tv"], 
- "lives": [{
-      "name": "🎀快手号济宁裁缝大叔🎀电视直播",
-      "type": 0,
-       "url": "./12345.txt",
-       "logo": "https://epg.zbds.top/logo/{name}.png",
-       "epg": "https://epg.zbds.top/?ch={name}&date={date}",
-      "playerType":1
-    },
-      {
-      "name": "AI直播🎀快手号济宁裁缝大叔🎀",
-      "type": 0,
-      "url": "https://aries.yuanwangokk.nyc.mn/m2tt",
- "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
-    
-      
-      "playerType": 2,
-      "timeout": 10
-    },
-    
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀电视组播",
-      "type": 0,
-      "url": "https://aries.yuanwangokk.nyc.mn/d3ty",
-       "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
-    
-      
-      "playerType": 2
-    },
-    
-    
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀电视直播🎀",
-      "type": 0,
-      "url": "https://kakaxi.indevs.in/ipv4.txt",
-        "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
-    
-       "playerType":1
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀live-1",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
-      "playerType": 2,
-       "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
-    
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀live-2",
-      "type": 0,
-      "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
-      "playerType": 2,
-     "logo": "https://tb.zbds.top/logo/{name}.png",
- "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀2025电影联播",
-      "type": 0,
-      "url": "http://d.kstore.dev/download/7202/Ironmanlive_theater.txt",
-      "playerType": 2,
-      "logo": "https://tb.zbds.top/logo/{name}.png",
- "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新",
-      "type": 0,
-   
-      "logo": "https://tb.zbds.top/logo/{name}.png",
- "epg": "https://api.erw.cc/?ch={name}&date={date}",
-       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/%E7%BB%BC%E5%90%88.txt",
-        "playerType": 2
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀2025自动更新2",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
-        "epg": "https://diyp0731.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp0731.112114.xyz/logo/{name}.png",
-      
-      
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "🎀快手号济宁裁缝大叔🎀山东移动",
-      "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN
-
-%E7%89%88.txt",
-      "playerType": 1,
-       "logo": "https://tb.zbds.top/logo/{name}.png",
- "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "timeout": 10,
-      "catchup": {
-        "days": "7",
-        "type": "append",
-        "regex": "/PLTV/",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
-        {
-      "name": "🎀快手号济宁裁缝大叔🎀 虎牙一起看🎀直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://live.freetv.top/huyayqk.m3u",
-      "ua": "",
-      "epg": "",
-      "logo": "",
-      "core": {
-        "auth": "local://tvbus",
-        "name": "",
-        "pass": "",
-        "resp": "",
-        "pkg": "",
-        "sign": "",
-        "so": "https://aries.yuanwangokk.nyc.mn/BhRw"
-      }
-    },
-{
-      "name": "🎀斗鱼一起看🎀快手号济宁裁缝大叔直播🎀",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
-   "logo": "https://tb.zbds.top/logo/{name}.png",
- "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "playerType": 2
-    }
-    ],
-    "hosts": [
-        "cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"
-    ],
-    "rules": [
-        {
-            "name": "ofiii[台湾节点]",
-            "hosts": [
-                "www.ofiii.com"
-            ],
-            "script": [
-                "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!
-
-0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!
-
-1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
-            ]
-        }
-    ]}
-
-
-
-
-
-
-
-
-
+"parses":[
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name": "飞云","type": 1,"url": "https://yparse.ik9.cc/index.php?url=","ext": {"flag": ["FYNB","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name": "米饭","type": 1,"url": "https://yparse.ik9.cc/index.php?url=","ext": {"flag": ["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"饭饭","type":1,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"全民","url":"http://api.wpsseo.cn/?v=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"8090","url":"https://jx.789jiexi.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"看看","type":0,"url":"https://jx.playerjy.com/?url="},
+{"name":"巧技","type":1,"url":"https://jx.playerjy.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"左岸","type":1,"url":"https://z1.im1907.top/?jx=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"世界","type":1,"url":"http://www.playm3u8.cn/jiexi.php?url=","ext":{"flag":["qq","mgtv","YuMi-vip"]}},
+{"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
+{"name":"云解析","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"爱豆","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}}
+],
+"flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
+"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+"rules":[
+{"name":"kk","hosts":["kuaikan"],"regex":["5","20.123","20.167","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"]},
+{"name":"yqk","hosts":["yqk"],"regex":["18.4","15.1666","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]},
+{"name":"sn","hosts":["suonizy"],"regex":["#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","15.1666","15.2666","16.3333","15.266667"]},
+{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz","yzzy1.play"],"regex":["18.5333","19.52","18.6666"]},
+{"name":"ff","hosts":["vip.ffzy","hd.ffzy","ffzy"],"regex":["25.0666","25.08","20.52","25.1","25.1999"]},
+{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
+]
+}

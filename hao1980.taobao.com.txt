@@ -400,6 +400,12 @@
 "searchable":1,
 "changeable":0
 },
+{"key":"看看影视","name":"🎄看看影视",
+ "type":3,
+ "api": "csp_XBPQ",
+ "ext":"https://www.panurl.cn/down.php/3b9d8dde78d2d299f7c0e864795408ae.txt&123"}, 
+
+
 {"key":"茶狐","name":"🎄精工影院",
  "type":3,
  "api": "csp_XBPQ",

@@ -127,7 +127,7 @@
 "分类url":"https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"}},
 
 {"key":"面23包",
-"name":"🇨🇳面包┃电影3",
+"name":"🇨🇳柠檬影院",
 "type":3,
 "api":"csp_XBPQ",
  "searchable": 1,
@@ -139,7 +139,7 @@
 "ext":"https://www.panurl.cn/down.php/4f1ddbfe2b1bd3c88094154bdb1a69ee&123"},
 	
 {"key":"面2包",
-"name":"🇨🇳面包┃电影2",
+"name":"🇨🇳VidHub",
 "type":3,
 "api":"csp_XBPQ",
  "searchable": 1,
@@ -149,10 +149,21 @@
        "playerType": 2,
 
 "ext":"https://gh.dpik.top/https://raw.githubusercontent.com/xiaoshuangdashu/tvbox/refs/heads/master/XBPQ/VidHub.json"},
+{"key":"面2包",
+"name":"🇨🇳VidHub",
+"type":3,
+"api":"csp_XBPQ",
+ "searchable": 1,
+"jar": "http://d.kstore.dev/download/8240/%E9%87%91%E7%89%8C.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+
+"ext":"./精工影院.json"},
 
 	
 {"key":"面包1",
-"name":"🇨🇳面包┃电影1",
+"name":"🇨🇳看看影视",
 "type":3,
 "api":"csp_XBPQ",
  "searchable": 1,

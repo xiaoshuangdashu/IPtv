@@ -1,5 +1,23 @@
-{"spider":"./酷狗🔹音乐.jar","wallpaper":"https://bing.img.run/uhd.php","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://127.0.0.1:9978/https://aries.yuanwangokk.nyc.mn/m2tt"]}]}],
-	"sites":[{"key":"天天","name":"高峰期用不了就点我换源或者搜索",
+{"spider":"./酷狗🔹音乐.jar","wallpaper":"https://bing.img.run/uhd.php", 
+	"lives": [
+   {
+       "name": "🎀1快手号济宁裁缝大叔🎀电视直播🈴🎀",
+      "type": 0,
+        "boot": true,
+       "url": "./12345.txt",
+      "logo": "https://tb.zbds.top/logo/{name}.png",
+       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+     
+      "playerType":1},
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://aries.yuanwangokk.nyc.mn/iQTt",
+        "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png"
+    }
+  ],
 "type":3,
 "jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
 "api":"csp_TTian",

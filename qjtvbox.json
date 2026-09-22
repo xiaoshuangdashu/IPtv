@@ -1,4 +1,5 @@
-{"spider":"https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar","wallpaper":"https://bing.img.run/uhd.php","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://127.0.0.1:9978/https://aries.yuanwangokk.nyc.mn/m2tt"]}]}],"sites":[{"key":"天天","name":"高峰期用不了就点我换源或者搜索",
+{"spider":"./酷狗🔹音乐.jar","wallpaper":"https://bing.img.run/uhd.php","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://127.0.0.1:9978/https://aries.yuanwangokk.nyc.mn/m2tt"]}]}],
+	"sites":[{"key":"天天","name":"高峰期用不了就点我换源或者搜索",
 "type":3,
 "jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
 "api":"csp_TTian",
@@ -7,12 +8,12 @@
       "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
       "name": "20265🎀TVB云播APP🎀",
       "type": 3,
-       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+       "api": "http://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
        "playerType": 2,
-      "ext": "http://d.kstore.dev/download/8240/%E5%8E%82%E9%95%BF.js"
+      "ext": ""
     },
 
 
@@ -287,13 +288,16 @@ http://cj.10010888.xyz/api.php/provide/vod",
     },
 
 	
-	{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"},
-	{"key":"AI2","name":"AI2┃仅搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"},
-	{"key":"AI3","name":"AI3┃仅搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k"},{"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang"},{"key":"Lib","name":"Lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"},
-	{"key":"NoSearch_csp_DiDuan","name":"低端┃无搜索","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-
+	{"key":"柠檬","name":"柠檬┃App","type":3,"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
+		"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"},
+	{"key":"AI2","name":"AI2┃仅搜索","type":3,"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
+		"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"},
+	{"key":"AI3","name":"AI3┃仅搜索","type":3,"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
+		"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k"},{"key":"Dygang","name":"电影港[边下边播]","type":3,"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
+		"api":"csp_Dygang"},
 	{"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
 
-	{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j"},
+	{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
+		"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j"},
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"6666666666666666"}],
 	"parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json轮询","type":2,"url":"Sequence"},{"name":"巧技","type":1,"url":"https://jx.77flv.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"巧技二","type":1,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},{"name":"巧技三","type":1,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["43.248.128.138"]}

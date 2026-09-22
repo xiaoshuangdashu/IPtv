@@ -1,7 +1,7 @@
 var rule={
   title: "火车太堵",
   模板: "自动",
-  host: "ttp://www.tdgo.shop",
+  host: "https://baipiaozhe3.com",
   url: "/vodtype/id/fyclassfyfilter.html",
   searchUrl: "/vodtype/search/page/fypage/wd/**.html",
   filterable: 1,

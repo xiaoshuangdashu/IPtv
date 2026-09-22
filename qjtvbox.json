@@ -1,5 +1,8 @@
-{"spider":"./酷狗🔹音乐.jar","wallpaper":"https://bing.img.run/uhd.php", 
-	"lives": [
+{"spider":"./酷狗🔹音乐.jar", "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png",
+ "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
+//数据接口====================================网站===============================================
+"warningText":"💕永久完全免费，切勿付费购买。资源来源网络，如有侵权联系删除💕", 
+"lives": [
    {
        "name": "🎀1快手号济宁裁缝大叔🎀电视直播🈴🎀",
       "type": 0,
@@ -18,11 +21,24 @@
       "logo": "https://epg.zbds.top/logo/{name}.png"
     }
   ],
+
+	
+  "sites": [{"key":"csp_豆瓣","name":"🌈防失联，关注快手号济宁裁缝大叔","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0},
+  
+    {"key":"天天","name":"高峰期用不了就点我换源或者搜索",
 "type":3,
 "jar": "https://gh.sevencdn.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/qiaoji/lh260223.jar",
 "api":"csp_TTian",
 "playerType":1,
-"ext":"7lj763gg0939791h1l3888jig44gi291li"},{
+"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+ {"key":"腾优爱芒B","name":"丨APP央库云.py","type":3,
+ "api":"./央库云.py",
+ "playerType": 2,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},{
       "key": "http://aries.yuanwangokk.nyc.mn/6MmB:dY7xfiQMXkYwCtYSpKfN2nbS",
       "name": "20265🎀TVB云播APP🎀",
       "type": 3,
@@ -75,7 +91,7 @@
 
         {"key":"csp_xlys","name":"修罗┃无搜索","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
 	{"key":"热播","name":"热播┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
-	{"key":"腾优芒B","name":"丨APP丨芒影视","type":3,
+	{"key":"腾优芒B1","name":"丨APP丨芒影视","type":3,
  "api":"https://www.panurl.cn/down.php/e99275f3e8332dca88b268117351acac.py&123",
  "playerType": 2,
 "filterable":1,

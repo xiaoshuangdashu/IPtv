@@ -294,7 +294,7 @@
 		    "key": "影视80",
 		    "name": "影视80┃",
 		    "type": 3,
-		    "api": "https://www.panurl.cn/down.php/5f1989060fbb37a224c3ec265e0e126a&123",
+		    "api": "./80影院.py",
 		    "searchable": 1,
 		    "changeable": 1
 	    },

@@ -3,25 +3,34 @@
 "wallpaper": "https://gitee.com/yanglongxiang/my/raw/master/%E5%A3%81%E7%BA%B8.png", 
 "logo":"https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif", 
 "spider": "http://d.kstore.dev/download/8240/spider.jar",
-"lives":[{
-      "name": "🎀0快手号济宁裁缝大叔🎀电视直播1",
+"lives":[ {"name": "🎀0快手号济宁裁缝大叔🎀电视直播0",
       "type": 0,
   
       "url": "https://aries.yuanwangokk.nyc.mn/m2tt",
        "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+       "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
     
-       "playerType":1
-     
+       "playerType":1  },
+    
  
-    },
     {
-      "name": "🎀01快手号济宁裁缝大叔🎀电视直播1",
+      "name": "🎀00快手号济宁裁缝大叔🎀四川省电信组播00",
+      "type": 0,
+    "auth": "local://tvbus",
+       "logo": "https://tb.zbds.top/logo/{name}.png",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+      "playerType": 1,
+     "url": "https://taoiptv.com/lives/51023.txt?token=fbb149029f703749",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    
+    {
+      "name": "🎀00快手号济宁裁缝大叔🎀电视直播1",
       "type": 0,
   
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
        "logo": "https://tb.zbds.top/logo/{name}.png",
-       "epg": "https://api.erw.cc/?ch={name}&date={date}",
+       "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
     
        "playerType":1
      
@@ -34,31 +43,31 @@
       "type": 0,
        "auth": "local://tvbus",
        "logo": "https://tb.zbds.top/logo/{name}.png",
-     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "playerType": 1,
-      "url": "https://aries.yuanwangokk.nyc.mn/2GFB",
+     "url": "https://aries.yuanwangokk.nyc.mn/WXix",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
      {
             "name": "AI2直播🎀快手号济宁裁缝大叔🎀",
             "type": 0,
              "logo": "https://tb.zbds.top/logo/{name}.png",
-            "epg": "https://api.erw.cc/?ch={name}&date={date}",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u"
+            "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+            "url": "https://gitee.com/gongzs783428/tv-source/raw/master/SDYD.m3u"
         },
     {
             "name": "AI3流畅央卫🎀快手号济宁裁缝大叔🎀",
             "type": 0,
           "logo": "https://tb.zbds.top/logo/{name}.png",
-     "epg": "https://api.erw.cc/?ch={name}&date={date}",
-            "url": "http://d.kstore.dev/download/8240/1107.txt"
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+            "url": "https://dl.kstore.dev/download/8240/1107.txt"
         },
         {
             "name": "4catvod.com(备用)",
             "type": 0,
              "logo": "https://tb.zbds.top/logo/{name}.png",
-             "epg": "https://api.erw.cc/?ch={name}&date={date}",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u"
+             "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+            "url": "https://eastscreen.tv/iptvlist.php?token=N1NcBAofAA0CHAALQFVFDgs"
         },
     
     
@@ -66,7 +75,7 @@
       "name": "AI5济宁移动2.txt🎀快手号济宁裁缝大叔🎀",
       "type": 0,
         "logo": "https://tb.zbds.top/logo/{name}.png",
-     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "url": "https://aries.yuanwangokk.nyc.mn/iQTt/%E6%B5%8E%E5%AE%81%E7%A7%BB%E5%8A%A82.txt",
       "playerType": 1,
       "timeout": 15
@@ -78,8 +87,8 @@
      {
       "name": "AI6电影🎀快手号济宁裁缝大叔🎀",
       "type": 0,
-     "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "url": "https://github.catvod.com/raw.githubusercontent.com/qinvision/TV/refs/heads/main/TV.txt",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+      "url": "https://ds65.tv1288.xyz/",
       "playerType": 1,
       "timeout": 20
     },
@@ -92,7 +101,7 @@
       "name": "🎀7快手号济宁裁缝大叔🎀电视直播11",
       "type": 0,
       "boot": true,
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "url": "https://aries.yuanwangokk.nyc.mn/w5i5",
        "logo": "https://tb.zbds.top/logo/{name}.png",
       
@@ -103,15 +112,15 @@
  
     },
     {"name":"8🈴🎀快手号济宁裁缝大叔🎀22","type": 0,"boot": true,"logo": "https://epg.zbds.top/logo/{name}.png",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
        "ua": "AptvPlayer-UA",
-      "timeout": "15","url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u","playerType": 1},
+      "timeout": "15","url": "https://eastscreen.tv/iptvlist.php?token=N1NcBAofAA0CHAALQFVFDgs","playerType": 1},
      {
       "name": "🎀快手号济宁裁缝大叔🎀电视2",
       "type": 0,
       "url": "https://github.catvod.com/https://raw.githubusercontent.com/xiaoshuangdashu/IPtv/refs/heads/main/12345.txt",
        "logo": "https://epg.zbds.top/logo/{name}.png",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "playerType": 1,
        "timeout": 20,
       "catchup": {
@@ -135,7 +144,7 @@
       "boot": true,
       "url": "https://aries.yuanwangokk.nyc.mn/KcnF",
        "logo": "https://epg.zbds.top/logo/{name}.png",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
        "ua": "AptvPlayer-UA",
       "timeout": "10",
       "playerType": 1
@@ -146,7 +155,7 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
        "logo": "https://epg.zbds.top/logo/{name}.png",
-        "epg": "https://api.erw.cc/?ch={name}&date={date}",
+        "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "playerType": 2
     },
     {
@@ -154,7 +163,7 @@
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
       "playerType": 1,
-     "epg": "https://api.erw.cc/?ch={name}&date={date}",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png",
       "timeout": 10,
       "catchup": {
@@ -169,7 +178,7 @@
       "type": 0,
       "url": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94%E6%8E%A5%E5%8F%A3.txt",
       "playerType":1,
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png",
       "timeout": 10,
       "catchup": {
@@ -180,13 +189,13 @@
       }
     },
     {
-      "name": "🎀快手号济宁裁缝大叔🎀2026移动联播7",
+      "name": "🎀快手号济宁裁缝大叔🎀2026山东移动39内网.txt7",
       "type": 0,
        "boot": true,
-      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/aaliaaa/iptv3udpxyall/main/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A839%E5%86%85%E7%BD%91.txt",
+      "url": "https://wget.la/https://raw.githubusercontent.com/aaliaaa/iptv3udpxyall/main/%E5%B1%B1%E4%B8%9C%E7%A7%BB%E5%8A%A839%E5%86%85%E7%BD%91.txt",
       "playerType":1,
       "ua":"okhttp/3.15,AptvPlayer/1.4.0",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png",
       "timeout":20
     
@@ -212,7 +221,7 @@
       "timeout": 10
     },
     {
-      "name": "🎀快手号济宁裁缝大叔🎀山东移动10",
+      "name": "🎀快手号济宁裁缝大叔🎀山东SNM移动中兴平台CDN版10",
       "type": 0,
          "url": "https://gitee.com/bro_fei/iptv/raw/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8%E4%B8%AD%E5%85%B4%E5%B9%B3%E5%8F%B0CDN%E7%89%88.m3u",
       "playerType": 1,
@@ -253,7 +262,7 @@
             "name": "最强国内直播(250831)13",
             "type": 0,
             "pass": true,
-            "url": "https://gh.xxooo.cf/https://github.com/wwb521/live/raw/refs/heads/main/tv.txt",
+            "url": "https://wget.la/https://github.com/wwb521/live/raw/refs/heads/main/tv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
                 "logo": "https://epg.zbds.top/logo/{name}.png",
@@ -280,7 +289,7 @@
         {
             "name": "0909  15",
             "type": 0,
-            "url": "https://t.freetv.fun/m3u/entertainment.txt",
+            "url": "https://eastscreen.tv/iptvlist.php?token=N1NcBAofAA0CHAALQFVFDgs",
             "ua": "okhttp/3.15",
                 "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
       "logo": "https://epg.zbds.top/logo/{name}.png",
@@ -294,7 +303,7 @@
             "type": 0,
             "url": "https://gitee.com/lwr851/live/raw/master/iptv.m3u",
            "ua": "okhttp/3.8.1",
-                 "epg": "https://api.erw.cc/?ch={name}&date={date}",
+                 "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png",
             "catchup": {
                 "type": "append",
@@ -306,7 +315,7 @@
             "type": 0,
             "url": "https://eastscreen.tv/iptvlist.php?token=LlNDBB0DBxYBAgcWS1RHDAQGCQA",
             "ua": "okhttp/3.15",
-                 "epg": "https://api.erw.cc/?ch={name}&date={date}",
+                 "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "logo": "https://epg.zbds.top/logo/{name}.png",
             "catchup": {
                 "type": "append",
@@ -314,9 +323,9 @@
             }
         },
         {
-            "name": "BJYD(EPG-3天回看18)",
+            "name": "四川省 移动成都市(EPG-3天回看18)",
             "type": 0,  
-            "url": "https://eastscreen.tv/iptvlist.php?token=N1NDBB0DBxYBAgcWS1RHDAQGCQA",
+            "url": "https://taoiptv.com/lives/51025.txt?token=32796aa13735e5ca",
      
            "ua": "okhttp/3.8.1",
                  "epg": "http://epg.51zmt.top:8000/e.xml/?ch={name}&date={date}",
@@ -351,21 +360,52 @@
        "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
       "playerType": 1
     },
-{"name":"演唱会.txt","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%BC%94%E5%94%B1%E4%BC%9A.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"YanG•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"drang•ipv6","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"范明明•ipv6","type":0,"url":"https://fastly.jsdelivr.net/gh/xiaoshuangdashu/yang@main/%E7%BB%BC%E5%90%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"YueChan•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"Yoursmile•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"新闻•综合","type":0,"url":"https://t.freetv.fun/m3u/news.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
-{"name":"山东SNM移动CDN版.txt","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"Ray•综合","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"组播_四川移动快手号济宁裁缝大叔直播🎀21",
+"type":0,
+"url":"https://wget.la/https://github.com/Aurecod/iptv-zb/blob/main/%E7%BB%84%E6%92%AD_%E5%9B%9B%E5%B7%9D%E7%A7%BB%E5%8A%A8.txt",
+"playerType":1,
+"epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+"logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"YanG•综合",
+"type":0,
+"url":"https://wget.la/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+"playerType":1,
+"epg":"https://tb.zbds.top/?ch={name}&date={date}",
+"logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"山东SNM移动CDN版.txt","type":0,
+"url":"https://wget.la/https://raw.githubusercontent.com/SPX372928/MyIPTV/refs/heads/master/%E5%B1%B1%E4%B8%9CSNM%E7%A7%BB%E5%8A%A8CDN%E7%89%88.txt",
+"playerType":1,
+"epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+"logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"drang济宁裁缝大叔山东联通•ipv6","type":0,
+"url":"https://taoiptv.com/lives/37024.txt?token=a37e6378b781ed51",
+"playerType":1,
+"epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+"logo":"https://tb.zbds.top/logo/{name}.png"},
 
+{"name":"济宁裁缝大叔直播•山东电信","type":0,
+//"url":"https://wget.la/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+"url":"https://taoiptv.com/lives/37023.txt?token=fbb149029f703749",
+"playerType":1,
+"epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+"logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"济宁裁缝大叔Yoursmile•综合","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"济宁裁缝大叔新闻•综合","type":0,"url":"https://iptv.445569.xyz/live.m3u","playerType":1,"ua": "okhttp/3.15","epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
 
-{"name":"电影•MV","type":0,
-"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ",
-"playerType":1, "epg": "https://api.erw.cc/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"济宁裁缝大叔Ray•综合","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"https://taoiptv.com/lives/51025.txt?token=32796aa13735e5ca","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"济宁裁缝大叔直播•综合.txt","type":0,"url":"https://fastly.jsdelivr.net/gh/xiaoshuangdashu/yang@main/%E7%BB%BC%E5%90%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
+
+{"name":"广东移动快手号济宁裁缝大叔直播🎀2电影•MV","type":0,
+"url":"https://taoiptv.com/lives/44025.txt?token=fbb149029f703749",
+"playerType":1, 
+"epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+"logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"所有國家/地區可用",
+"type":0,
+"epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ"}，
+       
 {"name":"所有國家/地區可用",
 "type":0,
  "epg": "https://api.erw.cc/?ch={name}&date={date}",

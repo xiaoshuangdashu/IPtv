@@ -20,7 +20,7 @@
        "logo": "https://tb.zbds.top/logo/{name}.png",
      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
       "playerType": 1,
-     "url": "https://taoiptv.com/lives/51023.txt?token=fbb149029f703749",
+     "url": "https://taoiptv.com/lives/51023.txt?token=7f796996c123d3af",
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     
@@ -114,7 +114,7 @@
     {"name":"8🈴🎀快手号济宁裁缝大叔🎀22","type": 0,"boot": true,"logo": "https://epg.zbds.top/logo/{name}.png",
       "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
        "ua": "AptvPlayer-UA",
-      "timeout": "15","url": "https://eastscreen.tv/iptvlist.php?token=N1NcBAofAA0CHAALQFVFDgs","playerType": 1},
+      "timeout": "15","url": "https://eastscreen.tv/iptvlist.php?token=LlNCAB0EAxYBAwgWS1dLDAIDAgw","playerType": 1},
      {
       "name": "🎀快手号济宁裁缝大叔🎀电视2",
       "type": 0,
@@ -325,7 +325,7 @@
         {
             "name": "四川省 移动成都市(EPG-3天回看18)",
             "type": 0,  
-            "url": "https://taoiptv.com/lives/51025.txt?token=32796aa13735e5ca",
+            "url": "https://taoiptv.com/lives/51025.txt?token=7f796996c123d3af",
      
            "ua": "okhttp/3.8.1",
                  "epg": "http://epg.51zmt.top:8000/e.xml/?ch={name}&date={date}",
@@ -378,14 +378,14 @@
 "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
 "logo":"https://tb.zbds.top/logo/{name}.png"},
 {"name":"drang济宁裁缝大叔山东联通•ipv6","type":0,
-"url":"https://taoiptv.com/lives/37024.txt?token=a37e6378b781ed51",
+"url":"https://taoiptv.com/lives/37024.txt?token=7f796996c123d3af",
 "playerType":1,
 "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
 "logo":"https://tb.zbds.top/logo/{name}.png"},
 
 {"name":"济宁裁缝大叔直播•山东电信","type":0,
 //"url":"https://wget.la/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-"url":"https://taoiptv.com/lives/37023.txt?token=fbb149029f703749",
+"url":"https://taoiptv.com/lives/37023.txt?token=7f796996c123d3af",
 "playerType":1,
 "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
 "logo":"https://tb.zbds.top/logo/{name}.png"},
@@ -393,23 +393,23 @@
 {"name":"济宁裁缝大叔新闻•综合","type":0,"url":"https://iptv.445569.xyz/live.m3u","playerType":1,"ua": "okhttp/3.15","epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
 
 {"name":"济宁裁缝大叔Ray•综合","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
-{"name":"俊于•综合","type":0,"url":"https://taoiptv.com/lives/51025.txt?token=32796aa13735e5ca","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"https://taoiptv.com/lives/51025.txt?token=7f796996c123d3af","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo": "https://tb.zbds.top/logo/{name}.png"},
 {"name":"济宁裁缝大叔直播•综合.txt","type":0,"url":"https://fastly.jsdelivr.net/gh/xiaoshuangdashu/yang@main/%E7%BB%BC%E5%90%88.txt","playerType":1,"epg":"https://tb.zbds.top/?ch={name}&date={date}","logo":"https://tb.zbds.top/logo/{name}.png"},
 
 {"name":"广东移动快手号济宁裁缝大叔直播🎀2电影•MV","type":0,
-"url":"https://taoiptv.com/lives/44025.txt?token=fbb149029f703749",
+"url":"https://taoiptv.com/lives/51025.txt?token=7f796996c123d3af",
 "playerType":1, 
 "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
 "logo": "https://tb.zbds.top/logo/{name}.png"},
 {"name":"所有國家/地區可用",
 "type":0,
 "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
-"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ"}，
+"url":"https://eastscreen.tv/iptvlist.php?token=LlNDAB0CHwoEBx8KSVBIBwECBQ"}，
        
 {"name":"所有國家/地區可用",
 "type":0,
  "epg": "https://api.erw.cc/?ch={name}&date={date}",
-"url":"https://eastscreen.tv/iptvlist.php?token=LlFLGAIBBhYJBx8JQlBIBQMBAQ"}
+"url":"https://aries.yuanwangokk.nyc.mn/WXix"}
 ],
 "sites":[{"key":"csp_豆瓣",
 "name":"🌈防失联，关注快手号济宁裁缝大叔",
@@ -440,6 +440,71 @@
 "searchable":1,
 "changeable":0
 },
+{
+      "key": "第七电影网",
+      "name": "🇨🇳第七电影网┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"简介": "剧情介绍: +style=\"fed-part-esan;\"&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+         "线路标题": "裁缝大叔专线",
+         "副标题":"裁缝在线+module-item-note&&</div>",
+        "简介": "剧情介绍: +style=\"display: none;\"&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://akxhsd.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+
+
+    "分类": "电影$1#连续剧$2#综艺记录$2#动漫$4"    }
+    },
+
+
+     {
+      "key": "csp_bajie",
+    
+  "name": "八戒影院",
+ 
+     "type": 3,
+  
+    "api": "https://dl.kstore.dev/download/8240/%E6%96%B0%E8%A7%86%E8%A7%89.py",
+   
+ "playerType": 2,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"changeable":0
+},
+
+
+
+
+{"key":"csp_XBiuGimyTW","name":"🇹🇼｜劇迷｜TW(XB)",
+"type": 3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"请求头": "User-Agent$MOBILE_UA","线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "裁缝大叔专线",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+              
+"分类url":"https://gimytw.cc/{cateId}[https://gimytw.cc];;ak",
+"分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety"}},
+
+
+{"key":"艾旦资源","name":"❤️｜艾旦資源",
+"type": 3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{
+        
+              
+"分类url":"https://ddmf.net/vodshow/2-----------.html;;ak",
+"分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety"}},
+
+
+
 {"key":"看看影视","name":"🎄看看影视",
  "type":3,
  "api": "csp_XBPQ",

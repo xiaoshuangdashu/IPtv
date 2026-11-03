@@ -13,17 +13,15 @@
        "playerType":1  },
     
  
-    {
-      "name": "🎀00快手号济宁裁缝大叔🎀四川省电信组播00",
+  
+    {"name": "🎀00快手号济宁裁缝大叔🎀电视直播00",
       "type": 0,
-    "auth": "local://tvbus",
+  
+      "url": "https://aries.yuanwangokk.nyc.mn/84dB",
        "logo": "https://tb.zbds.top/logo/{name}.png",
-     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
-      "playerType": 1,
-     "url": "https://aries.yuanwangokk.nyc.mn/84dB",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
+       "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
     
+       "playerType":1  },
     {
       "name": "🎀00快手号济宁裁缝大叔🎀电视直播1",
       "type": 0,

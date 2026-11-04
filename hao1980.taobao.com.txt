@@ -12,7 +12,54 @@
     
        "playerType":1  },
     
- 
+   {
+      "name": "🎀快手号济宁裁缝大叔🎀电视2",
+      "type": 0,
+      "url": "https://github.catvod.com/https://raw.githubusercontent.com/xiaoshuangdashu/IPtv/refs/heads/main/12345.txt",
+       "logo": "https://epg.zbds.top/logo/{name}.png",
+      "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+      "playerType": 1,
+       "timeout": 20,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+
+
+
+{
+            "name": "AI3直播🎀快手号济宁裁缝大叔🎀3",
+            "type": 0,
+             "logo": "https://tb.zbds.top/logo/{name}.png",
+            "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/2.txt"
+        },
+    {
+            "name": "AI4流畅央卫🎀快手号济宁裁缝大叔🎀4",
+            "type": 0,
+          "logo": "https://tb.zbds.top/logo/{name}.png",
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+            "url": "https://wget.la/https://github.com/Aurecod/iptv-zb/blob/main/%E7%BB%84%E6%92%AD_%E5%9B%9B%E5%B7%9D%E7%A7%BB%E5%8A%A8.txt"
+        },
+
+{
+      "name": "5🎀快手号济宁裁缝大叔🎀live-5",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt",
+      "playerType": 1,
+     "epg": "https://diyp.epg.qzz.io/?ch={name}&date={date}",
+      "logo": "https://epg.zbds.top/logo/{name}.png",
+      "timeout": 10,
+      "catchup": {
+        "days": "7",
+        "type": "append",
+        "regex": "/PLTV/",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
   
     {"name": "🎀00快手号济宁裁缝大叔🎀电视直播00",
       "type": 0,
@@ -22,6 +69,7 @@
        "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
     
        "playerType":1  }
+
 ],
 "sites":[{"key":"csp_豆瓣",
 "name":"🌈防失联，关注快手号济宁裁缝大叔",
